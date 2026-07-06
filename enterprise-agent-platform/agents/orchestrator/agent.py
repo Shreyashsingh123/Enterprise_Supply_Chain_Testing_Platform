@@ -93,11 +93,9 @@ class WorkflowOrchestrator:
                     execution,
                     list
                 ):
-
                     all_executions.extend(
                         execution
                     )
-
                 else:
 
                     all_executions.append(
@@ -109,7 +107,6 @@ class WorkflowOrchestrator:
             )
 
             # STEP 4 - VALIDATION
-
             validation = await validate_data()
 
             audit_log(
