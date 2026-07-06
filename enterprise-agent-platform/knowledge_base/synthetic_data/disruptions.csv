@@ -1,0 +1,5001 @@
+event_id,event_type,severity,impact_score
+DIS00001,Earthquake,High,58
+DIS00002,Flood,Medium,8
+DIS00003,Supplier Failure,Medium,65
+DIS00004,Supplier Failure,Medium,63
+DIS00005,Supplier Failure,Medium,78
+DIS00006,Earthquake,Low,9
+DIS00007,Supplier Failure,Medium,89
+DIS00008,Supplier Failure,Low,25
+DIS00009,Supplier Failure,High,63
+DIS00010,Earthquake,High,29
+DIS00011,Port Closure,Low,2
+DIS00012,Flood,Low,61
+DIS00013,Port Closure,Low,81
+DIS00014,Flood,Medium,51
+DIS00015,Cyber Attack,Low,16
+DIS00016,Cyber Attack,High,24
+DIS00017,Supplier Failure,High,75
+DIS00018,Port Closure,Medium,24
+DIS00019,Flood,Medium,90
+DIS00020,Cyber Attack,Medium,82
+DIS00021,Flood,High,29
+DIS00022,Cyber Attack,Medium,9
+DIS00023,Port Closure,Low,76
+DIS00024,Port Closure,Medium,71
+DIS00025,Earthquake,Low,88
+DIS00026,Cyber Attack,High,47
+DIS00027,Flood,Medium,93
+DIS00028,Cyber Attack,Low,62
+DIS00029,Cyber Attack,Medium,77
+DIS00030,Port Closure,High,84
+DIS00031,Supplier Failure,Medium,66
+DIS00032,Cyber Attack,Medium,14
+DIS00033,Earthquake,High,37
+DIS00034,Flood,High,56
+DIS00035,Port Closure,Low,17
+DIS00036,Port Closure,Medium,29
+DIS00037,Flood,Medium,15
+DIS00038,Supplier Failure,Medium,27
+DIS00039,Earthquake,Medium,43
+DIS00040,Supplier Failure,High,19
+DIS00041,Supplier Failure,High,47
+DIS00042,Earthquake,Low,19
+DIS00043,Flood,Medium,84
+DIS00044,Cyber Attack,Low,75
+DIS00045,Earthquake,Medium,14
+DIS00046,Port Closure,High,9
+DIS00047,Flood,Low,26
+DIS00048,Supplier Failure,Low,98
+DIS00049,Port Closure,Medium,42
+DIS00050,Earthquake,Medium,11
+DIS00051,Supplier Failure,Low,19
+DIS00052,Supplier Failure,High,86
+DIS00053,Supplier Failure,Medium,3
+DIS00054,Supplier Failure,Medium,99
+DIS00055,Cyber Attack,High,37
+DIS00056,Flood,High,78
+DIS00057,Port Closure,High,79
+DIS00058,Flood,Medium,26
+DIS00059,Earthquake,High,17
+DIS00060,Cyber Attack,Low,43
+DIS00061,Supplier Failure,High,53
+DIS00062,Cyber Attack,Medium,100
+DIS00063,Earthquake,High,62
+DIS00064,Flood,Low,85
+DIS00065,Port Closure,High,96
+DIS00066,Port Closure,High,44
+DIS00067,Supplier Failure,Low,64
+DIS00068,Port Closure,Medium,19
+DIS00069,Port Closure,Medium,64
+DIS00070,Flood,Low,51
+DIS00071,Supplier Failure,Medium,36
+DIS00072,Port Closure,Medium,89
+DIS00073,Earthquake,Medium,13
+DIS00074,Cyber Attack,High,79
+DIS00075,Supplier Failure,Low,50
+DIS00076,Port Closure,High,52
+DIS00077,Earthquake,Medium,15
+DIS00078,Supplier Failure,Low,75
+DIS00079,Earthquake,High,57
+DIS00080,Cyber Attack,High,42
+DIS00081,Cyber Attack,Low,41
+DIS00082,Earthquake,Medium,21
+DIS00083,Supplier Failure,High,9
+DIS00084,Cyber Attack,High,3
+DIS00085,Earthquake,Low,56
+DIS00086,Cyber Attack,Medium,87
+DIS00087,Earthquake,High,37
+DIS00088,Port Closure,Medium,4
+DIS00089,Flood,Medium,35
+DIS00090,Flood,High,3
+DIS00091,Flood,Medium,10
+DIS00092,Supplier Failure,High,96
+DIS00093,Port Closure,High,33
+DIS00094,Port Closure,High,13
+DIS00095,Supplier Failure,Low,38
+DIS00096,Flood,Medium,53
+DIS00097,Flood,High,92
+DIS00098,Earthquake,Medium,98
+DIS00099,Earthquake,Medium,52
+DIS00100,Cyber Attack,Low,51
+DIS00101,Earthquake,High,50
+DIS00102,Earthquake,Medium,2
+DIS00103,Supplier Failure,High,5
+DIS00104,Earthquake,Medium,17
+DIS00105,Port Closure,High,95
+DIS00106,Earthquake,Low,78
+DIS00107,Supplier Failure,High,22
+DIS00108,Supplier Failure,High,37
+DIS00109,Earthquake,Medium,20
+DIS00110,Supplier Failure,Low,53
+DIS00111,Cyber Attack,Medium,94
+DIS00112,Flood,Low,57
+DIS00113,Supplier Failure,Medium,32
+DIS00114,Flood,Low,33
+DIS00115,Port Closure,Low,96
+DIS00116,Earthquake,High,85
+DIS00117,Port Closure,Medium,82
+DIS00118,Flood,Low,73
+DIS00119,Earthquake,High,36
+DIS00120,Earthquake,Medium,54
+DIS00121,Flood,High,55
+DIS00122,Port Closure,Low,55
+DIS00123,Port Closure,Low,83
+DIS00124,Earthquake,Medium,7
+DIS00125,Cyber Attack,High,46
+DIS00126,Port Closure,Medium,87
+DIS00127,Port Closure,High,21
+DIS00128,Earthquake,Medium,99
+DIS00129,Supplier Failure,Medium,33
+DIS00130,Earthquake,High,50
+DIS00131,Cyber Attack,Low,19
+DIS00132,Supplier Failure,High,85
+DIS00133,Flood,Low,26
+DIS00134,Cyber Attack,Medium,49
+DIS00135,Flood,Low,7
+DIS00136,Port Closure,High,86
+DIS00137,Flood,High,42
+DIS00138,Port Closure,Medium,43
+DIS00139,Earthquake,High,16
+DIS00140,Earthquake,Low,74
+DIS00141,Cyber Attack,Low,32
+DIS00142,Port Closure,High,7
+DIS00143,Supplier Failure,High,61
+DIS00144,Supplier Failure,Low,7
+DIS00145,Cyber Attack,High,50
+DIS00146,Flood,Medium,96
+DIS00147,Supplier Failure,Low,10
+DIS00148,Supplier Failure,Medium,63
+DIS00149,Flood,Medium,20
+DIS00150,Cyber Attack,Low,94
+DIS00151,Port Closure,Low,16
+DIS00152,Earthquake,Medium,3
+DIS00153,Earthquake,Low,38
+DIS00154,Supplier Failure,Low,35
+DIS00155,Earthquake,High,4
+DIS00156,Earthquake,Medium,41
+DIS00157,Flood,Low,78
+DIS00158,Port Closure,High,72
+DIS00159,Cyber Attack,Low,43
+DIS00160,Flood,Low,22
+DIS00161,Flood,Medium,11
+DIS00162,Cyber Attack,High,47
+DIS00163,Supplier Failure,Low,91
+DIS00164,Port Closure,High,37
+DIS00165,Earthquake,High,10
+DIS00166,Port Closure,Medium,98
+DIS00167,Flood,High,77
+DIS00168,Earthquake,Low,2
+DIS00169,Flood,High,37
+DIS00170,Earthquake,High,14
+DIS00171,Port Closure,Medium,28
+DIS00172,Cyber Attack,High,35
+DIS00173,Earthquake,Low,44
+DIS00174,Port Closure,High,51
+DIS00175,Port Closure,Medium,1
+DIS00176,Supplier Failure,High,59
+DIS00177,Cyber Attack,Low,60
+DIS00178,Cyber Attack,Medium,28
+DIS00179,Supplier Failure,Medium,87
+DIS00180,Port Closure,Low,3
+DIS00181,Earthquake,Medium,100
+DIS00182,Earthquake,Low,89
+DIS00183,Cyber Attack,Low,90
+DIS00184,Port Closure,High,88
+DIS00185,Port Closure,Low,32
+DIS00186,Cyber Attack,High,9
+DIS00187,Supplier Failure,High,11
+DIS00188,Cyber Attack,Medium,43
+DIS00189,Flood,Medium,24
+DIS00190,Flood,Medium,17
+DIS00191,Supplier Failure,Medium,14
+DIS00192,Port Closure,High,46
+DIS00193,Port Closure,Medium,67
+DIS00194,Flood,Low,17
+DIS00195,Supplier Failure,Medium,88
+DIS00196,Port Closure,High,54
+DIS00197,Flood,High,99
+DIS00198,Flood,High,34
+DIS00199,Flood,Low,74
+DIS00200,Cyber Attack,High,43
+DIS00201,Flood,High,32
+DIS00202,Flood,High,64
+DIS00203,Flood,Low,43
+DIS00204,Flood,Low,78
+DIS00205,Cyber Attack,High,47
+DIS00206,Supplier Failure,Low,98
+DIS00207,Earthquake,High,93
+DIS00208,Supplier Failure,High,25
+DIS00209,Supplier Failure,High,21
+DIS00210,Port Closure,Medium,22
+DIS00211,Cyber Attack,Medium,10
+DIS00212,Cyber Attack,High,94
+DIS00213,Cyber Attack,High,68
+DIS00214,Cyber Attack,Medium,66
+DIS00215,Earthquake,Medium,30
+DIS00216,Supplier Failure,Low,3
+DIS00217,Port Closure,High,22
+DIS00218,Flood,High,67
+DIS00219,Earthquake,Medium,15
+DIS00220,Supplier Failure,Medium,76
+DIS00221,Port Closure,Medium,83
+DIS00222,Supplier Failure,Low,17
+DIS00223,Port Closure,Low,88
+DIS00224,Flood,Medium,98
+DIS00225,Cyber Attack,Medium,59
+DIS00226,Cyber Attack,Medium,18
+DIS00227,Flood,High,16
+DIS00228,Flood,Medium,74
+DIS00229,Supplier Failure,Low,6
+DIS00230,Cyber Attack,Medium,95
+DIS00231,Port Closure,Medium,26
+DIS00232,Flood,High,57
+DIS00233,Cyber Attack,Low,31
+DIS00234,Supplier Failure,High,33
+DIS00235,Earthquake,Medium,24
+DIS00236,Port Closure,Low,65
+DIS00237,Earthquake,Low,84
+DIS00238,Cyber Attack,Low,19
+DIS00239,Cyber Attack,Low,97
+DIS00240,Flood,High,74
+DIS00241,Port Closure,Medium,22
+DIS00242,Earthquake,Medium,3
+DIS00243,Supplier Failure,Medium,50
+DIS00244,Port Closure,Medium,26
+DIS00245,Cyber Attack,High,26
+DIS00246,Port Closure,High,1
+DIS00247,Earthquake,High,29
+DIS00248,Supplier Failure,High,81
+DIS00249,Flood,Medium,70
+DIS00250,Cyber Attack,Low,91
+DIS00251,Port Closure,Low,27
+DIS00252,Supplier Failure,Medium,81
+DIS00253,Port Closure,Low,46
+DIS00254,Cyber Attack,Low,77
+DIS00255,Flood,Low,78
+DIS00256,Cyber Attack,High,87
+DIS00257,Flood,Low,61
+DIS00258,Supplier Failure,High,24
+DIS00259,Supplier Failure,High,4
+DIS00260,Flood,High,47
+DIS00261,Port Closure,High,60
+DIS00262,Port Closure,High,7
+DIS00263,Port Closure,Medium,64
+DIS00264,Flood,Low,75
+DIS00265,Supplier Failure,Low,65
+DIS00266,Supplier Failure,Low,93
+DIS00267,Flood,Medium,98
+DIS00268,Flood,Medium,7
+DIS00269,Flood,Medium,78
+DIS00270,Supplier Failure,Medium,21
+DIS00271,Earthquake,Medium,26
+DIS00272,Earthquake,Low,54
+DIS00273,Flood,Medium,55
+DIS00274,Flood,Low,39
+DIS00275,Supplier Failure,Medium,66
+DIS00276,Port Closure,High,19
+DIS00277,Port Closure,High,81
+DIS00278,Flood,Medium,42
+DIS00279,Earthquake,High,17
+DIS00280,Supplier Failure,High,26
+DIS00281,Supplier Failure,Low,44
+DIS00282,Cyber Attack,Medium,79
+DIS00283,Flood,High,31
+DIS00284,Flood,High,3
+DIS00285,Cyber Attack,Low,15
+DIS00286,Port Closure,Medium,59
+DIS00287,Earthquake,High,11
+DIS00288,Supplier Failure,Medium,43
+DIS00289,Port Closure,Low,50
+DIS00290,Supplier Failure,Low,10
+DIS00291,Supplier Failure,High,45
+DIS00292,Supplier Failure,Medium,33
+DIS00293,Earthquake,High,10
+DIS00294,Cyber Attack,High,6
+DIS00295,Cyber Attack,Low,34
+DIS00296,Supplier Failure,Medium,19
+DIS00297,Earthquake,High,97
+DIS00298,Cyber Attack,Medium,10
+DIS00299,Supplier Failure,Medium,25
+DIS00300,Flood,High,29
+DIS00301,Port Closure,Low,33
+DIS00302,Cyber Attack,Medium,67
+DIS00303,Port Closure,Medium,97
+DIS00304,Flood,Medium,55
+DIS00305,Earthquake,Medium,3
+DIS00306,Earthquake,Medium,58
+DIS00307,Supplier Failure,Medium,23
+DIS00308,Port Closure,Low,100
+DIS00309,Earthquake,Low,35
+DIS00310,Cyber Attack,High,3
+DIS00311,Cyber Attack,High,26
+DIS00312,Supplier Failure,High,72
+DIS00313,Port Closure,High,10
+DIS00314,Flood,Medium,100
+DIS00315,Earthquake,High,74
+DIS00316,Cyber Attack,Low,8
+DIS00317,Cyber Attack,High,79
+DIS00318,Port Closure,Medium,14
+DIS00319,Earthquake,High,12
+DIS00320,Port Closure,Medium,48
+DIS00321,Earthquake,Medium,39
+DIS00322,Earthquake,Medium,43
+DIS00323,Earthquake,Medium,69
+DIS00324,Cyber Attack,Medium,21
+DIS00325,Port Closure,Low,94
+DIS00326,Port Closure,Medium,36
+DIS00327,Earthquake,Medium,35
+DIS00328,Supplier Failure,Low,49
+DIS00329,Supplier Failure,Medium,45
+DIS00330,Flood,Medium,19
+DIS00331,Earthquake,Low,11
+DIS00332,Earthquake,Low,39
+DIS00333,Flood,High,100
+DIS00334,Earthquake,Medium,57
+DIS00335,Port Closure,High,74
+DIS00336,Port Closure,Low,97
+DIS00337,Cyber Attack,High,71
+DIS00338,Cyber Attack,High,42
+DIS00339,Cyber Attack,High,19
+DIS00340,Earthquake,Medium,71
+DIS00341,Earthquake,High,49
+DIS00342,Supplier Failure,Low,77
+DIS00343,Earthquake,High,68
+DIS00344,Cyber Attack,Medium,58
+DIS00345,Flood,High,17
+DIS00346,Cyber Attack,Medium,36
+DIS00347,Port Closure,High,25
+DIS00348,Port Closure,Medium,66
+DIS00349,Flood,High,11
+DIS00350,Earthquake,Medium,79
+DIS00351,Supplier Failure,High,15
+DIS00352,Supplier Failure,Low,48
+DIS00353,Supplier Failure,Low,51
+DIS00354,Flood,Medium,60
+DIS00355,Cyber Attack,Medium,24
+DIS00356,Cyber Attack,Low,91
+DIS00357,Port Closure,Medium,39
+DIS00358,Earthquake,Medium,78
+DIS00359,Port Closure,High,9
+DIS00360,Cyber Attack,Low,57
+DIS00361,Supplier Failure,Low,54
+DIS00362,Flood,High,87
+DIS00363,Cyber Attack,High,100
+DIS00364,Flood,High,17
+DIS00365,Flood,High,70
+DIS00366,Port Closure,High,13
+DIS00367,Flood,Low,65
+DIS00368,Port Closure,High,3
+DIS00369,Cyber Attack,High,46
+DIS00370,Port Closure,High,16
+DIS00371,Supplier Failure,Low,63
+DIS00372,Flood,Low,100
+DIS00373,Earthquake,Low,50
+DIS00374,Earthquake,Low,99
+DIS00375,Supplier Failure,High,46
+DIS00376,Supplier Failure,Medium,31
+DIS00377,Flood,High,73
+DIS00378,Earthquake,High,49
+DIS00379,Port Closure,Medium,65
+DIS00380,Earthquake,Medium,40
+DIS00381,Flood,Low,65
+DIS00382,Earthquake,Medium,1
+DIS00383,Cyber Attack,Medium,3
+DIS00384,Flood,High,75
+DIS00385,Supplier Failure,High,37
+DIS00386,Flood,High,56
+DIS00387,Earthquake,Low,83
+DIS00388,Earthquake,High,23
+DIS00389,Cyber Attack,Medium,34
+DIS00390,Flood,Low,45
+DIS00391,Flood,Low,20
+DIS00392,Supplier Failure,Low,16
+DIS00393,Port Closure,Medium,70
+DIS00394,Cyber Attack,High,10
+DIS00395,Supplier Failure,High,35
+DIS00396,Supplier Failure,High,82
+DIS00397,Supplier Failure,Medium,70
+DIS00398,Earthquake,Medium,13
+DIS00399,Port Closure,High,15
+DIS00400,Earthquake,Low,96
+DIS00401,Cyber Attack,Low,18
+DIS00402,Port Closure,Low,51
+DIS00403,Earthquake,Low,59
+DIS00404,Earthquake,High,3
+DIS00405,Supplier Failure,Low,31
+DIS00406,Cyber Attack,Medium,5
+DIS00407,Supplier Failure,Medium,52
+DIS00408,Earthquake,Low,19
+DIS00409,Cyber Attack,High,89
+DIS00410,Supplier Failure,Low,59
+DIS00411,Port Closure,High,35
+DIS00412,Earthquake,High,41
+DIS00413,Cyber Attack,Low,100
+DIS00414,Earthquake,Medium,80
+DIS00415,Supplier Failure,Low,54
+DIS00416,Supplier Failure,Low,55
+DIS00417,Supplier Failure,Low,88
+DIS00418,Earthquake,Medium,30
+DIS00419,Flood,Low,23
+DIS00420,Flood,Medium,91
+DIS00421,Port Closure,Low,44
+DIS00422,Supplier Failure,Medium,22
+DIS00423,Port Closure,Medium,15
+DIS00424,Earthquake,Medium,50
+DIS00425,Flood,Medium,53
+DIS00426,Earthquake,High,79
+DIS00427,Supplier Failure,Low,3
+DIS00428,Earthquake,High,64
+DIS00429,Earthquake,Medium,13
+DIS00430,Earthquake,Low,47
+DIS00431,Flood,Medium,22
+DIS00432,Cyber Attack,Low,14
+DIS00433,Cyber Attack,Medium,96
+DIS00434,Flood,High,99
+DIS00435,Supplier Failure,Low,86
+DIS00436,Cyber Attack,Low,84
+DIS00437,Supplier Failure,Medium,45
+DIS00438,Cyber Attack,High,98
+DIS00439,Port Closure,Medium,93
+DIS00440,Port Closure,Low,52
+DIS00441,Cyber Attack,Low,69
+DIS00442,Flood,Medium,53
+DIS00443,Cyber Attack,High,73
+DIS00444,Supplier Failure,Low,67
+DIS00445,Flood,Low,100
+DIS00446,Supplier Failure,Low,87
+DIS00447,Port Closure,Low,70
+DIS00448,Cyber Attack,Medium,36
+DIS00449,Cyber Attack,High,36
+DIS00450,Cyber Attack,High,50
+DIS00451,Cyber Attack,Medium,64
+DIS00452,Cyber Attack,Medium,10
+DIS00453,Flood,Low,12
+DIS00454,Flood,Low,80
+DIS00455,Supplier Failure,High,77
+DIS00456,Flood,Low,48
+DIS00457,Earthquake,High,34
+DIS00458,Cyber Attack,Low,83
+DIS00459,Port Closure,Low,81
+DIS00460,Supplier Failure,High,16
+DIS00461,Supplier Failure,High,7
+DIS00462,Cyber Attack,Medium,40
+DIS00463,Cyber Attack,Medium,9
+DIS00464,Supplier Failure,High,30
+DIS00465,Flood,Medium,63
+DIS00466,Supplier Failure,High,29
+DIS00467,Flood,Low,47
+DIS00468,Flood,Low,97
+DIS00469,Cyber Attack,Medium,11
+DIS00470,Cyber Attack,Medium,1
+DIS00471,Supplier Failure,Medium,70
+DIS00472,Port Closure,Low,6
+DIS00473,Supplier Failure,High,83
+DIS00474,Earthquake,Low,64
+DIS00475,Cyber Attack,Medium,12
+DIS00476,Flood,High,55
+DIS00477,Cyber Attack,Medium,38
+DIS00478,Supplier Failure,Low,24
+DIS00479,Earthquake,High,17
+DIS00480,Cyber Attack,Medium,8
+DIS00481,Flood,Medium,98
+DIS00482,Port Closure,Medium,49
+DIS00483,Cyber Attack,High,40
+DIS00484,Port Closure,Low,93
+DIS00485,Earthquake,Low,74
+DIS00486,Port Closure,Medium,50
+DIS00487,Port Closure,High,9
+DIS00488,Cyber Attack,High,47
+DIS00489,Flood,Low,16
+DIS00490,Cyber Attack,Medium,7
+DIS00491,Earthquake,Low,21
+DIS00492,Port Closure,Low,56
+DIS00493,Port Closure,Medium,96
+DIS00494,Supplier Failure,Medium,77
+DIS00495,Supplier Failure,High,28
+DIS00496,Earthquake,High,15
+DIS00497,Flood,Medium,53
+DIS00498,Port Closure,High,5
+DIS00499,Earthquake,High,64
+DIS00500,Port Closure,Medium,33
+DIS00501,Cyber Attack,High,43
+DIS00502,Cyber Attack,Low,5
+DIS00503,Earthquake,Medium,25
+DIS00504,Supplier Failure,High,8
+DIS00505,Cyber Attack,Medium,3
+DIS00506,Earthquake,Medium,86
+DIS00507,Supplier Failure,Low,41
+DIS00508,Cyber Attack,High,72
+DIS00509,Flood,High,38
+DIS00510,Earthquake,Low,30
+DIS00511,Supplier Failure,Low,23
+DIS00512,Earthquake,Medium,64
+DIS00513,Earthquake,Low,32
+DIS00514,Flood,Low,47
+DIS00515,Port Closure,Medium,64
+DIS00516,Supplier Failure,Low,53
+DIS00517,Supplier Failure,Medium,17
+DIS00518,Port Closure,High,29
+DIS00519,Supplier Failure,High,45
+DIS00520,Earthquake,Medium,33
+DIS00521,Cyber Attack,Medium,17
+DIS00522,Earthquake,High,12
+DIS00523,Earthquake,Low,45
+DIS00524,Supplier Failure,Medium,70
+DIS00525,Supplier Failure,Medium,20
+DIS00526,Port Closure,Medium,42
+DIS00527,Earthquake,Low,8
+DIS00528,Flood,Low,21
+DIS00529,Port Closure,High,61
+DIS00530,Port Closure,Low,32
+DIS00531,Supplier Failure,Low,52
+DIS00532,Earthquake,High,83
+DIS00533,Port Closure,High,29
+DIS00534,Earthquake,Medium,30
+DIS00535,Earthquake,High,43
+DIS00536,Supplier Failure,High,56
+DIS00537,Earthquake,Low,60
+DIS00538,Earthquake,Low,92
+DIS00539,Flood,Medium,50
+DIS00540,Port Closure,Medium,70
+DIS00541,Earthquake,High,82
+DIS00542,Earthquake,Low,12
+DIS00543,Supplier Failure,Low,89
+DIS00544,Supplier Failure,Medium,16
+DIS00545,Port Closure,High,23
+DIS00546,Flood,Low,93
+DIS00547,Flood,Medium,22
+DIS00548,Port Closure,Low,27
+DIS00549,Supplier Failure,Low,67
+DIS00550,Supplier Failure,High,36
+DIS00551,Port Closure,Medium,78
+DIS00552,Supplier Failure,High,86
+DIS00553,Earthquake,Medium,25
+DIS00554,Earthquake,Medium,12
+DIS00555,Flood,Low,48
+DIS00556,Cyber Attack,High,41
+DIS00557,Port Closure,High,75
+DIS00558,Port Closure,High,1
+DIS00559,Port Closure,High,98
+DIS00560,Supplier Failure,Low,62
+DIS00561,Earthquake,High,64
+DIS00562,Supplier Failure,High,6
+DIS00563,Port Closure,Low,63
+DIS00564,Cyber Attack,Low,76
+DIS00565,Supplier Failure,Low,9
+DIS00566,Flood,Medium,99
+DIS00567,Flood,Medium,56
+DIS00568,Supplier Failure,Low,86
+DIS00569,Earthquake,Low,57
+DIS00570,Cyber Attack,Medium,17
+DIS00571,Flood,High,36
+DIS00572,Cyber Attack,High,40
+DIS00573,Earthquake,Medium,69
+DIS00574,Cyber Attack,Low,62
+DIS00575,Port Closure,Low,52
+DIS00576,Flood,Medium,66
+DIS00577,Earthquake,Low,46
+DIS00578,Earthquake,Low,60
+DIS00579,Flood,Low,55
+DIS00580,Cyber Attack,High,46
+DIS00581,Flood,High,95
+DIS00582,Flood,Low,5
+DIS00583,Cyber Attack,Medium,17
+DIS00584,Port Closure,High,28
+DIS00585,Earthquake,High,97
+DIS00586,Port Closure,Low,90
+DIS00587,Flood,High,9
+DIS00588,Cyber Attack,Medium,80
+DIS00589,Earthquake,Low,96
+DIS00590,Earthquake,Medium,65
+DIS00591,Cyber Attack,High,13
+DIS00592,Supplier Failure,Low,77
+DIS00593,Earthquake,Medium,99
+DIS00594,Cyber Attack,High,18
+DIS00595,Supplier Failure,Medium,98
+DIS00596,Port Closure,Low,92
+DIS00597,Flood,Medium,73
+DIS00598,Cyber Attack,High,49
+DIS00599,Earthquake,High,45
+DIS00600,Supplier Failure,Medium,11
+DIS00601,Supplier Failure,High,16
+DIS00602,Cyber Attack,Medium,94
+DIS00603,Port Closure,Low,47
+DIS00604,Supplier Failure,Low,63
+DIS00605,Supplier Failure,High,90
+DIS00606,Port Closure,Medium,81
+DIS00607,Supplier Failure,High,98
+DIS00608,Port Closure,Low,75
+DIS00609,Cyber Attack,High,76
+DIS00610,Cyber Attack,Medium,96
+DIS00611,Supplier Failure,Medium,80
+DIS00612,Port Closure,High,17
+DIS00613,Cyber Attack,High,87
+DIS00614,Port Closure,Low,26
+DIS00615,Cyber Attack,Medium,13
+DIS00616,Earthquake,High,44
+DIS00617,Earthquake,Medium,28
+DIS00618,Cyber Attack,High,100
+DIS00619,Earthquake,High,61
+DIS00620,Earthquake,Medium,90
+DIS00621,Earthquake,Medium,35
+DIS00622,Port Closure,High,49
+DIS00623,Supplier Failure,Low,89
+DIS00624,Earthquake,Medium,8
+DIS00625,Flood,High,19
+DIS00626,Supplier Failure,High,13
+DIS00627,Supplier Failure,High,1
+DIS00628,Cyber Attack,Medium,51
+DIS00629,Supplier Failure,Medium,100
+DIS00630,Earthquake,High,69
+DIS00631,Flood,Medium,46
+DIS00632,Flood,Medium,24
+DIS00633,Earthquake,Low,61
+DIS00634,Earthquake,Medium,41
+DIS00635,Cyber Attack,High,38
+DIS00636,Flood,Medium,92
+DIS00637,Flood,Low,63
+DIS00638,Cyber Attack,High,37
+DIS00639,Cyber Attack,Low,34
+DIS00640,Flood,Medium,79
+DIS00641,Flood,Low,79
+DIS00642,Earthquake,High,11
+DIS00643,Earthquake,Medium,73
+DIS00644,Earthquake,Medium,35
+DIS00645,Cyber Attack,High,50
+DIS00646,Earthquake,Low,10
+DIS00647,Earthquake,High,70
+DIS00648,Flood,Low,7
+DIS00649,Flood,High,73
+DIS00650,Flood,High,14
+DIS00651,Cyber Attack,Low,23
+DIS00652,Earthquake,Low,10
+DIS00653,Earthquake,Medium,67
+DIS00654,Supplier Failure,High,20
+DIS00655,Flood,Low,90
+DIS00656,Earthquake,Low,83
+DIS00657,Flood,High,55
+DIS00658,Cyber Attack,Low,79
+DIS00659,Supplier Failure,Medium,40
+DIS00660,Port Closure,High,92
+DIS00661,Supplier Failure,Medium,65
+DIS00662,Port Closure,Low,79
+DIS00663,Port Closure,High,55
+DIS00664,Cyber Attack,Low,48
+DIS00665,Supplier Failure,High,40
+DIS00666,Port Closure,High,44
+DIS00667,Earthquake,Low,55
+DIS00668,Supplier Failure,Low,53
+DIS00669,Flood,Low,5
+DIS00670,Port Closure,Medium,28
+DIS00671,Supplier Failure,High,81
+DIS00672,Flood,Low,97
+DIS00673,Cyber Attack,High,51
+DIS00674,Port Closure,Low,48
+DIS00675,Supplier Failure,High,96
+DIS00676,Supplier Failure,Medium,27
+DIS00677,Supplier Failure,High,44
+DIS00678,Port Closure,Low,6
+DIS00679,Flood,Medium,81
+DIS00680,Supplier Failure,High,95
+DIS00681,Cyber Attack,High,67
+DIS00682,Earthquake,High,4
+DIS00683,Flood,High,96
+DIS00684,Supplier Failure,Low,31
+DIS00685,Earthquake,Low,62
+DIS00686,Flood,Medium,68
+DIS00687,Cyber Attack,High,89
+DIS00688,Port Closure,Medium,59
+DIS00689,Earthquake,Low,43
+DIS00690,Flood,High,83
+DIS00691,Earthquake,High,96
+DIS00692,Earthquake,High,3
+DIS00693,Flood,Medium,85
+DIS00694,Supplier Failure,Low,48
+DIS00695,Port Closure,High,49
+DIS00696,Earthquake,Medium,46
+DIS00697,Port Closure,High,46
+DIS00698,Port Closure,High,100
+DIS00699,Earthquake,Low,31
+DIS00700,Flood,High,30
+DIS00701,Cyber Attack,High,24
+DIS00702,Port Closure,High,40
+DIS00703,Port Closure,Medium,59
+DIS00704,Earthquake,High,90
+DIS00705,Port Closure,Medium,24
+DIS00706,Port Closure,High,18
+DIS00707,Port Closure,Medium,58
+DIS00708,Flood,High,9
+DIS00709,Supplier Failure,Low,18
+DIS00710,Flood,Low,81
+DIS00711,Earthquake,Medium,41
+DIS00712,Flood,High,40
+DIS00713,Port Closure,Low,40
+DIS00714,Supplier Failure,High,94
+DIS00715,Flood,Low,61
+DIS00716,Port Closure,High,32
+DIS00717,Flood,Medium,23
+DIS00718,Cyber Attack,Medium,44
+DIS00719,Earthquake,High,16
+DIS00720,Flood,Low,24
+DIS00721,Supplier Failure,Medium,14
+DIS00722,Supplier Failure,High,36
+DIS00723,Earthquake,Medium,67
+DIS00724,Supplier Failure,Medium,15
+DIS00725,Supplier Failure,High,27
+DIS00726,Supplier Failure,High,76
+DIS00727,Cyber Attack,Low,2
+DIS00728,Flood,Medium,64
+DIS00729,Port Closure,Low,83
+DIS00730,Supplier Failure,Low,29
+DIS00731,Cyber Attack,Low,37
+DIS00732,Port Closure,High,61
+DIS00733,Port Closure,Low,70
+DIS00734,Flood,High,59
+DIS00735,Earthquake,High,15
+DIS00736,Flood,Low,25
+DIS00737,Flood,Medium,45
+DIS00738,Port Closure,High,35
+DIS00739,Port Closure,Medium,14
+DIS00740,Earthquake,Low,99
+DIS00741,Flood,Low,31
+DIS00742,Flood,Low,65
+DIS00743,Earthquake,Medium,33
+DIS00744,Port Closure,High,9
+DIS00745,Flood,Low,92
+DIS00746,Earthquake,Medium,76
+DIS00747,Supplier Failure,Medium,70
+DIS00748,Supplier Failure,High,18
+DIS00749,Port Closure,Low,46
+DIS00750,Port Closure,Medium,86
+DIS00751,Supplier Failure,High,62
+DIS00752,Flood,Low,41
+DIS00753,Port Closure,Low,89
+DIS00754,Supplier Failure,Low,7
+DIS00755,Cyber Attack,Medium,88
+DIS00756,Earthquake,Low,91
+DIS00757,Flood,Medium,3
+DIS00758,Flood,Medium,53
+DIS00759,Earthquake,Medium,7
+DIS00760,Supplier Failure,Low,95
+DIS00761,Flood,Low,50
+DIS00762,Cyber Attack,Medium,11
+DIS00763,Cyber Attack,Low,44
+DIS00764,Flood,Low,4
+DIS00765,Port Closure,Medium,37
+DIS00766,Cyber Attack,High,7
+DIS00767,Earthquake,High,68
+DIS00768,Earthquake,Medium,12
+DIS00769,Supplier Failure,Medium,34
+DIS00770,Flood,Low,48
+DIS00771,Earthquake,Medium,15
+DIS00772,Supplier Failure,Medium,47
+DIS00773,Flood,Low,36
+DIS00774,Supplier Failure,Low,55
+DIS00775,Flood,Low,27
+DIS00776,Port Closure,Low,45
+DIS00777,Supplier Failure,High,73
+DIS00778,Cyber Attack,Medium,17
+DIS00779,Flood,Low,24
+DIS00780,Earthquake,Medium,66
+DIS00781,Supplier Failure,Low,80
+DIS00782,Supplier Failure,Low,92
+DIS00783,Earthquake,Low,18
+DIS00784,Port Closure,High,70
+DIS00785,Port Closure,Low,68
+DIS00786,Port Closure,Low,57
+DIS00787,Flood,Medium,5
+DIS00788,Flood,Medium,95
+DIS00789,Flood,Low,75
+DIS00790,Port Closure,Low,91
+DIS00791,Port Closure,High,95
+DIS00792,Supplier Failure,Low,59
+DIS00793,Supplier Failure,High,39
+DIS00794,Earthquake,High,75
+DIS00795,Supplier Failure,Medium,60
+DIS00796,Cyber Attack,High,87
+DIS00797,Supplier Failure,Low,16
+DIS00798,Earthquake,Low,38
+DIS00799,Supplier Failure,High,67
+DIS00800,Port Closure,High,63
+DIS00801,Earthquake,Medium,19
+DIS00802,Flood,High,55
+DIS00803,Cyber Attack,Low,67
+DIS00804,Cyber Attack,High,49
+DIS00805,Earthquake,Medium,73
+DIS00806,Earthquake,High,11
+DIS00807,Cyber Attack,Low,47
+DIS00808,Flood,Medium,41
+DIS00809,Flood,Medium,35
+DIS00810,Supplier Failure,High,87
+DIS00811,Flood,Medium,90
+DIS00812,Supplier Failure,High,99
+DIS00813,Supplier Failure,High,39
+DIS00814,Cyber Attack,High,74
+DIS00815,Flood,Medium,41
+DIS00816,Earthquake,Medium,85
+DIS00817,Cyber Attack,Medium,2
+DIS00818,Cyber Attack,Low,45
+DIS00819,Cyber Attack,Low,21
+DIS00820,Supplier Failure,High,17
+DIS00821,Port Closure,Low,24
+DIS00822,Cyber Attack,High,2
+DIS00823,Port Closure,Medium,73
+DIS00824,Supplier Failure,High,28
+DIS00825,Supplier Failure,High,53
+DIS00826,Supplier Failure,High,94
+DIS00827,Port Closure,Low,84
+DIS00828,Cyber Attack,High,38
+DIS00829,Cyber Attack,Low,39
+DIS00830,Earthquake,High,26
+DIS00831,Earthquake,Low,46
+DIS00832,Flood,Low,8
+DIS00833,Cyber Attack,High,96
+DIS00834,Port Closure,High,30
+DIS00835,Supplier Failure,Medium,9
+DIS00836,Flood,High,13
+DIS00837,Flood,Medium,43
+DIS00838,Cyber Attack,High,41
+DIS00839,Port Closure,Medium,60
+DIS00840,Flood,Low,55
+DIS00841,Supplier Failure,High,10
+DIS00842,Supplier Failure,Medium,55
+DIS00843,Port Closure,Low,25
+DIS00844,Earthquake,Medium,39
+DIS00845,Port Closure,Low,96
+DIS00846,Flood,High,29
+DIS00847,Supplier Failure,High,70
+DIS00848,Earthquake,High,21
+DIS00849,Earthquake,High,33
+DIS00850,Cyber Attack,High,84
+DIS00851,Flood,Low,23
+DIS00852,Supplier Failure,Low,53
+DIS00853,Supplier Failure,High,91
+DIS00854,Supplier Failure,Low,77
+DIS00855,Earthquake,Medium,41
+DIS00856,Supplier Failure,Medium,36
+DIS00857,Flood,High,40
+DIS00858,Flood,Medium,69
+DIS00859,Flood,Medium,49
+DIS00860,Earthquake,Medium,31
+DIS00861,Supplier Failure,High,69
+DIS00862,Flood,High,96
+DIS00863,Cyber Attack,High,77
+DIS00864,Flood,Medium,4
+DIS00865,Earthquake,Medium,66
+DIS00866,Earthquake,Medium,95
+DIS00867,Cyber Attack,Medium,41
+DIS00868,Port Closure,Medium,46
+DIS00869,Cyber Attack,Medium,55
+DIS00870,Earthquake,Low,40
+DIS00871,Flood,High,14
+DIS00872,Port Closure,Medium,65
+DIS00873,Earthquake,Low,3
+DIS00874,Cyber Attack,Medium,51
+DIS00875,Cyber Attack,Low,21
+DIS00876,Cyber Attack,Medium,77
+DIS00877,Flood,Low,72
+DIS00878,Cyber Attack,Medium,75
+DIS00879,Earthquake,Medium,50
+DIS00880,Flood,High,85
+DIS00881,Earthquake,Low,85
+DIS00882,Cyber Attack,Low,38
+DIS00883,Supplier Failure,Medium,10
+DIS00884,Earthquake,Medium,90
+DIS00885,Earthquake,Low,21
+DIS00886,Port Closure,Medium,45
+DIS00887,Cyber Attack,Low,61
+DIS00888,Earthquake,Medium,78
+DIS00889,Earthquake,Medium,91
+DIS00890,Earthquake,High,18
+DIS00891,Supplier Failure,Medium,3
+DIS00892,Supplier Failure,Low,95
+DIS00893,Cyber Attack,High,24
+DIS00894,Earthquake,High,37
+DIS00895,Flood,Low,48
+DIS00896,Cyber Attack,Medium,69
+DIS00897,Port Closure,High,1
+DIS00898,Cyber Attack,Low,33
+DIS00899,Supplier Failure,High,66
+DIS00900,Cyber Attack,Medium,24
+DIS00901,Flood,High,36
+DIS00902,Earthquake,Medium,73
+DIS00903,Cyber Attack,Low,62
+DIS00904,Earthquake,High,87
+DIS00905,Earthquake,Medium,6
+DIS00906,Port Closure,High,39
+DIS00907,Port Closure,Low,33
+DIS00908,Flood,Medium,76
+DIS00909,Earthquake,Low,84
+DIS00910,Supplier Failure,Medium,61
+DIS00911,Supplier Failure,Low,50
+DIS00912,Cyber Attack,Medium,42
+DIS00913,Earthquake,High,67
+DIS00914,Flood,Low,42
+DIS00915,Earthquake,Medium,54
+DIS00916,Cyber Attack,Low,84
+DIS00917,Flood,Low,74
+DIS00918,Port Closure,High,19
+DIS00919,Cyber Attack,Medium,28
+DIS00920,Earthquake,High,98
+DIS00921,Cyber Attack,Medium,50
+DIS00922,Cyber Attack,Medium,75
+DIS00923,Supplier Failure,Medium,76
+DIS00924,Cyber Attack,Medium,42
+DIS00925,Earthquake,High,90
+DIS00926,Flood,Medium,84
+DIS00927,Supplier Failure,Low,5
+DIS00928,Cyber Attack,High,42
+DIS00929,Port Closure,Medium,77
+DIS00930,Earthquake,Low,47
+DIS00931,Earthquake,Medium,5
+DIS00932,Flood,Medium,82
+DIS00933,Earthquake,High,63
+DIS00934,Cyber Attack,High,3
+DIS00935,Flood,Medium,9
+DIS00936,Earthquake,Low,58
+DIS00937,Earthquake,Medium,34
+DIS00938,Cyber Attack,High,86
+DIS00939,Supplier Failure,High,22
+DIS00940,Port Closure,Medium,67
+DIS00941,Port Closure,Low,48
+DIS00942,Supplier Failure,Low,77
+DIS00943,Port Closure,Medium,25
+DIS00944,Cyber Attack,High,81
+DIS00945,Earthquake,Low,66
+DIS00946,Flood,Low,37
+DIS00947,Port Closure,High,82
+DIS00948,Cyber Attack,Medium,63
+DIS00949,Earthquake,High,69
+DIS00950,Cyber Attack,Medium,62
+DIS00951,Flood,Medium,24
+DIS00952,Supplier Failure,High,88
+DIS00953,Earthquake,Low,61
+DIS00954,Port Closure,Low,44
+DIS00955,Supplier Failure,Low,22
+DIS00956,Supplier Failure,Low,54
+DIS00957,Port Closure,Low,59
+DIS00958,Earthquake,Low,87
+DIS00959,Flood,Medium,30
+DIS00960,Flood,High,30
+DIS00961,Supplier Failure,Medium,95
+DIS00962,Earthquake,High,84
+DIS00963,Flood,Low,55
+DIS00964,Cyber Attack,Medium,75
+DIS00965,Port Closure,Medium,51
+DIS00966,Port Closure,Medium,91
+DIS00967,Earthquake,Low,78
+DIS00968,Earthquake,Low,23
+DIS00969,Port Closure,Medium,93
+DIS00970,Port Closure,Medium,84
+DIS00971,Supplier Failure,High,57
+DIS00972,Earthquake,Medium,48
+DIS00973,Earthquake,Medium,72
+DIS00974,Supplier Failure,Low,56
+DIS00975,Supplier Failure,Low,39
+DIS00976,Supplier Failure,Medium,15
+DIS00977,Supplier Failure,Medium,81
+DIS00978,Cyber Attack,High,100
+DIS00979,Port Closure,Low,25
+DIS00980,Flood,Low,59
+DIS00981,Supplier Failure,High,19
+DIS00982,Supplier Failure,Low,72
+DIS00983,Port Closure,Low,15
+DIS00984,Flood,Low,67
+DIS00985,Cyber Attack,Low,24
+DIS00986,Supplier Failure,Low,5
+DIS00987,Supplier Failure,Medium,28
+DIS00988,Flood,High,21
+DIS00989,Flood,Medium,87
+DIS00990,Port Closure,Low,11
+DIS00991,Earthquake,Medium,61
+DIS00992,Cyber Attack,Low,81
+DIS00993,Flood,Low,51
+DIS00994,Flood,Medium,84
+DIS00995,Supplier Failure,High,55
+DIS00996,Cyber Attack,Medium,52
+DIS00997,Cyber Attack,Medium,91
+DIS00998,Port Closure,Medium,39
+DIS00999,Earthquake,Medium,96
+DIS01000,Earthquake,High,20
+DIS01001,Earthquake,High,28
+DIS01002,Cyber Attack,Low,100
+DIS01003,Earthquake,High,50
+DIS01004,Cyber Attack,Low,51
+DIS01005,Flood,High,15
+DIS01006,Port Closure,High,37
+DIS01007,Earthquake,Low,44
+DIS01008,Port Closure,High,55
+DIS01009,Cyber Attack,High,5
+DIS01010,Port Closure,Low,22
+DIS01011,Flood,Medium,37
+DIS01012,Flood,Low,67
+DIS01013,Cyber Attack,Low,21
+DIS01014,Port Closure,Medium,27
+DIS01015,Flood,Low,95
+DIS01016,Earthquake,Medium,38
+DIS01017,Cyber Attack,Medium,73
+DIS01018,Supplier Failure,Low,55
+DIS01019,Earthquake,Medium,63
+DIS01020,Flood,High,39
+DIS01021,Supplier Failure,High,84
+DIS01022,Supplier Failure,High,88
+DIS01023,Earthquake,High,8
+DIS01024,Cyber Attack,Medium,45
+DIS01025,Supplier Failure,High,35
+DIS01026,Earthquake,Medium,94
+DIS01027,Earthquake,High,95
+DIS01028,Earthquake,Low,20
+DIS01029,Flood,Medium,91
+DIS01030,Port Closure,Medium,36
+DIS01031,Port Closure,Medium,14
+DIS01032,Earthquake,Low,23
+DIS01033,Cyber Attack,Medium,16
+DIS01034,Flood,Low,38
+DIS01035,Port Closure,Medium,20
+DIS01036,Earthquake,Medium,97
+DIS01037,Port Closure,Medium,21
+DIS01038,Port Closure,Medium,65
+DIS01039,Supplier Failure,Medium,39
+DIS01040,Supplier Failure,Low,97
+DIS01041,Supplier Failure,Medium,78
+DIS01042,Flood,High,90
+DIS01043,Port Closure,Low,70
+DIS01044,Port Closure,High,95
+DIS01045,Supplier Failure,Medium,42
+DIS01046,Flood,Medium,39
+DIS01047,Supplier Failure,Medium,77
+DIS01048,Flood,High,38
+DIS01049,Supplier Failure,Low,2
+DIS01050,Flood,Medium,2
+DIS01051,Earthquake,High,23
+DIS01052,Cyber Attack,Medium,88
+DIS01053,Cyber Attack,Medium,89
+DIS01054,Earthquake,Medium,24
+DIS01055,Earthquake,High,44
+DIS01056,Port Closure,Low,85
+DIS01057,Flood,Low,88
+DIS01058,Cyber Attack,Medium,76
+DIS01059,Port Closure,Low,78
+DIS01060,Port Closure,Low,11
+DIS01061,Cyber Attack,High,61
+DIS01062,Cyber Attack,Medium,82
+DIS01063,Supplier Failure,Low,47
+DIS01064,Supplier Failure,High,93
+DIS01065,Flood,Medium,100
+DIS01066,Supplier Failure,High,80
+DIS01067,Earthquake,Medium,92
+DIS01068,Earthquake,Medium,24
+DIS01069,Flood,Medium,11
+DIS01070,Earthquake,High,55
+DIS01071,Earthquake,High,68
+DIS01072,Earthquake,Low,76
+DIS01073,Flood,Low,94
+DIS01074,Cyber Attack,Low,37
+DIS01075,Flood,Medium,43
+DIS01076,Supplier Failure,Low,4
+DIS01077,Earthquake,Medium,78
+DIS01078,Port Closure,Low,36
+DIS01079,Cyber Attack,Medium,88
+DIS01080,Supplier Failure,Low,96
+DIS01081,Flood,Low,55
+DIS01082,Flood,High,52
+DIS01083,Supplier Failure,High,38
+DIS01084,Earthquake,Medium,41
+DIS01085,Supplier Failure,Low,73
+DIS01086,Cyber Attack,Low,53
+DIS01087,Supplier Failure,Medium,77
+DIS01088,Cyber Attack,Low,76
+DIS01089,Supplier Failure,Low,17
+DIS01090,Port Closure,High,69
+DIS01091,Flood,Medium,98
+DIS01092,Port Closure,High,80
+DIS01093,Port Closure,Low,93
+DIS01094,Earthquake,Medium,4
+DIS01095,Supplier Failure,Medium,97
+DIS01096,Port Closure,Medium,77
+DIS01097,Earthquake,High,80
+DIS01098,Cyber Attack,High,10
+DIS01099,Flood,Low,83
+DIS01100,Cyber Attack,High,8
+DIS01101,Earthquake,High,42
+DIS01102,Flood,Medium,65
+DIS01103,Earthquake,Medium,41
+DIS01104,Earthquake,Low,34
+DIS01105,Flood,High,58
+DIS01106,Supplier Failure,High,7
+DIS01107,Port Closure,Low,86
+DIS01108,Cyber Attack,High,78
+DIS01109,Supplier Failure,High,85
+DIS01110,Flood,Medium,80
+DIS01111,Supplier Failure,Medium,38
+DIS01112,Flood,High,19
+DIS01113,Supplier Failure,Medium,19
+DIS01114,Port Closure,Medium,6
+DIS01115,Flood,Low,7
+DIS01116,Earthquake,Medium,88
+DIS01117,Earthquake,Medium,33
+DIS01118,Earthquake,High,24
+DIS01119,Supplier Failure,High,17
+DIS01120,Flood,Medium,81
+DIS01121,Port Closure,High,87
+DIS01122,Port Closure,High,38
+DIS01123,Cyber Attack,Medium,34
+DIS01124,Supplier Failure,Low,66
+DIS01125,Cyber Attack,Low,48
+DIS01126,Flood,Low,84
+DIS01127,Supplier Failure,High,71
+DIS01128,Supplier Failure,High,33
+DIS01129,Flood,High,39
+DIS01130,Cyber Attack,Low,79
+DIS01131,Flood,High,18
+DIS01132,Earthquake,Medium,39
+DIS01133,Flood,Low,4
+DIS01134,Supplier Failure,Medium,24
+DIS01135,Supplier Failure,Low,54
+DIS01136,Earthquake,Low,62
+DIS01137,Port Closure,Low,92
+DIS01138,Flood,Low,27
+DIS01139,Supplier Failure,High,56
+DIS01140,Supplier Failure,Medium,68
+DIS01141,Supplier Failure,Medium,82
+DIS01142,Supplier Failure,Low,43
+DIS01143,Port Closure,Medium,28
+DIS01144,Cyber Attack,High,37
+DIS01145,Port Closure,Low,69
+DIS01146,Flood,Medium,67
+DIS01147,Flood,High,18
+DIS01148,Flood,Medium,27
+DIS01149,Port Closure,Medium,98
+DIS01150,Port Closure,Medium,46
+DIS01151,Port Closure,Medium,63
+DIS01152,Cyber Attack,Medium,18
+DIS01153,Flood,Low,85
+DIS01154,Earthquake,Low,65
+DIS01155,Flood,High,3
+DIS01156,Flood,Medium,40
+DIS01157,Flood,Low,90
+DIS01158,Port Closure,Medium,63
+DIS01159,Flood,Low,94
+DIS01160,Port Closure,Medium,47
+DIS01161,Flood,Low,88
+DIS01162,Supplier Failure,Medium,86
+DIS01163,Port Closure,Low,62
+DIS01164,Supplier Failure,Low,100
+DIS01165,Cyber Attack,Medium,42
+DIS01166,Supplier Failure,Medium,84
+DIS01167,Port Closure,Medium,90
+DIS01168,Supplier Failure,High,88
+DIS01169,Supplier Failure,High,64
+DIS01170,Supplier Failure,Medium,68
+DIS01171,Supplier Failure,High,54
+DIS01172,Earthquake,High,34
+DIS01173,Cyber Attack,Medium,35
+DIS01174,Flood,Low,17
+DIS01175,Cyber Attack,High,55
+DIS01176,Port Closure,Medium,12
+DIS01177,Port Closure,High,92
+DIS01178,Earthquake,High,92
+DIS01179,Port Closure,Medium,34
+DIS01180,Port Closure,Low,6
+DIS01181,Supplier Failure,Low,37
+DIS01182,Supplier Failure,Low,27
+DIS01183,Supplier Failure,Medium,22
+DIS01184,Cyber Attack,Medium,31
+DIS01185,Cyber Attack,High,15
+DIS01186,Earthquake,Medium,28
+DIS01187,Cyber Attack,Low,17
+DIS01188,Flood,High,86
+DIS01189,Supplier Failure,High,16
+DIS01190,Earthquake,Low,47
+DIS01191,Supplier Failure,High,61
+DIS01192,Port Closure,Low,6
+DIS01193,Earthquake,High,46
+DIS01194,Cyber Attack,High,72
+DIS01195,Supplier Failure,Low,20
+DIS01196,Cyber Attack,Medium,94
+DIS01197,Supplier Failure,Medium,77
+DIS01198,Earthquake,Low,8
+DIS01199,Supplier Failure,Low,9
+DIS01200,Supplier Failure,Medium,19
+DIS01201,Supplier Failure,Medium,30
+DIS01202,Cyber Attack,Medium,75
+DIS01203,Supplier Failure,Medium,80
+DIS01204,Earthquake,High,63
+DIS01205,Cyber Attack,High,45
+DIS01206,Port Closure,Medium,47
+DIS01207,Cyber Attack,High,23
+DIS01208,Supplier Failure,Medium,86
+DIS01209,Supplier Failure,High,19
+DIS01210,Earthquake,Medium,11
+DIS01211,Flood,Medium,20
+DIS01212,Supplier Failure,Medium,10
+DIS01213,Earthquake,Medium,21
+DIS01214,Cyber Attack,Medium,22
+DIS01215,Cyber Attack,Low,52
+DIS01216,Supplier Failure,Low,6
+DIS01217,Earthquake,Medium,84
+DIS01218,Cyber Attack,Medium,31
+DIS01219,Earthquake,Low,46
+DIS01220,Flood,Medium,75
+DIS01221,Port Closure,Low,79
+DIS01222,Flood,Low,68
+DIS01223,Cyber Attack,High,90
+DIS01224,Port Closure,High,83
+DIS01225,Cyber Attack,Medium,75
+DIS01226,Flood,High,50
+DIS01227,Supplier Failure,Low,5
+DIS01228,Cyber Attack,High,59
+DIS01229,Supplier Failure,Low,92
+DIS01230,Cyber Attack,High,70
+DIS01231,Cyber Attack,Medium,59
+DIS01232,Flood,High,5
+DIS01233,Cyber Attack,High,98
+DIS01234,Cyber Attack,High,8
+DIS01235,Cyber Attack,Medium,52
+DIS01236,Cyber Attack,Medium,73
+DIS01237,Flood,High,61
+DIS01238,Earthquake,High,19
+DIS01239,Flood,High,35
+DIS01240,Supplier Failure,High,100
+DIS01241,Cyber Attack,High,42
+DIS01242,Earthquake,Low,70
+DIS01243,Cyber Attack,Low,16
+DIS01244,Cyber Attack,Medium,87
+DIS01245,Port Closure,Low,98
+DIS01246,Port Closure,Low,75
+DIS01247,Supplier Failure,Medium,51
+DIS01248,Port Closure,High,45
+DIS01249,Earthquake,Low,89
+DIS01250,Supplier Failure,High,35
+DIS01251,Earthquake,High,61
+DIS01252,Flood,Medium,38
+DIS01253,Supplier Failure,Low,61
+DIS01254,Earthquake,High,63
+DIS01255,Earthquake,Medium,69
+DIS01256,Supplier Failure,Medium,10
+DIS01257,Cyber Attack,Low,50
+DIS01258,Supplier Failure,Medium,96
+DIS01259,Port Closure,High,37
+DIS01260,Cyber Attack,Low,45
+DIS01261,Earthquake,Medium,65
+DIS01262,Port Closure,Medium,50
+DIS01263,Port Closure,Medium,95
+DIS01264,Supplier Failure,High,39
+DIS01265,Port Closure,Medium,2
+DIS01266,Port Closure,Medium,38
+DIS01267,Flood,Medium,44
+DIS01268,Cyber Attack,High,66
+DIS01269,Flood,Medium,27
+DIS01270,Port Closure,High,53
+DIS01271,Supplier Failure,Low,93
+DIS01272,Port Closure,Medium,51
+DIS01273,Cyber Attack,Low,53
+DIS01274,Supplier Failure,Low,13
+DIS01275,Port Closure,High,24
+DIS01276,Earthquake,Medium,35
+DIS01277,Port Closure,Low,2
+DIS01278,Supplier Failure,Low,52
+DIS01279,Flood,Low,53
+DIS01280,Flood,High,8
+DIS01281,Supplier Failure,High,18
+DIS01282,Earthquake,Low,78
+DIS01283,Supplier Failure,Medium,96
+DIS01284,Port Closure,Medium,99
+DIS01285,Port Closure,Low,14
+DIS01286,Earthquake,High,4
+DIS01287,Port Closure,Low,31
+DIS01288,Flood,High,83
+DIS01289,Port Closure,High,53
+DIS01290,Earthquake,Medium,14
+DIS01291,Port Closure,High,43
+DIS01292,Supplier Failure,High,84
+DIS01293,Supplier Failure,High,3
+DIS01294,Cyber Attack,Medium,5
+DIS01295,Cyber Attack,Low,81
+DIS01296,Cyber Attack,High,93
+DIS01297,Cyber Attack,Low,80
+DIS01298,Supplier Failure,High,25
+DIS01299,Supplier Failure,High,69
+DIS01300,Port Closure,Low,69
+DIS01301,Cyber Attack,Low,83
+DIS01302,Earthquake,Medium,52
+DIS01303,Earthquake,Medium,26
+DIS01304,Supplier Failure,Low,38
+DIS01305,Flood,High,51
+DIS01306,Earthquake,High,53
+DIS01307,Earthquake,Low,19
+DIS01308,Flood,Low,72
+DIS01309,Supplier Failure,Medium,52
+DIS01310,Port Closure,Low,95
+DIS01311,Earthquake,Low,87
+DIS01312,Port Closure,High,81
+DIS01313,Cyber Attack,Low,97
+DIS01314,Supplier Failure,High,59
+DIS01315,Port Closure,High,48
+DIS01316,Flood,Low,22
+DIS01317,Earthquake,Medium,68
+DIS01318,Port Closure,Low,75
+DIS01319,Supplier Failure,Low,12
+DIS01320,Port Closure,High,36
+DIS01321,Flood,Low,33
+DIS01322,Supplier Failure,Low,65
+DIS01323,Port Closure,High,7
+DIS01324,Earthquake,High,17
+DIS01325,Cyber Attack,Low,11
+DIS01326,Cyber Attack,Low,58
+DIS01327,Port Closure,Low,35
+DIS01328,Earthquake,Medium,84
+DIS01329,Port Closure,Low,83
+DIS01330,Port Closure,Medium,39
+DIS01331,Port Closure,Medium,33
+DIS01332,Flood,High,24
+DIS01333,Flood,Low,47
+DIS01334,Port Closure,Medium,13
+DIS01335,Flood,Medium,49
+DIS01336,Port Closure,Low,52
+DIS01337,Supplier Failure,High,17
+DIS01338,Supplier Failure,Low,82
+DIS01339,Cyber Attack,High,88
+DIS01340,Supplier Failure,Medium,34
+DIS01341,Port Closure,High,34
+DIS01342,Supplier Failure,Medium,64
+DIS01343,Port Closure,Medium,38
+DIS01344,Flood,Medium,4
+DIS01345,Port Closure,High,74
+DIS01346,Cyber Attack,High,63
+DIS01347,Port Closure,Medium,52
+DIS01348,Earthquake,Medium,7
+DIS01349,Port Closure,Medium,97
+DIS01350,Flood,Low,23
+DIS01351,Port Closure,High,50
+DIS01352,Port Closure,Low,19
+DIS01353,Cyber Attack,Medium,18
+DIS01354,Flood,Low,19
+DIS01355,Earthquake,Low,32
+DIS01356,Cyber Attack,Medium,51
+DIS01357,Flood,Low,53
+DIS01358,Port Closure,High,66
+DIS01359,Earthquake,Low,61
+DIS01360,Supplier Failure,High,80
+DIS01361,Supplier Failure,High,50
+DIS01362,Port Closure,High,44
+DIS01363,Flood,Low,11
+DIS01364,Earthquake,High,46
+DIS01365,Supplier Failure,Low,74
+DIS01366,Flood,Medium,20
+DIS01367,Supplier Failure,Low,13
+DIS01368,Supplier Failure,High,89
+DIS01369,Port Closure,High,57
+DIS01370,Cyber Attack,Low,56
+DIS01371,Flood,Low,12
+DIS01372,Supplier Failure,High,100
+DIS01373,Supplier Failure,Medium,25
+DIS01374,Port Closure,Medium,54
+DIS01375,Supplier Failure,Medium,19
+DIS01376,Cyber Attack,Medium,37
+DIS01377,Supplier Failure,High,8
+DIS01378,Supplier Failure,High,71
+DIS01379,Cyber Attack,Medium,2
+DIS01380,Port Closure,High,50
+DIS01381,Supplier Failure,Low,17
+DIS01382,Port Closure,Low,48
+DIS01383,Earthquake,Low,16
+DIS01384,Supplier Failure,High,65
+DIS01385,Supplier Failure,High,95
+DIS01386,Earthquake,Low,63
+DIS01387,Flood,Low,65
+DIS01388,Port Closure,Medium,67
+DIS01389,Earthquake,Medium,73
+DIS01390,Flood,Low,72
+DIS01391,Cyber Attack,Medium,9
+DIS01392,Flood,High,35
+DIS01393,Cyber Attack,Medium,89
+DIS01394,Port Closure,Medium,64
+DIS01395,Port Closure,High,52
+DIS01396,Earthquake,Low,76
+DIS01397,Cyber Attack,Low,88
+DIS01398,Flood,Low,34
+DIS01399,Supplier Failure,High,9
+DIS01400,Flood,Low,60
+DIS01401,Port Closure,High,23
+DIS01402,Earthquake,High,39
+DIS01403,Earthquake,High,76
+DIS01404,Cyber Attack,Low,98
+DIS01405,Port Closure,High,6
+DIS01406,Port Closure,Medium,81
+DIS01407,Port Closure,Low,34
+DIS01408,Flood,Low,91
+DIS01409,Flood,Low,5
+DIS01410,Cyber Attack,High,67
+DIS01411,Supplier Failure,High,77
+DIS01412,Cyber Attack,Low,8
+DIS01413,Supplier Failure,Medium,49
+DIS01414,Supplier Failure,High,20
+DIS01415,Earthquake,High,39
+DIS01416,Earthquake,Low,74
+DIS01417,Cyber Attack,High,99
+DIS01418,Supplier Failure,High,63
+DIS01419,Earthquake,Low,17
+DIS01420,Supplier Failure,Medium,34
+DIS01421,Port Closure,Low,87
+DIS01422,Cyber Attack,High,89
+DIS01423,Supplier Failure,High,34
+DIS01424,Port Closure,High,22
+DIS01425,Earthquake,Medium,42
+DIS01426,Cyber Attack,Medium,31
+DIS01427,Earthquake,Medium,83
+DIS01428,Port Closure,High,23
+DIS01429,Port Closure,Medium,98
+DIS01430,Flood,Low,92
+DIS01431,Flood,Low,75
+DIS01432,Supplier Failure,Medium,40
+DIS01433,Port Closure,High,64
+DIS01434,Supplier Failure,Low,43
+DIS01435,Port Closure,High,85
+DIS01436,Supplier Failure,Low,80
+DIS01437,Supplier Failure,High,4
+DIS01438,Port Closure,Low,46
+DIS01439,Flood,Low,43
+DIS01440,Cyber Attack,High,18
+DIS01441,Supplier Failure,Low,70
+DIS01442,Earthquake,Medium,45
+DIS01443,Cyber Attack,Medium,48
+DIS01444,Flood,Medium,1
+DIS01445,Supplier Failure,Medium,87
+DIS01446,Port Closure,High,87
+DIS01447,Port Closure,Low,29
+DIS01448,Flood,High,49
+DIS01449,Port Closure,Medium,89
+DIS01450,Flood,Medium,58
+DIS01451,Earthquake,Medium,35
+DIS01452,Port Closure,Low,93
+DIS01453,Flood,Low,96
+DIS01454,Port Closure,Medium,16
+DIS01455,Port Closure,Low,8
+DIS01456,Supplier Failure,Low,28
+DIS01457,Port Closure,High,41
+DIS01458,Earthquake,High,26
+DIS01459,Port Closure,High,66
+DIS01460,Cyber Attack,High,5
+DIS01461,Cyber Attack,Medium,69
+DIS01462,Flood,Medium,81
+DIS01463,Supplier Failure,High,4
+DIS01464,Supplier Failure,High,71
+DIS01465,Port Closure,Medium,100
+DIS01466,Supplier Failure,Low,17
+DIS01467,Supplier Failure,High,63
+DIS01468,Earthquake,High,53
+DIS01469,Cyber Attack,Medium,28
+DIS01470,Earthquake,Low,65
+DIS01471,Supplier Failure,High,58
+DIS01472,Supplier Failure,High,28
+DIS01473,Flood,Low,75
+DIS01474,Supplier Failure,Medium,9
+DIS01475,Flood,Low,70
+DIS01476,Port Closure,Medium,41
+DIS01477,Supplier Failure,High,66
+DIS01478,Flood,Medium,41
+DIS01479,Cyber Attack,High,42
+DIS01480,Earthquake,High,36
+DIS01481,Supplier Failure,Low,66
+DIS01482,Earthquake,Medium,11
+DIS01483,Earthquake,Low,48
+DIS01484,Cyber Attack,Medium,4
+DIS01485,Flood,High,90
+DIS01486,Earthquake,Low,98
+DIS01487,Flood,High,12
+DIS01488,Port Closure,High,4
+DIS01489,Supplier Failure,Low,13
+DIS01490,Supplier Failure,Medium,61
+DIS01491,Cyber Attack,High,57
+DIS01492,Cyber Attack,Medium,83
+DIS01493,Cyber Attack,Low,65
+DIS01494,Port Closure,Low,42
+DIS01495,Supplier Failure,High,48
+DIS01496,Flood,High,3
+DIS01497,Earthquake,Medium,17
+DIS01498,Earthquake,Medium,94
+DIS01499,Flood,High,15
+DIS01500,Flood,High,79
+DIS01501,Port Closure,Medium,42
+DIS01502,Earthquake,High,93
+DIS01503,Cyber Attack,High,70
+DIS01504,Cyber Attack,Medium,82
+DIS01505,Supplier Failure,Low,3
+DIS01506,Cyber Attack,Medium,54
+DIS01507,Flood,Medium,67
+DIS01508,Cyber Attack,Low,93
+DIS01509,Earthquake,Medium,47
+DIS01510,Cyber Attack,High,90
+DIS01511,Earthquake,High,50
+DIS01512,Cyber Attack,Medium,66
+DIS01513,Port Closure,Low,40
+DIS01514,Earthquake,High,44
+DIS01515,Cyber Attack,Medium,39
+DIS01516,Supplier Failure,Medium,99
+DIS01517,Supplier Failure,High,56
+DIS01518,Supplier Failure,Low,13
+DIS01519,Flood,Low,67
+DIS01520,Supplier Failure,Medium,19
+DIS01521,Port Closure,High,69
+DIS01522,Port Closure,Low,14
+DIS01523,Port Closure,High,87
+DIS01524,Cyber Attack,High,41
+DIS01525,Flood,High,52
+DIS01526,Earthquake,Medium,52
+DIS01527,Flood,High,49
+DIS01528,Port Closure,High,43
+DIS01529,Port Closure,High,74
+DIS01530,Flood,Medium,89
+DIS01531,Port Closure,High,53
+DIS01532,Cyber Attack,Medium,88
+DIS01533,Earthquake,Medium,94
+DIS01534,Flood,Medium,57
+DIS01535,Supplier Failure,High,100
+DIS01536,Port Closure,Low,45
+DIS01537,Flood,High,15
+DIS01538,Earthquake,Medium,59
+DIS01539,Earthquake,Low,89
+DIS01540,Earthquake,Medium,9
+DIS01541,Supplier Failure,Medium,90
+DIS01542,Earthquake,Medium,71
+DIS01543,Supplier Failure,Medium,100
+DIS01544,Earthquake,High,90
+DIS01545,Earthquake,Low,15
+DIS01546,Cyber Attack,High,64
+DIS01547,Cyber Attack,Medium,4
+DIS01548,Flood,Medium,74
+DIS01549,Flood,Medium,24
+DIS01550,Supplier Failure,Low,20
+DIS01551,Earthquake,Medium,79
+DIS01552,Earthquake,Low,37
+DIS01553,Flood,High,83
+DIS01554,Cyber Attack,Low,19
+DIS01555,Earthquake,Medium,58
+DIS01556,Flood,Low,38
+DIS01557,Cyber Attack,High,42
+DIS01558,Supplier Failure,High,9
+DIS01559,Earthquake,Medium,69
+DIS01560,Cyber Attack,Medium,13
+DIS01561,Cyber Attack,Medium,38
+DIS01562,Supplier Failure,Medium,71
+DIS01563,Flood,High,42
+DIS01564,Cyber Attack,Low,47
+DIS01565,Port Closure,High,5
+DIS01566,Supplier Failure,Low,53
+DIS01567,Flood,Low,81
+DIS01568,Flood,Medium,99
+DIS01569,Port Closure,High,25
+DIS01570,Flood,Low,80
+DIS01571,Flood,Medium,36
+DIS01572,Earthquake,Medium,46
+DIS01573,Flood,High,29
+DIS01574,Cyber Attack,Medium,70
+DIS01575,Earthquake,High,14
+DIS01576,Flood,Medium,72
+DIS01577,Earthquake,Medium,73
+DIS01578,Supplier Failure,Medium,31
+DIS01579,Flood,Low,25
+DIS01580,Supplier Failure,High,54
+DIS01581,Cyber Attack,High,6
+DIS01582,Flood,Medium,75
+DIS01583,Earthquake,Medium,85
+DIS01584,Earthquake,High,84
+DIS01585,Supplier Failure,Low,4
+DIS01586,Cyber Attack,Low,6
+DIS01587,Earthquake,Medium,95
+DIS01588,Supplier Failure,Medium,87
+DIS01589,Port Closure,Medium,46
+DIS01590,Port Closure,High,31
+DIS01591,Cyber Attack,Medium,81
+DIS01592,Flood,High,9
+DIS01593,Earthquake,High,37
+DIS01594,Cyber Attack,Medium,79
+DIS01595,Supplier Failure,Medium,48
+DIS01596,Supplier Failure,Low,13
+DIS01597,Cyber Attack,Medium,50
+DIS01598,Earthquake,High,87
+DIS01599,Supplier Failure,Low,40
+DIS01600,Cyber Attack,High,17
+DIS01601,Supplier Failure,Low,34
+DIS01602,Port Closure,High,97
+DIS01603,Cyber Attack,High,82
+DIS01604,Port Closure,Medium,74
+DIS01605,Port Closure,Medium,54
+DIS01606,Earthquake,High,39
+DIS01607,Supplier Failure,High,13
+DIS01608,Cyber Attack,High,50
+DIS01609,Cyber Attack,High,38
+DIS01610,Cyber Attack,Low,65
+DIS01611,Cyber Attack,Low,92
+DIS01612,Flood,High,29
+DIS01613,Earthquake,Low,58
+DIS01614,Port Closure,Medium,63
+DIS01615,Supplier Failure,High,23
+DIS01616,Flood,Medium,31
+DIS01617,Supplier Failure,Low,75
+DIS01618,Supplier Failure,Low,70
+DIS01619,Supplier Failure,Medium,27
+DIS01620,Cyber Attack,Medium,12
+DIS01621,Flood,High,57
+DIS01622,Flood,Medium,86
+DIS01623,Cyber Attack,Low,80
+DIS01624,Cyber Attack,High,12
+DIS01625,Supplier Failure,Low,42
+DIS01626,Supplier Failure,High,49
+DIS01627,Earthquake,High,56
+DIS01628,Earthquake,High,78
+DIS01629,Supplier Failure,Low,71
+DIS01630,Cyber Attack,High,9
+DIS01631,Port Closure,High,11
+DIS01632,Flood,Low,20
+DIS01633,Supplier Failure,Medium,86
+DIS01634,Flood,Low,63
+DIS01635,Earthquake,High,91
+DIS01636,Port Closure,High,23
+DIS01637,Supplier Failure,Medium,52
+DIS01638,Cyber Attack,Low,12
+DIS01639,Flood,High,94
+DIS01640,Supplier Failure,Medium,21
+DIS01641,Supplier Failure,Medium,12
+DIS01642,Cyber Attack,High,80
+DIS01643,Supplier Failure,Low,75
+DIS01644,Flood,High,26
+DIS01645,Cyber Attack,High,57
+DIS01646,Port Closure,Low,40
+DIS01647,Cyber Attack,Medium,76
+DIS01648,Earthquake,Low,19
+DIS01649,Cyber Attack,Low,39
+DIS01650,Supplier Failure,Medium,59
+DIS01651,Earthquake,Low,94
+DIS01652,Port Closure,Low,2
+DIS01653,Flood,Medium,69
+DIS01654,Earthquake,Medium,82
+DIS01655,Cyber Attack,High,70
+DIS01656,Earthquake,Medium,34
+DIS01657,Cyber Attack,Medium,55
+DIS01658,Cyber Attack,Medium,28
+DIS01659,Flood,High,88
+DIS01660,Supplier Failure,Low,45
+DIS01661,Flood,Low,1
+DIS01662,Port Closure,High,59
+DIS01663,Cyber Attack,Medium,19
+DIS01664,Port Closure,Low,74
+DIS01665,Cyber Attack,Low,14
+DIS01666,Earthquake,Medium,67
+DIS01667,Earthquake,Low,29
+DIS01668,Earthquake,High,75
+DIS01669,Earthquake,Medium,84
+DIS01670,Supplier Failure,High,12
+DIS01671,Cyber Attack,High,90
+DIS01672,Cyber Attack,Low,18
+DIS01673,Supplier Failure,High,77
+DIS01674,Port Closure,High,42
+DIS01675,Port Closure,High,77
+DIS01676,Flood,Medium,77
+DIS01677,Supplier Failure,Low,46
+DIS01678,Earthquake,Medium,46
+DIS01679,Supplier Failure,High,25
+DIS01680,Supplier Failure,Low,83
+DIS01681,Supplier Failure,Low,84
+DIS01682,Port Closure,Medium,56
+DIS01683,Flood,High,85
+DIS01684,Port Closure,Low,42
+DIS01685,Cyber Attack,Medium,98
+DIS01686,Supplier Failure,High,68
+DIS01687,Earthquake,Low,53
+DIS01688,Port Closure,High,42
+DIS01689,Flood,Low,3
+DIS01690,Earthquake,Medium,16
+DIS01691,Port Closure,Medium,54
+DIS01692,Flood,High,52
+DIS01693,Earthquake,Medium,59
+DIS01694,Supplier Failure,Low,3
+DIS01695,Port Closure,High,56
+DIS01696,Port Closure,Low,39
+DIS01697,Port Closure,High,38
+DIS01698,Supplier Failure,Medium,35
+DIS01699,Port Closure,High,57
+DIS01700,Supplier Failure,High,51
+DIS01701,Flood,Low,12
+DIS01702,Cyber Attack,High,91
+DIS01703,Supplier Failure,Medium,81
+DIS01704,Port Closure,Low,41
+DIS01705,Earthquake,Low,82
+DIS01706,Supplier Failure,Medium,63
+DIS01707,Cyber Attack,High,71
+DIS01708,Port Closure,High,31
+DIS01709,Flood,Low,93
+DIS01710,Port Closure,High,70
+DIS01711,Flood,Low,75
+DIS01712,Supplier Failure,Low,7
+DIS01713,Earthquake,High,32
+DIS01714,Earthquake,High,15
+DIS01715,Cyber Attack,High,48
+DIS01716,Supplier Failure,Medium,57
+DIS01717,Supplier Failure,Low,40
+DIS01718,Cyber Attack,Medium,7
+DIS01719,Port Closure,Low,40
+DIS01720,Flood,Low,48
+DIS01721,Cyber Attack,High,38
+DIS01722,Port Closure,Low,45
+DIS01723,Flood,Low,86
+DIS01724,Supplier Failure,Medium,18
+DIS01725,Earthquake,High,58
+DIS01726,Flood,High,27
+DIS01727,Port Closure,Medium,36
+DIS01728,Supplier Failure,High,52
+DIS01729,Cyber Attack,Medium,69
+DIS01730,Port Closure,Medium,55
+DIS01731,Supplier Failure,Low,18
+DIS01732,Port Closure,Medium,13
+DIS01733,Supplier Failure,Low,63
+DIS01734,Earthquake,High,86
+DIS01735,Supplier Failure,High,66
+DIS01736,Cyber Attack,High,23
+DIS01737,Cyber Attack,Low,6
+DIS01738,Earthquake,Low,93
+DIS01739,Port Closure,Medium,64
+DIS01740,Port Closure,High,63
+DIS01741,Port Closure,High,3
+DIS01742,Cyber Attack,High,55
+DIS01743,Supplier Failure,High,35
+DIS01744,Port Closure,Medium,6
+DIS01745,Flood,Medium,35
+DIS01746,Flood,Medium,63
+DIS01747,Earthquake,High,15
+DIS01748,Earthquake,Medium,82
+DIS01749,Earthquake,Low,48
+DIS01750,Supplier Failure,Medium,76
+DIS01751,Flood,Medium,26
+DIS01752,Cyber Attack,Medium,27
+DIS01753,Cyber Attack,Low,59
+DIS01754,Supplier Failure,Medium,16
+DIS01755,Cyber Attack,Low,12
+DIS01756,Flood,Medium,68
+DIS01757,Earthquake,Medium,7
+DIS01758,Flood,Low,27
+DIS01759,Earthquake,High,18
+DIS01760,Supplier Failure,Medium,85
+DIS01761,Cyber Attack,Low,32
+DIS01762,Supplier Failure,High,12
+DIS01763,Earthquake,Medium,44
+DIS01764,Flood,High,69
+DIS01765,Cyber Attack,High,19
+DIS01766,Supplier Failure,Low,91
+DIS01767,Flood,High,39
+DIS01768,Cyber Attack,Low,16
+DIS01769,Flood,High,1
+DIS01770,Cyber Attack,Low,56
+DIS01771,Cyber Attack,Medium,15
+DIS01772,Cyber Attack,Medium,5
+DIS01773,Cyber Attack,Medium,70
+DIS01774,Supplier Failure,High,70
+DIS01775,Earthquake,Medium,50
+DIS01776,Cyber Attack,Medium,83
+DIS01777,Port Closure,High,96
+DIS01778,Earthquake,Low,26
+DIS01779,Flood,Medium,47
+DIS01780,Supplier Failure,Medium,46
+DIS01781,Cyber Attack,High,10
+DIS01782,Cyber Attack,Low,77
+DIS01783,Earthquake,Medium,67
+DIS01784,Supplier Failure,Low,90
+DIS01785,Supplier Failure,High,72
+DIS01786,Flood,Low,62
+DIS01787,Port Closure,Low,10
+DIS01788,Cyber Attack,High,55
+DIS01789,Supplier Failure,High,72
+DIS01790,Supplier Failure,Medium,3
+DIS01791,Supplier Failure,Medium,100
+DIS01792,Earthquake,Low,86
+DIS01793,Flood,High,55
+DIS01794,Flood,High,61
+DIS01795,Port Closure,Medium,12
+DIS01796,Supplier Failure,Medium,100
+DIS01797,Cyber Attack,Low,80
+DIS01798,Flood,Medium,24
+DIS01799,Earthquake,Medium,79
+DIS01800,Flood,Low,92
+DIS01801,Supplier Failure,Low,45
+DIS01802,Port Closure,Medium,44
+DIS01803,Cyber Attack,Low,58
+DIS01804,Earthquake,Medium,75
+DIS01805,Earthquake,Medium,58
+DIS01806,Flood,Medium,47
+DIS01807,Supplier Failure,High,86
+DIS01808,Supplier Failure,High,2
+DIS01809,Flood,Medium,27
+DIS01810,Supplier Failure,Medium,77
+DIS01811,Earthquake,High,67
+DIS01812,Cyber Attack,Low,40
+DIS01813,Port Closure,Medium,75
+DIS01814,Earthquake,High,86
+DIS01815,Port Closure,High,99
+DIS01816,Supplier Failure,Low,92
+DIS01817,Earthquake,High,84
+DIS01818,Port Closure,High,30
+DIS01819,Earthquake,High,11
+DIS01820,Supplier Failure,Medium,80
+DIS01821,Earthquake,Low,54
+DIS01822,Earthquake,Low,56
+DIS01823,Flood,Medium,94
+DIS01824,Cyber Attack,Low,73
+DIS01825,Port Closure,Low,36
+DIS01826,Supplier Failure,Low,57
+DIS01827,Flood,High,45
+DIS01828,Flood,Low,20
+DIS01829,Flood,High,39
+DIS01830,Cyber Attack,Medium,33
+DIS01831,Port Closure,Low,3
+DIS01832,Port Closure,Low,18
+DIS01833,Supplier Failure,High,23
+DIS01834,Cyber Attack,Low,67
+DIS01835,Earthquake,High,64
+DIS01836,Cyber Attack,High,18
+DIS01837,Cyber Attack,High,96
+DIS01838,Flood,High,16
+DIS01839,Earthquake,Medium,54
+DIS01840,Cyber Attack,High,61
+DIS01841,Cyber Attack,Low,97
+DIS01842,Earthquake,Low,34
+DIS01843,Cyber Attack,Low,81
+DIS01844,Earthquake,Medium,33
+DIS01845,Supplier Failure,Low,12
+DIS01846,Flood,Medium,91
+DIS01847,Supplier Failure,High,81
+DIS01848,Port Closure,Low,83
+DIS01849,Cyber Attack,Medium,25
+DIS01850,Flood,High,47
+DIS01851,Cyber Attack,High,85
+DIS01852,Port Closure,Low,41
+DIS01853,Supplier Failure,High,68
+DIS01854,Flood,High,52
+DIS01855,Earthquake,Medium,54
+DIS01856,Supplier Failure,Low,86
+DIS01857,Supplier Failure,High,16
+DIS01858,Port Closure,Low,24
+DIS01859,Earthquake,High,68
+DIS01860,Earthquake,High,39
+DIS01861,Port Closure,Low,59
+DIS01862,Port Closure,High,44
+DIS01863,Cyber Attack,High,70
+DIS01864,Port Closure,Low,22
+DIS01865,Flood,High,61
+DIS01866,Supplier Failure,High,81
+DIS01867,Supplier Failure,High,74
+DIS01868,Port Closure,Medium,69
+DIS01869,Supplier Failure,Low,26
+DIS01870,Supplier Failure,Medium,72
+DIS01871,Supplier Failure,Medium,77
+DIS01872,Cyber Attack,Medium,89
+DIS01873,Port Closure,Low,83
+DIS01874,Flood,High,42
+DIS01875,Port Closure,Medium,23
+DIS01876,Cyber Attack,Low,87
+DIS01877,Earthquake,Low,85
+DIS01878,Port Closure,Low,17
+DIS01879,Cyber Attack,High,93
+DIS01880,Cyber Attack,High,73
+DIS01881,Earthquake,Medium,99
+DIS01882,Cyber Attack,Medium,79
+DIS01883,Cyber Attack,High,1
+DIS01884,Earthquake,Low,75
+DIS01885,Supplier Failure,Medium,24
+DIS01886,Cyber Attack,Low,76
+DIS01887,Earthquake,High,50
+DIS01888,Supplier Failure,Low,97
+DIS01889,Cyber Attack,High,91
+DIS01890,Flood,Low,40
+DIS01891,Supplier Failure,Medium,75
+DIS01892,Supplier Failure,Low,44
+DIS01893,Cyber Attack,High,24
+DIS01894,Supplier Failure,High,81
+DIS01895,Port Closure,High,31
+DIS01896,Supplier Failure,High,64
+DIS01897,Port Closure,Medium,98
+DIS01898,Flood,Low,40
+DIS01899,Earthquake,Medium,83
+DIS01900,Flood,High,21
+DIS01901,Earthquake,High,70
+DIS01902,Port Closure,High,87
+DIS01903,Port Closure,Medium,12
+DIS01904,Flood,High,82
+DIS01905,Earthquake,High,30
+DIS01906,Cyber Attack,Low,63
+DIS01907,Flood,High,18
+DIS01908,Flood,Medium,83
+DIS01909,Supplier Failure,Low,55
+DIS01910,Supplier Failure,Low,51
+DIS01911,Cyber Attack,Medium,9
+DIS01912,Earthquake,Medium,48
+DIS01913,Port Closure,Medium,60
+DIS01914,Earthquake,Medium,14
+DIS01915,Earthquake,Low,29
+DIS01916,Earthquake,Medium,56
+DIS01917,Cyber Attack,High,86
+DIS01918,Port Closure,Medium,60
+DIS01919,Earthquake,Medium,24
+DIS01920,Port Closure,Low,47
+DIS01921,Earthquake,Low,55
+DIS01922,Supplier Failure,Medium,50
+DIS01923,Supplier Failure,Medium,43
+DIS01924,Port Closure,High,66
+DIS01925,Cyber Attack,Low,92
+DIS01926,Supplier Failure,Low,50
+DIS01927,Flood,High,81
+DIS01928,Earthquake,High,51
+DIS01929,Cyber Attack,High,22
+DIS01930,Cyber Attack,High,96
+DIS01931,Cyber Attack,Low,25
+DIS01932,Earthquake,Low,86
+DIS01933,Earthquake,High,9
+DIS01934,Earthquake,Low,82
+DIS01935,Port Closure,Medium,65
+DIS01936,Port Closure,Medium,40
+DIS01937,Flood,Low,98
+DIS01938,Earthquake,High,81
+DIS01939,Cyber Attack,Low,48
+DIS01940,Earthquake,High,20
+DIS01941,Port Closure,Medium,97
+DIS01942,Supplier Failure,High,66
+DIS01943,Port Closure,High,86
+DIS01944,Cyber Attack,High,68
+DIS01945,Port Closure,High,77
+DIS01946,Supplier Failure,Low,94
+DIS01947,Port Closure,High,72
+DIS01948,Earthquake,Medium,49
+DIS01949,Port Closure,Low,36
+DIS01950,Supplier Failure,Low,33
+DIS01951,Earthquake,High,71
+DIS01952,Cyber Attack,Medium,25
+DIS01953,Flood,Low,45
+DIS01954,Port Closure,Medium,83
+DIS01955,Flood,Medium,53
+DIS01956,Supplier Failure,Medium,74
+DIS01957,Earthquake,Medium,59
+DIS01958,Supplier Failure,Medium,21
+DIS01959,Flood,High,64
+DIS01960,Earthquake,Low,5
+DIS01961,Flood,Low,6
+DIS01962,Earthquake,Medium,73
+DIS01963,Supplier Failure,Low,22
+DIS01964,Port Closure,High,93
+DIS01965,Port Closure,Medium,4
+DIS01966,Cyber Attack,Medium,28
+DIS01967,Earthquake,Low,26
+DIS01968,Cyber Attack,Low,65
+DIS01969,Cyber Attack,Low,69
+DIS01970,Port Closure,Medium,10
+DIS01971,Cyber Attack,High,57
+DIS01972,Port Closure,Low,6
+DIS01973,Flood,Medium,15
+DIS01974,Earthquake,Medium,7
+DIS01975,Flood,Low,52
+DIS01976,Flood,Medium,58
+DIS01977,Cyber Attack,High,5
+DIS01978,Cyber Attack,Medium,44
+DIS01979,Port Closure,High,90
+DIS01980,Port Closure,Low,59
+DIS01981,Earthquake,High,90
+DIS01982,Port Closure,Low,2
+DIS01983,Cyber Attack,Low,59
+DIS01984,Earthquake,Medium,47
+DIS01985,Supplier Failure,Low,59
+DIS01986,Cyber Attack,Low,48
+DIS01987,Port Closure,Low,94
+DIS01988,Port Closure,High,71
+DIS01989,Flood,Medium,85
+DIS01990,Cyber Attack,Low,66
+DIS01991,Supplier Failure,Low,32
+DIS01992,Port Closure,Low,46
+DIS01993,Flood,Low,89
+DIS01994,Flood,Medium,2
+DIS01995,Earthquake,Medium,89
+DIS01996,Port Closure,Medium,24
+DIS01997,Flood,High,72
+DIS01998,Earthquake,High,79
+DIS01999,Cyber Attack,Medium,4
+DIS02000,Cyber Attack,Low,48
+DIS02001,Earthquake,High,39
+DIS02002,Port Closure,Low,23
+DIS02003,Earthquake,Low,38
+DIS02004,Flood,Medium,85
+DIS02005,Earthquake,High,48
+DIS02006,Supplier Failure,Medium,70
+DIS02007,Flood,Medium,17
+DIS02008,Supplier Failure,High,86
+DIS02009,Earthquake,Low,34
+DIS02010,Port Closure,High,7
+DIS02011,Earthquake,Medium,84
+DIS02012,Cyber Attack,High,16
+DIS02013,Port Closure,High,56
+DIS02014,Supplier Failure,Low,5
+DIS02015,Earthquake,Medium,74
+DIS02016,Cyber Attack,Medium,87
+DIS02017,Earthquake,Low,69
+DIS02018,Flood,High,83
+DIS02019,Earthquake,Low,15
+DIS02020,Cyber Attack,High,41
+DIS02021,Cyber Attack,Medium,89
+DIS02022,Earthquake,Medium,94
+DIS02023,Port Closure,Low,96
+DIS02024,Port Closure,Medium,89
+DIS02025,Cyber Attack,Low,13
+DIS02026,Flood,High,79
+DIS02027,Supplier Failure,Medium,32
+DIS02028,Port Closure,High,62
+DIS02029,Flood,Low,1
+DIS02030,Supplier Failure,High,66
+DIS02031,Earthquake,Medium,91
+DIS02032,Supplier Failure,Low,85
+DIS02033,Earthquake,Low,12
+DIS02034,Earthquake,Medium,2
+DIS02035,Earthquake,High,89
+DIS02036,Port Closure,Low,64
+DIS02037,Flood,Low,57
+DIS02038,Cyber Attack,High,28
+DIS02039,Earthquake,Low,32
+DIS02040,Flood,High,30
+DIS02041,Earthquake,High,49
+DIS02042,Supplier Failure,High,1
+DIS02043,Earthquake,Medium,35
+DIS02044,Port Closure,High,100
+DIS02045,Earthquake,High,77
+DIS02046,Cyber Attack,Medium,58
+DIS02047,Flood,Medium,31
+DIS02048,Supplier Failure,High,36
+DIS02049,Earthquake,Low,23
+DIS02050,Port Closure,Low,93
+DIS02051,Port Closure,Medium,73
+DIS02052,Port Closure,Medium,23
+DIS02053,Earthquake,Medium,32
+DIS02054,Earthquake,Low,76
+DIS02055,Earthquake,Low,53
+DIS02056,Port Closure,Medium,92
+DIS02057,Cyber Attack,High,96
+DIS02058,Supplier Failure,High,84
+DIS02059,Flood,Medium,97
+DIS02060,Earthquake,Low,60
+DIS02061,Cyber Attack,High,88
+DIS02062,Port Closure,Low,36
+DIS02063,Cyber Attack,High,94
+DIS02064,Supplier Failure,High,81
+DIS02065,Cyber Attack,Medium,39
+DIS02066,Supplier Failure,Medium,94
+DIS02067,Flood,Low,10
+DIS02068,Earthquake,High,57
+DIS02069,Port Closure,Medium,79
+DIS02070,Supplier Failure,High,86
+DIS02071,Port Closure,High,21
+DIS02072,Flood,Low,85
+DIS02073,Flood,Medium,24
+DIS02074,Cyber Attack,Low,89
+DIS02075,Port Closure,Low,44
+DIS02076,Earthquake,High,92
+DIS02077,Flood,High,20
+DIS02078,Port Closure,Medium,52
+DIS02079,Cyber Attack,High,60
+DIS02080,Port Closure,Low,29
+DIS02081,Supplier Failure,High,66
+DIS02082,Cyber Attack,Low,99
+DIS02083,Earthquake,Medium,83
+DIS02084,Earthquake,Medium,75
+DIS02085,Cyber Attack,High,50
+DIS02086,Flood,High,59
+DIS02087,Flood,High,7
+DIS02088,Port Closure,High,43
+DIS02089,Earthquake,Low,29
+DIS02090,Flood,Medium,21
+DIS02091,Flood,Low,44
+DIS02092,Cyber Attack,High,100
+DIS02093,Flood,Low,60
+DIS02094,Supplier Failure,Low,62
+DIS02095,Port Closure,Low,73
+DIS02096,Flood,High,53
+DIS02097,Cyber Attack,High,11
+DIS02098,Cyber Attack,High,61
+DIS02099,Earthquake,Medium,13
+DIS02100,Earthquake,High,98
+DIS02101,Flood,Medium,63
+DIS02102,Cyber Attack,Low,76
+DIS02103,Supplier Failure,High,30
+DIS02104,Earthquake,Medium,88
+DIS02105,Flood,Medium,10
+DIS02106,Supplier Failure,Medium,11
+DIS02107,Earthquake,Medium,84
+DIS02108,Supplier Failure,Low,4
+DIS02109,Flood,High,16
+DIS02110,Flood,High,66
+DIS02111,Cyber Attack,Medium,34
+DIS02112,Earthquake,Low,98
+DIS02113,Port Closure,Low,16
+DIS02114,Port Closure,Medium,97
+DIS02115,Port Closure,High,49
+DIS02116,Port Closure,Low,40
+DIS02117,Cyber Attack,Low,54
+DIS02118,Earthquake,High,86
+DIS02119,Supplier Failure,High,41
+DIS02120,Earthquake,Medium,8
+DIS02121,Earthquake,Low,17
+DIS02122,Supplier Failure,High,24
+DIS02123,Earthquake,Low,25
+DIS02124,Supplier Failure,High,51
+DIS02125,Port Closure,Low,36
+DIS02126,Flood,Low,17
+DIS02127,Supplier Failure,High,10
+DIS02128,Flood,High,53
+DIS02129,Port Closure,Low,16
+DIS02130,Flood,High,22
+DIS02131,Port Closure,Medium,99
+DIS02132,Supplier Failure,Medium,30
+DIS02133,Cyber Attack,Medium,38
+DIS02134,Port Closure,Low,95
+DIS02135,Flood,Medium,54
+DIS02136,Flood,Medium,23
+DIS02137,Flood,Low,7
+DIS02138,Earthquake,Medium,87
+DIS02139,Cyber Attack,Low,99
+DIS02140,Supplier Failure,Low,37
+DIS02141,Earthquake,Low,1
+DIS02142,Supplier Failure,High,66
+DIS02143,Supplier Failure,High,75
+DIS02144,Earthquake,High,20
+DIS02145,Cyber Attack,Low,66
+DIS02146,Cyber Attack,Medium,78
+DIS02147,Cyber Attack,Low,53
+DIS02148,Port Closure,High,24
+DIS02149,Port Closure,Medium,62
+DIS02150,Supplier Failure,Low,23
+DIS02151,Cyber Attack,Low,72
+DIS02152,Flood,High,10
+DIS02153,Port Closure,Medium,82
+DIS02154,Flood,Low,20
+DIS02155,Supplier Failure,High,43
+DIS02156,Supplier Failure,Low,47
+DIS02157,Cyber Attack,Low,93
+DIS02158,Port Closure,Medium,24
+DIS02159,Supplier Failure,High,6
+DIS02160,Port Closure,Medium,87
+DIS02161,Cyber Attack,Medium,52
+DIS02162,Supplier Failure,Low,64
+DIS02163,Supplier Failure,Low,20
+DIS02164,Supplier Failure,Low,98
+DIS02165,Earthquake,Low,77
+DIS02166,Supplier Failure,Medium,63
+DIS02167,Flood,Low,91
+DIS02168,Cyber Attack,High,100
+DIS02169,Port Closure,Low,36
+DIS02170,Cyber Attack,Low,77
+DIS02171,Supplier Failure,High,38
+DIS02172,Port Closure,High,94
+DIS02173,Port Closure,High,100
+DIS02174,Supplier Failure,Low,47
+DIS02175,Cyber Attack,Medium,84
+DIS02176,Cyber Attack,Low,45
+DIS02177,Flood,Medium,86
+DIS02178,Earthquake,High,14
+DIS02179,Earthquake,High,45
+DIS02180,Supplier Failure,Low,62
+DIS02181,Supplier Failure,Low,9
+DIS02182,Flood,Low,19
+DIS02183,Flood,Low,26
+DIS02184,Supplier Failure,High,100
+DIS02185,Port Closure,Medium,42
+DIS02186,Cyber Attack,Medium,9
+DIS02187,Supplier Failure,Medium,31
+DIS02188,Earthquake,High,30
+DIS02189,Earthquake,Low,91
+DIS02190,Port Closure,High,2
+DIS02191,Earthquake,High,52
+DIS02192,Flood,Low,42
+DIS02193,Earthquake,Medium,63
+DIS02194,Cyber Attack,High,32
+DIS02195,Cyber Attack,Low,43
+DIS02196,Port Closure,Low,15
+DIS02197,Supplier Failure,Low,23
+DIS02198,Flood,Medium,96
+DIS02199,Flood,High,57
+DIS02200,Supplier Failure,Medium,60
+DIS02201,Cyber Attack,Medium,19
+DIS02202,Earthquake,Low,37
+DIS02203,Flood,High,49
+DIS02204,Earthquake,Medium,29
+DIS02205,Earthquake,Medium,26
+DIS02206,Cyber Attack,Low,39
+DIS02207,Supplier Failure,Medium,94
+DIS02208,Flood,Low,37
+DIS02209,Cyber Attack,Medium,83
+DIS02210,Cyber Attack,High,37
+DIS02211,Supplier Failure,High,64
+DIS02212,Flood,Medium,46
+DIS02213,Cyber Attack,High,97
+DIS02214,Port Closure,High,91
+DIS02215,Supplier Failure,Medium,87
+DIS02216,Flood,Medium,16
+DIS02217,Cyber Attack,Low,39
+DIS02218,Port Closure,High,8
+DIS02219,Port Closure,Medium,94
+DIS02220,Port Closure,Medium,82
+DIS02221,Supplier Failure,High,75
+DIS02222,Cyber Attack,High,86
+DIS02223,Port Closure,High,28
+DIS02224,Supplier Failure,Low,84
+DIS02225,Earthquake,Low,46
+DIS02226,Earthquake,High,14
+DIS02227,Flood,Low,2
+DIS02228,Port Closure,Low,6
+DIS02229,Cyber Attack,High,45
+DIS02230,Port Closure,Low,38
+DIS02231,Flood,Medium,66
+DIS02232,Supplier Failure,Low,59
+DIS02233,Supplier Failure,High,45
+DIS02234,Flood,High,33
+DIS02235,Port Closure,Low,59
+DIS02236,Cyber Attack,Low,61
+DIS02237,Supplier Failure,Medium,95
+DIS02238,Port Closure,Low,72
+DIS02239,Cyber Attack,High,99
+DIS02240,Port Closure,High,44
+DIS02241,Flood,High,45
+DIS02242,Cyber Attack,Medium,17
+DIS02243,Supplier Failure,Medium,85
+DIS02244,Earthquake,Low,18
+DIS02245,Earthquake,Low,6
+DIS02246,Supplier Failure,Low,59
+DIS02247,Port Closure,Low,55
+DIS02248,Earthquake,High,40
+DIS02249,Port Closure,High,27
+DIS02250,Port Closure,High,25
+DIS02251,Flood,High,82
+DIS02252,Cyber Attack,Medium,60
+DIS02253,Cyber Attack,Medium,56
+DIS02254,Flood,Medium,18
+DIS02255,Supplier Failure,High,55
+DIS02256,Port Closure,High,32
+DIS02257,Earthquake,High,65
+DIS02258,Earthquake,High,48
+DIS02259,Port Closure,Low,57
+DIS02260,Cyber Attack,Medium,62
+DIS02261,Flood,High,56
+DIS02262,Supplier Failure,High,3
+DIS02263,Cyber Attack,Medium,11
+DIS02264,Supplier Failure,Medium,64
+DIS02265,Port Closure,Low,8
+DIS02266,Cyber Attack,Low,56
+DIS02267,Flood,High,14
+DIS02268,Supplier Failure,Low,3
+DIS02269,Supplier Failure,Low,21
+DIS02270,Cyber Attack,Medium,85
+DIS02271,Port Closure,Low,68
+DIS02272,Flood,Medium,30
+DIS02273,Flood,High,3
+DIS02274,Supplier Failure,Low,79
+DIS02275,Supplier Failure,High,64
+DIS02276,Port Closure,Medium,9
+DIS02277,Flood,High,3
+DIS02278,Port Closure,Low,96
+DIS02279,Earthquake,Low,36
+DIS02280,Earthquake,Medium,47
+DIS02281,Flood,High,13
+DIS02282,Port Closure,Low,12
+DIS02283,Supplier Failure,Low,40
+DIS02284,Earthquake,High,97
+DIS02285,Flood,Medium,50
+DIS02286,Port Closure,High,71
+DIS02287,Earthquake,High,5
+DIS02288,Port Closure,Low,22
+DIS02289,Cyber Attack,Low,50
+DIS02290,Flood,High,14
+DIS02291,Port Closure,Low,83
+DIS02292,Flood,Medium,74
+DIS02293,Supplier Failure,High,59
+DIS02294,Flood,Low,80
+DIS02295,Supplier Failure,Medium,75
+DIS02296,Supplier Failure,High,68
+DIS02297,Earthquake,Medium,25
+DIS02298,Earthquake,High,45
+DIS02299,Port Closure,Low,55
+DIS02300,Earthquake,Low,23
+DIS02301,Port Closure,High,64
+DIS02302,Supplier Failure,Medium,95
+DIS02303,Earthquake,Low,56
+DIS02304,Earthquake,Low,77
+DIS02305,Supplier Failure,High,29
+DIS02306,Supplier Failure,Medium,60
+DIS02307,Supplier Failure,Medium,64
+DIS02308,Supplier Failure,Low,47
+DIS02309,Port Closure,High,62
+DIS02310,Flood,Low,49
+DIS02311,Cyber Attack,Low,75
+DIS02312,Port Closure,Low,48
+DIS02313,Flood,High,31
+DIS02314,Cyber Attack,Medium,8
+DIS02315,Flood,High,66
+DIS02316,Earthquake,Low,69
+DIS02317,Flood,High,33
+DIS02318,Earthquake,Medium,70
+DIS02319,Port Closure,Medium,25
+DIS02320,Supplier Failure,High,61
+DIS02321,Earthquake,Medium,43
+DIS02322,Earthquake,High,9
+DIS02323,Flood,Low,48
+DIS02324,Flood,High,33
+DIS02325,Port Closure,Low,43
+DIS02326,Earthquake,High,45
+DIS02327,Cyber Attack,High,25
+DIS02328,Earthquake,Low,65
+DIS02329,Port Closure,Low,55
+DIS02330,Earthquake,Medium,96
+DIS02331,Port Closure,Low,92
+DIS02332,Supplier Failure,High,9
+DIS02333,Earthquake,Medium,43
+DIS02334,Cyber Attack,Medium,73
+DIS02335,Earthquake,Low,92
+DIS02336,Port Closure,High,46
+DIS02337,Port Closure,High,82
+DIS02338,Flood,Low,76
+DIS02339,Port Closure,High,38
+DIS02340,Flood,Low,76
+DIS02341,Supplier Failure,High,6
+DIS02342,Earthquake,Medium,21
+DIS02343,Port Closure,High,21
+DIS02344,Port Closure,Medium,41
+DIS02345,Port Closure,Medium,54
+DIS02346,Cyber Attack,Medium,70
+DIS02347,Flood,High,99
+DIS02348,Earthquake,Medium,29
+DIS02349,Earthquake,High,79
+DIS02350,Flood,High,66
+DIS02351,Flood,Medium,39
+DIS02352,Supplier Failure,High,27
+DIS02353,Port Closure,Low,59
+DIS02354,Flood,High,18
+DIS02355,Supplier Failure,Medium,23
+DIS02356,Flood,Medium,39
+DIS02357,Cyber Attack,High,81
+DIS02358,Flood,Medium,21
+DIS02359,Cyber Attack,Low,32
+DIS02360,Port Closure,High,100
+DIS02361,Earthquake,Medium,53
+DIS02362,Port Closure,Low,45
+DIS02363,Flood,High,84
+DIS02364,Supplier Failure,Medium,55
+DIS02365,Supplier Failure,Medium,11
+DIS02366,Flood,Low,53
+DIS02367,Flood,High,59
+DIS02368,Supplier Failure,High,5
+DIS02369,Flood,Low,8
+DIS02370,Cyber Attack,Low,90
+DIS02371,Supplier Failure,High,57
+DIS02372,Flood,Medium,22
+DIS02373,Cyber Attack,Medium,50
+DIS02374,Flood,Low,35
+DIS02375,Earthquake,Low,39
+DIS02376,Flood,High,29
+DIS02377,Supplier Failure,Low,90
+DIS02378,Cyber Attack,High,16
+DIS02379,Cyber Attack,Low,21
+DIS02380,Earthquake,Medium,88
+DIS02381,Flood,High,36
+DIS02382,Supplier Failure,Medium,24
+DIS02383,Cyber Attack,Medium,68
+DIS02384,Port Closure,Low,67
+DIS02385,Earthquake,Medium,69
+DIS02386,Port Closure,Medium,12
+DIS02387,Port Closure,Medium,19
+DIS02388,Flood,Medium,13
+DIS02389,Cyber Attack,High,78
+DIS02390,Supplier Failure,Low,5
+DIS02391,Cyber Attack,High,99
+DIS02392,Flood,Low,36
+DIS02393,Flood,High,67
+DIS02394,Supplier Failure,Low,89
+DIS02395,Cyber Attack,Medium,2
+DIS02396,Flood,Low,43
+DIS02397,Flood,Medium,78
+DIS02398,Supplier Failure,Medium,70
+DIS02399,Port Closure,Medium,81
+DIS02400,Cyber Attack,High,100
+DIS02401,Cyber Attack,Medium,59
+DIS02402,Cyber Attack,Medium,74
+DIS02403,Cyber Attack,Medium,33
+DIS02404,Supplier Failure,Low,98
+DIS02405,Flood,Low,74
+DIS02406,Cyber Attack,Medium,73
+DIS02407,Cyber Attack,Low,99
+DIS02408,Supplier Failure,High,89
+DIS02409,Port Closure,Low,28
+DIS02410,Supplier Failure,High,67
+DIS02411,Supplier Failure,Low,46
+DIS02412,Port Closure,Medium,90
+DIS02413,Supplier Failure,Medium,27
+DIS02414,Earthquake,High,89
+DIS02415,Cyber Attack,Medium,79
+DIS02416,Cyber Attack,Medium,87
+DIS02417,Cyber Attack,High,45
+DIS02418,Flood,Low,61
+DIS02419,Supplier Failure,Medium,63
+DIS02420,Port Closure,High,45
+DIS02421,Cyber Attack,High,1
+DIS02422,Supplier Failure,High,4
+DIS02423,Flood,Medium,10
+DIS02424,Earthquake,Low,56
+DIS02425,Cyber Attack,Medium,57
+DIS02426,Port Closure,Low,46
+DIS02427,Port Closure,High,49
+DIS02428,Flood,Low,9
+DIS02429,Flood,High,59
+DIS02430,Cyber Attack,Medium,55
+DIS02431,Port Closure,Medium,19
+DIS02432,Earthquake,Low,41
+DIS02433,Supplier Failure,Medium,64
+DIS02434,Supplier Failure,High,87
+DIS02435,Port Closure,Medium,87
+DIS02436,Earthquake,Medium,94
+DIS02437,Port Closure,Low,98
+DIS02438,Port Closure,Medium,24
+DIS02439,Cyber Attack,High,39
+DIS02440,Flood,High,96
+DIS02441,Earthquake,High,11
+DIS02442,Flood,Low,5
+DIS02443,Port Closure,Medium,99
+DIS02444,Cyber Attack,Low,67
+DIS02445,Port Closure,Low,76
+DIS02446,Earthquake,High,33
+DIS02447,Flood,Medium,28
+DIS02448,Cyber Attack,Low,23
+DIS02449,Flood,Medium,25
+DIS02450,Earthquake,High,82
+DIS02451,Flood,Low,40
+DIS02452,Port Closure,High,22
+DIS02453,Cyber Attack,High,35
+DIS02454,Supplier Failure,High,73
+DIS02455,Cyber Attack,High,74
+DIS02456,Cyber Attack,Medium,8
+DIS02457,Supplier Failure,High,32
+DIS02458,Cyber Attack,Low,86
+DIS02459,Earthquake,Medium,97
+DIS02460,Flood,Low,50
+DIS02461,Earthquake,Medium,32
+DIS02462,Flood,Medium,6
+DIS02463,Earthquake,Low,80
+DIS02464,Supplier Failure,High,78
+DIS02465,Cyber Attack,Medium,82
+DIS02466,Supplier Failure,Medium,50
+DIS02467,Supplier Failure,Low,69
+DIS02468,Supplier Failure,High,8
+DIS02469,Supplier Failure,Low,75
+DIS02470,Earthquake,High,74
+DIS02471,Cyber Attack,Medium,65
+DIS02472,Flood,Low,81
+DIS02473,Earthquake,High,33
+DIS02474,Earthquake,Low,90
+DIS02475,Port Closure,Medium,49
+DIS02476,Port Closure,Low,92
+DIS02477,Flood,High,64
+DIS02478,Flood,High,53
+DIS02479,Flood,High,70
+DIS02480,Flood,Medium,67
+DIS02481,Cyber Attack,Low,58
+DIS02482,Earthquake,High,71
+DIS02483,Supplier Failure,Medium,47
+DIS02484,Port Closure,High,28
+DIS02485,Flood,Low,23
+DIS02486,Port Closure,Low,92
+DIS02487,Supplier Failure,Low,27
+DIS02488,Earthquake,Medium,84
+DIS02489,Flood,High,18
+DIS02490,Earthquake,High,51
+DIS02491,Cyber Attack,Medium,15
+DIS02492,Flood,High,72
+DIS02493,Cyber Attack,High,35
+DIS02494,Earthquake,Medium,94
+DIS02495,Earthquake,High,4
+DIS02496,Cyber Attack,Low,100
+DIS02497,Flood,Low,47
+DIS02498,Port Closure,Low,52
+DIS02499,Earthquake,Low,6
+DIS02500,Earthquake,High,33
+DIS02501,Flood,Medium,57
+DIS02502,Supplier Failure,High,32
+DIS02503,Cyber Attack,High,56
+DIS02504,Flood,Low,43
+DIS02505,Flood,High,54
+DIS02506,Earthquake,Medium,2
+DIS02507,Flood,High,20
+DIS02508,Port Closure,Low,37
+DIS02509,Earthquake,High,54
+DIS02510,Flood,High,37
+DIS02511,Port Closure,High,9
+DIS02512,Earthquake,Medium,72
+DIS02513,Earthquake,High,28
+DIS02514,Supplier Failure,Medium,46
+DIS02515,Port Closure,High,45
+DIS02516,Flood,Low,89
+DIS02517,Supplier Failure,Low,71
+DIS02518,Supplier Failure,Low,100
+DIS02519,Cyber Attack,Medium,1
+DIS02520,Cyber Attack,Low,48
+DIS02521,Cyber Attack,High,77
+DIS02522,Cyber Attack,High,34
+DIS02523,Cyber Attack,Low,25
+DIS02524,Earthquake,High,58
+DIS02525,Flood,High,67
+DIS02526,Port Closure,Low,24
+DIS02527,Flood,Low,77
+DIS02528,Port Closure,High,83
+DIS02529,Cyber Attack,Medium,19
+DIS02530,Port Closure,High,65
+DIS02531,Flood,High,63
+DIS02532,Earthquake,Low,21
+DIS02533,Cyber Attack,Low,67
+DIS02534,Supplier Failure,High,100
+DIS02535,Flood,Medium,66
+DIS02536,Flood,Medium,79
+DIS02537,Cyber Attack,Medium,35
+DIS02538,Earthquake,High,82
+DIS02539,Earthquake,Medium,94
+DIS02540,Earthquake,Medium,53
+DIS02541,Supplier Failure,Low,12
+DIS02542,Earthquake,Medium,28
+DIS02543,Cyber Attack,Low,34
+DIS02544,Earthquake,High,71
+DIS02545,Port Closure,Low,35
+DIS02546,Cyber Attack,High,48
+DIS02547,Earthquake,Medium,49
+DIS02548,Port Closure,High,39
+DIS02549,Earthquake,High,36
+DIS02550,Earthquake,Medium,12
+DIS02551,Flood,Medium,71
+DIS02552,Supplier Failure,High,93
+DIS02553,Supplier Failure,High,89
+DIS02554,Port Closure,High,76
+DIS02555,Cyber Attack,Medium,2
+DIS02556,Earthquake,High,29
+DIS02557,Supplier Failure,High,5
+DIS02558,Flood,High,88
+DIS02559,Supplier Failure,Medium,68
+DIS02560,Flood,Medium,14
+DIS02561,Earthquake,Medium,11
+DIS02562,Supplier Failure,High,20
+DIS02563,Earthquake,Medium,82
+DIS02564,Earthquake,High,84
+DIS02565,Supplier Failure,High,42
+DIS02566,Supplier Failure,Medium,15
+DIS02567,Earthquake,Medium,34
+DIS02568,Flood,Medium,9
+DIS02569,Cyber Attack,High,59
+DIS02570,Port Closure,High,56
+DIS02571,Flood,High,77
+DIS02572,Port Closure,Medium,87
+DIS02573,Earthquake,Low,61
+DIS02574,Flood,Medium,20
+DIS02575,Flood,Medium,46
+DIS02576,Earthquake,Medium,20
+DIS02577,Earthquake,Low,94
+DIS02578,Flood,High,32
+DIS02579,Flood,Low,3
+DIS02580,Supplier Failure,Medium,20
+DIS02581,Flood,High,67
+DIS02582,Cyber Attack,High,94
+DIS02583,Cyber Attack,Low,24
+DIS02584,Cyber Attack,High,92
+DIS02585,Supplier Failure,High,86
+DIS02586,Port Closure,Low,14
+DIS02587,Flood,High,29
+DIS02588,Cyber Attack,Low,44
+DIS02589,Flood,Low,82
+DIS02590,Flood,Low,41
+DIS02591,Supplier Failure,Medium,95
+DIS02592,Port Closure,Medium,11
+DIS02593,Supplier Failure,High,95
+DIS02594,Cyber Attack,Medium,8
+DIS02595,Cyber Attack,High,42
+DIS02596,Flood,Medium,99
+DIS02597,Port Closure,High,69
+DIS02598,Supplier Failure,High,74
+DIS02599,Earthquake,Medium,39
+DIS02600,Cyber Attack,Low,74
+DIS02601,Flood,Medium,61
+DIS02602,Supplier Failure,Low,96
+DIS02603,Cyber Attack,Medium,28
+DIS02604,Port Closure,Low,100
+DIS02605,Earthquake,Medium,60
+DIS02606,Supplier Failure,Medium,56
+DIS02607,Cyber Attack,Low,8
+DIS02608,Port Closure,Medium,73
+DIS02609,Flood,High,40
+DIS02610,Earthquake,Medium,57
+DIS02611,Supplier Failure,High,37
+DIS02612,Supplier Failure,High,20
+DIS02613,Cyber Attack,High,87
+DIS02614,Cyber Attack,Low,76
+DIS02615,Flood,High,1
+DIS02616,Cyber Attack,High,46
+DIS02617,Supplier Failure,Low,46
+DIS02618,Earthquake,Low,49
+DIS02619,Earthquake,Medium,89
+DIS02620,Cyber Attack,Low,36
+DIS02621,Port Closure,Medium,88
+DIS02622,Cyber Attack,Low,87
+DIS02623,Port Closure,Medium,8
+DIS02624,Earthquake,High,35
+DIS02625,Cyber Attack,High,64
+DIS02626,Earthquake,Medium,60
+DIS02627,Earthquake,Medium,45
+DIS02628,Flood,Medium,78
+DIS02629,Port Closure,Medium,91
+DIS02630,Earthquake,Medium,76
+DIS02631,Cyber Attack,Low,5
+DIS02632,Flood,Low,4
+DIS02633,Port Closure,Low,6
+DIS02634,Port Closure,High,78
+DIS02635,Port Closure,Medium,11
+DIS02636,Port Closure,High,34
+DIS02637,Port Closure,Low,65
+DIS02638,Supplier Failure,High,91
+DIS02639,Flood,Low,33
+DIS02640,Supplier Failure,Medium,59
+DIS02641,Flood,Low,73
+DIS02642,Earthquake,Medium,66
+DIS02643,Earthquake,Low,98
+DIS02644,Port Closure,Medium,67
+DIS02645,Earthquake,High,27
+DIS02646,Supplier Failure,Low,58
+DIS02647,Flood,High,35
+DIS02648,Cyber Attack,High,95
+DIS02649,Earthquake,High,50
+DIS02650,Cyber Attack,Medium,83
+DIS02651,Flood,High,42
+DIS02652,Supplier Failure,Low,21
+DIS02653,Flood,Medium,18
+DIS02654,Cyber Attack,Medium,78
+DIS02655,Cyber Attack,Low,52
+DIS02656,Supplier Failure,High,78
+DIS02657,Earthquake,High,75
+DIS02658,Cyber Attack,Low,15
+DIS02659,Flood,High,51
+DIS02660,Cyber Attack,Medium,83
+DIS02661,Supplier Failure,High,9
+DIS02662,Cyber Attack,Medium,43
+DIS02663,Port Closure,High,54
+DIS02664,Earthquake,High,42
+DIS02665,Cyber Attack,Medium,70
+DIS02666,Cyber Attack,Medium,82
+DIS02667,Cyber Attack,High,57
+DIS02668,Flood,Low,97
+DIS02669,Cyber Attack,High,73
+DIS02670,Flood,Low,56
+DIS02671,Cyber Attack,Low,2
+DIS02672,Earthquake,High,32
+DIS02673,Cyber Attack,Medium,29
+DIS02674,Cyber Attack,Low,63
+DIS02675,Flood,High,29
+DIS02676,Port Closure,Medium,32
+DIS02677,Cyber Attack,Medium,8
+DIS02678,Flood,High,24
+DIS02679,Port Closure,Low,34
+DIS02680,Cyber Attack,High,51
+DIS02681,Cyber Attack,High,48
+DIS02682,Flood,Low,97
+DIS02683,Cyber Attack,Low,93
+DIS02684,Cyber Attack,High,56
+DIS02685,Flood,Medium,80
+DIS02686,Port Closure,Low,37
+DIS02687,Cyber Attack,Medium,59
+DIS02688,Port Closure,Medium,17
+DIS02689,Port Closure,High,93
+DIS02690,Cyber Attack,Medium,61
+DIS02691,Supplier Failure,Low,6
+DIS02692,Earthquake,High,98
+DIS02693,Supplier Failure,High,91
+DIS02694,Supplier Failure,High,42
+DIS02695,Port Closure,High,75
+DIS02696,Supplier Failure,High,39
+DIS02697,Port Closure,High,11
+DIS02698,Port Closure,Low,16
+DIS02699,Cyber Attack,High,60
+DIS02700,Supplier Failure,Low,56
+DIS02701,Flood,Low,48
+DIS02702,Supplier Failure,Low,21
+DIS02703,Earthquake,Medium,90
+DIS02704,Flood,High,87
+DIS02705,Port Closure,Medium,50
+DIS02706,Earthquake,High,46
+DIS02707,Flood,High,84
+DIS02708,Supplier Failure,Medium,100
+DIS02709,Flood,Low,93
+DIS02710,Cyber Attack,Medium,22
+DIS02711,Cyber Attack,Low,29
+DIS02712,Supplier Failure,Medium,11
+DIS02713,Earthquake,Low,52
+DIS02714,Flood,High,17
+DIS02715,Cyber Attack,Medium,43
+DIS02716,Supplier Failure,High,84
+DIS02717,Flood,Medium,72
+DIS02718,Earthquake,High,38
+DIS02719,Flood,Low,12
+DIS02720,Earthquake,High,28
+DIS02721,Port Closure,Medium,68
+DIS02722,Supplier Failure,Low,81
+DIS02723,Cyber Attack,Medium,98
+DIS02724,Flood,High,31
+DIS02725,Flood,Low,15
+DIS02726,Flood,High,29
+DIS02727,Cyber Attack,Low,38
+DIS02728,Flood,High,95
+DIS02729,Earthquake,High,83
+DIS02730,Supplier Failure,Low,39
+DIS02731,Cyber Attack,High,8
+DIS02732,Cyber Attack,Low,60
+DIS02733,Supplier Failure,Medium,88
+DIS02734,Supplier Failure,High,55
+DIS02735,Earthquake,Medium,13
+DIS02736,Port Closure,High,66
+DIS02737,Cyber Attack,Medium,4
+DIS02738,Port Closure,Medium,97
+DIS02739,Port Closure,High,97
+DIS02740,Cyber Attack,High,19
+DIS02741,Earthquake,Medium,95
+DIS02742,Supplier Failure,Medium,57
+DIS02743,Supplier Failure,High,48
+DIS02744,Supplier Failure,Low,9
+DIS02745,Earthquake,High,23
+DIS02746,Earthquake,Medium,63
+DIS02747,Earthquake,Medium,45
+DIS02748,Port Closure,High,16
+DIS02749,Cyber Attack,High,44
+DIS02750,Earthquake,High,92
+DIS02751,Port Closure,Medium,76
+DIS02752,Flood,Medium,93
+DIS02753,Earthquake,High,20
+DIS02754,Supplier Failure,Low,12
+DIS02755,Flood,Low,61
+DIS02756,Earthquake,Low,58
+DIS02757,Earthquake,High,12
+DIS02758,Cyber Attack,Low,15
+DIS02759,Flood,High,20
+DIS02760,Cyber Attack,Low,84
+DIS02761,Cyber Attack,Low,35
+DIS02762,Earthquake,Low,98
+DIS02763,Flood,High,19
+DIS02764,Cyber Attack,Medium,99
+DIS02765,Cyber Attack,Medium,23
+DIS02766,Supplier Failure,High,74
+DIS02767,Cyber Attack,High,29
+DIS02768,Cyber Attack,Low,52
+DIS02769,Supplier Failure,High,7
+DIS02770,Supplier Failure,Medium,22
+DIS02771,Flood,Low,75
+DIS02772,Cyber Attack,Low,72
+DIS02773,Cyber Attack,High,93
+DIS02774,Supplier Failure,Low,68
+DIS02775,Earthquake,Medium,51
+DIS02776,Flood,High,49
+DIS02777,Earthquake,Medium,37
+DIS02778,Earthquake,Low,5
+DIS02779,Cyber Attack,Medium,63
+DIS02780,Cyber Attack,High,41
+DIS02781,Supplier Failure,High,91
+DIS02782,Earthquake,High,3
+DIS02783,Flood,Medium,55
+DIS02784,Cyber Attack,High,48
+DIS02785,Port Closure,Low,2
+DIS02786,Port Closure,Low,71
+DIS02787,Port Closure,High,22
+DIS02788,Earthquake,Medium,98
+DIS02789,Flood,High,97
+DIS02790,Supplier Failure,High,47
+DIS02791,Flood,Medium,58
+DIS02792,Flood,High,5
+DIS02793,Supplier Failure,High,54
+DIS02794,Supplier Failure,High,61
+DIS02795,Port Closure,Low,70
+DIS02796,Cyber Attack,High,43
+DIS02797,Port Closure,High,45
+DIS02798,Supplier Failure,Low,77
+DIS02799,Port Closure,High,2
+DIS02800,Port Closure,High,80
+DIS02801,Supplier Failure,Medium,54
+DIS02802,Earthquake,High,89
+DIS02803,Flood,High,7
+DIS02804,Supplier Failure,Low,100
+DIS02805,Earthquake,Low,24
+DIS02806,Port Closure,Low,28
+DIS02807,Supplier Failure,High,35
+DIS02808,Cyber Attack,Medium,77
+DIS02809,Flood,Low,48
+DIS02810,Flood,High,75
+DIS02811,Port Closure,Medium,58
+DIS02812,Flood,High,58
+DIS02813,Port Closure,Low,32
+DIS02814,Supplier Failure,Low,88
+DIS02815,Earthquake,Medium,55
+DIS02816,Port Closure,Low,37
+DIS02817,Earthquake,High,11
+DIS02818,Flood,Low,55
+DIS02819,Supplier Failure,High,31
+DIS02820,Earthquake,Low,17
+DIS02821,Earthquake,High,53
+DIS02822,Port Closure,High,31
+DIS02823,Earthquake,High,94
+DIS02824,Flood,Low,77
+DIS02825,Port Closure,Medium,74
+DIS02826,Earthquake,Low,40
+DIS02827,Flood,High,26
+DIS02828,Port Closure,Low,56
+DIS02829,Supplier Failure,Medium,54
+DIS02830,Port Closure,High,22
+DIS02831,Port Closure,Medium,56
+DIS02832,Earthquake,High,67
+DIS02833,Earthquake,Low,46
+DIS02834,Earthquake,Low,66
+DIS02835,Supplier Failure,Low,57
+DIS02836,Cyber Attack,Medium,54
+DIS02837,Port Closure,High,63
+DIS02838,Earthquake,Medium,88
+DIS02839,Earthquake,Medium,25
+DIS02840,Cyber Attack,Medium,48
+DIS02841,Supplier Failure,Low,79
+DIS02842,Cyber Attack,Low,78
+DIS02843,Earthquake,High,33
+DIS02844,Port Closure,High,51
+DIS02845,Port Closure,Medium,78
+DIS02846,Supplier Failure,Medium,40
+DIS02847,Cyber Attack,High,92
+DIS02848,Flood,Medium,80
+DIS02849,Cyber Attack,High,60
+DIS02850,Earthquake,Low,39
+DIS02851,Port Closure,Medium,1
+DIS02852,Port Closure,Medium,56
+DIS02853,Port Closure,Medium,39
+DIS02854,Flood,Low,21
+DIS02855,Port Closure,Low,26
+DIS02856,Earthquake,Low,18
+DIS02857,Flood,High,79
+DIS02858,Port Closure,Low,19
+DIS02859,Cyber Attack,High,72
+DIS02860,Cyber Attack,Medium,34
+DIS02861,Supplier Failure,Low,84
+DIS02862,Supplier Failure,Medium,55
+DIS02863,Cyber Attack,Low,65
+DIS02864,Flood,Medium,3
+DIS02865,Flood,Medium,98
+DIS02866,Cyber Attack,High,72
+DIS02867,Earthquake,Medium,39
+DIS02868,Flood,Low,39
+DIS02869,Cyber Attack,High,42
+DIS02870,Flood,High,53
+DIS02871,Port Closure,High,86
+DIS02872,Earthquake,Medium,84
+DIS02873,Flood,Low,90
+DIS02874,Supplier Failure,Low,88
+DIS02875,Flood,High,98
+DIS02876,Earthquake,High,4
+DIS02877,Flood,High,75
+DIS02878,Earthquake,Medium,93
+DIS02879,Earthquake,Medium,7
+DIS02880,Flood,Medium,85
+DIS02881,Supplier Failure,Low,42
+DIS02882,Cyber Attack,Low,64
+DIS02883,Port Closure,Medium,84
+DIS02884,Cyber Attack,Medium,70
+DIS02885,Supplier Failure,Low,78
+DIS02886,Earthquake,Low,34
+DIS02887,Port Closure,High,68
+DIS02888,Flood,Medium,77
+DIS02889,Port Closure,Medium,60
+DIS02890,Supplier Failure,Low,10
+DIS02891,Earthquake,Medium,97
+DIS02892,Flood,High,6
+DIS02893,Port Closure,Low,69
+DIS02894,Cyber Attack,Low,54
+DIS02895,Earthquake,Medium,76
+DIS02896,Port Closure,Low,73
+DIS02897,Supplier Failure,High,7
+DIS02898,Flood,Low,90
+DIS02899,Cyber Attack,High,83
+DIS02900,Cyber Attack,Low,33
+DIS02901,Earthquake,High,93
+DIS02902,Earthquake,Medium,41
+DIS02903,Port Closure,High,49
+DIS02904,Flood,Medium,86
+DIS02905,Port Closure,Low,92
+DIS02906,Earthquake,Low,42
+DIS02907,Cyber Attack,High,2
+DIS02908,Cyber Attack,Low,38
+DIS02909,Flood,High,30
+DIS02910,Cyber Attack,Medium,47
+DIS02911,Port Closure,Medium,90
+DIS02912,Flood,Medium,3
+DIS02913,Supplier Failure,High,19
+DIS02914,Port Closure,High,40
+DIS02915,Supplier Failure,Low,98
+DIS02916,Port Closure,Medium,19
+DIS02917,Earthquake,Medium,38
+DIS02918,Port Closure,Medium,62
+DIS02919,Earthquake,Medium,57
+DIS02920,Flood,Low,46
+DIS02921,Port Closure,Low,72
+DIS02922,Supplier Failure,Low,32
+DIS02923,Supplier Failure,High,90
+DIS02924,Flood,Low,8
+DIS02925,Supplier Failure,Low,79
+DIS02926,Flood,High,41
+DIS02927,Earthquake,High,44
+DIS02928,Flood,Low,43
+DIS02929,Earthquake,High,38
+DIS02930,Port Closure,Low,63
+DIS02931,Port Closure,Medium,83
+DIS02932,Earthquake,High,86
+DIS02933,Earthquake,Low,77
+DIS02934,Supplier Failure,Low,60
+DIS02935,Cyber Attack,High,17
+DIS02936,Flood,Low,9
+DIS02937,Cyber Attack,Medium,38
+DIS02938,Supplier Failure,Medium,57
+DIS02939,Flood,High,99
+DIS02940,Flood,Medium,74
+DIS02941,Earthquake,High,70
+DIS02942,Supplier Failure,Medium,15
+DIS02943,Supplier Failure,Low,19
+DIS02944,Supplier Failure,High,73
+DIS02945,Earthquake,High,66
+DIS02946,Supplier Failure,High,69
+DIS02947,Port Closure,Medium,16
+DIS02948,Cyber Attack,Medium,21
+DIS02949,Supplier Failure,Medium,99
+DIS02950,Cyber Attack,Medium,36
+DIS02951,Port Closure,Low,10
+DIS02952,Cyber Attack,Medium,87
+DIS02953,Cyber Attack,Low,82
+DIS02954,Supplier Failure,High,39
+DIS02955,Supplier Failure,High,71
+DIS02956,Earthquake,High,67
+DIS02957,Earthquake,Medium,2
+DIS02958,Earthquake,Medium,76
+DIS02959,Earthquake,Medium,25
+DIS02960,Flood,Medium,95
+DIS02961,Port Closure,High,91
+DIS02962,Cyber Attack,High,99
+DIS02963,Supplier Failure,Medium,97
+DIS02964,Earthquake,High,7
+DIS02965,Cyber Attack,Medium,51
+DIS02966,Port Closure,High,71
+DIS02967,Supplier Failure,Low,31
+DIS02968,Port Closure,Low,91
+DIS02969,Supplier Failure,Low,94
+DIS02970,Cyber Attack,High,17
+DIS02971,Supplier Failure,Medium,57
+DIS02972,Supplier Failure,High,12
+DIS02973,Flood,Low,100
+DIS02974,Supplier Failure,High,55
+DIS02975,Supplier Failure,Low,84
+DIS02976,Flood,Low,27
+DIS02977,Supplier Failure,High,47
+DIS02978,Earthquake,High,32
+DIS02979,Port Closure,Medium,95
+DIS02980,Port Closure,Medium,86
+DIS02981,Flood,High,87
+DIS02982,Cyber Attack,Medium,2
+DIS02983,Earthquake,High,9
+DIS02984,Port Closure,Medium,60
+DIS02985,Flood,Medium,15
+DIS02986,Supplier Failure,High,13
+DIS02987,Supplier Failure,High,73
+DIS02988,Earthquake,Low,18
+DIS02989,Flood,Low,14
+DIS02990,Earthquake,High,21
+DIS02991,Cyber Attack,High,59
+DIS02992,Earthquake,Low,9
+DIS02993,Earthquake,High,37
+DIS02994,Earthquake,High,55
+DIS02995,Port Closure,Medium,86
+DIS02996,Supplier Failure,Medium,56
+DIS02997,Flood,High,75
+DIS02998,Supplier Failure,High,39
+DIS02999,Supplier Failure,High,87
+DIS03000,Supplier Failure,High,73
+DIS03001,Flood,Low,79
+DIS03002,Cyber Attack,High,58
+DIS03003,Earthquake,Medium,56
+DIS03004,Cyber Attack,Low,58
+DIS03005,Port Closure,Low,46
+DIS03006,Port Closure,Medium,99
+DIS03007,Port Closure,Medium,95
+DIS03008,Cyber Attack,High,83
+DIS03009,Cyber Attack,Low,40
+DIS03010,Earthquake,Medium,19
+DIS03011,Earthquake,Medium,86
+DIS03012,Supplier Failure,Low,21
+DIS03013,Port Closure,Low,39
+DIS03014,Supplier Failure,Medium,59
+DIS03015,Flood,Medium,7
+DIS03016,Port Closure,High,8
+DIS03017,Earthquake,Low,43
+DIS03018,Flood,Medium,14
+DIS03019,Port Closure,High,87
+DIS03020,Cyber Attack,Medium,87
+DIS03021,Supplier Failure,Low,35
+DIS03022,Earthquake,Medium,88
+DIS03023,Cyber Attack,Medium,28
+DIS03024,Flood,High,31
+DIS03025,Cyber Attack,Low,38
+DIS03026,Flood,Low,33
+DIS03027,Supplier Failure,Medium,32
+DIS03028,Port Closure,Medium,76
+DIS03029,Cyber Attack,Low,58
+DIS03030,Supplier Failure,Medium,83
+DIS03031,Earthquake,Low,98
+DIS03032,Earthquake,Medium,49
+DIS03033,Flood,High,38
+DIS03034,Port Closure,High,50
+DIS03035,Port Closure,High,15
+DIS03036,Earthquake,Medium,20
+DIS03037,Earthquake,High,27
+DIS03038,Supplier Failure,Low,30
+DIS03039,Flood,Medium,59
+DIS03040,Supplier Failure,Medium,79
+DIS03041,Cyber Attack,High,45
+DIS03042,Port Closure,Low,77
+DIS03043,Earthquake,Medium,88
+DIS03044,Earthquake,Low,87
+DIS03045,Supplier Failure,Low,16
+DIS03046,Port Closure,High,71
+DIS03047,Supplier Failure,Low,3
+DIS03048,Cyber Attack,High,84
+DIS03049,Port Closure,Low,89
+DIS03050,Supplier Failure,High,37
+DIS03051,Flood,Low,31
+DIS03052,Port Closure,Medium,13
+DIS03053,Flood,Low,19
+DIS03054,Flood,Medium,24
+DIS03055,Earthquake,High,86
+DIS03056,Earthquake,Low,85
+DIS03057,Earthquake,High,84
+DIS03058,Supplier Failure,Medium,81
+DIS03059,Earthquake,Medium,39
+DIS03060,Port Closure,Medium,22
+DIS03061,Cyber Attack,Medium,44
+DIS03062,Supplier Failure,Low,14
+DIS03063,Port Closure,High,11
+DIS03064,Supplier Failure,High,92
+DIS03065,Supplier Failure,High,9
+DIS03066,Supplier Failure,Low,75
+DIS03067,Cyber Attack,Low,95
+DIS03068,Earthquake,High,23
+DIS03069,Earthquake,Medium,6
+DIS03070,Supplier Failure,Medium,81
+DIS03071,Flood,Medium,60
+DIS03072,Earthquake,Low,39
+DIS03073,Cyber Attack,Low,74
+DIS03074,Port Closure,High,14
+DIS03075,Earthquake,High,34
+DIS03076,Port Closure,Medium,80
+DIS03077,Flood,Medium,88
+DIS03078,Flood,Low,67
+DIS03079,Cyber Attack,High,25
+DIS03080,Earthquake,Low,5
+DIS03081,Supplier Failure,Low,40
+DIS03082,Earthquake,Low,16
+DIS03083,Earthquake,Low,47
+DIS03084,Supplier Failure,High,12
+DIS03085,Earthquake,Medium,80
+DIS03086,Flood,High,29
+DIS03087,Supplier Failure,High,95
+DIS03088,Cyber Attack,Low,59
+DIS03089,Flood,Low,43
+DIS03090,Flood,Medium,31
+DIS03091,Cyber Attack,Medium,65
+DIS03092,Cyber Attack,High,19
+DIS03093,Port Closure,High,91
+DIS03094,Port Closure,High,29
+DIS03095,Supplier Failure,Low,64
+DIS03096,Earthquake,Low,19
+DIS03097,Flood,High,72
+DIS03098,Cyber Attack,High,21
+DIS03099,Port Closure,High,76
+DIS03100,Flood,Low,82
+DIS03101,Supplier Failure,Low,22
+DIS03102,Earthquake,Low,41
+DIS03103,Flood,Low,80
+DIS03104,Supplier Failure,Medium,92
+DIS03105,Supplier Failure,High,63
+DIS03106,Flood,Low,84
+DIS03107,Port Closure,Medium,33
+DIS03108,Earthquake,Low,99
+DIS03109,Earthquake,High,45
+DIS03110,Flood,Medium,51
+DIS03111,Supplier Failure,High,64
+DIS03112,Cyber Attack,High,20
+DIS03113,Port Closure,Medium,94
+DIS03114,Port Closure,High,20
+DIS03115,Flood,Low,45
+DIS03116,Supplier Failure,Medium,5
+DIS03117,Earthquake,High,75
+DIS03118,Supplier Failure,Low,73
+DIS03119,Earthquake,Medium,68
+DIS03120,Flood,High,97
+DIS03121,Port Closure,Medium,11
+DIS03122,Flood,Low,30
+DIS03123,Earthquake,Medium,35
+DIS03124,Port Closure,High,91
+DIS03125,Cyber Attack,High,1
+DIS03126,Supplier Failure,High,83
+DIS03127,Flood,Low,88
+DIS03128,Flood,Low,87
+DIS03129,Earthquake,Low,39
+DIS03130,Cyber Attack,Low,47
+DIS03131,Port Closure,High,99
+DIS03132,Cyber Attack,High,75
+DIS03133,Flood,High,50
+DIS03134,Cyber Attack,Medium,85
+DIS03135,Supplier Failure,Medium,90
+DIS03136,Cyber Attack,High,77
+DIS03137,Flood,Medium,85
+DIS03138,Port Closure,Low,37
+DIS03139,Supplier Failure,High,83
+DIS03140,Cyber Attack,High,12
+DIS03141,Port Closure,Low,53
+DIS03142,Earthquake,Medium,19
+DIS03143,Port Closure,High,23
+DIS03144,Supplier Failure,High,73
+DIS03145,Port Closure,High,84
+DIS03146,Cyber Attack,Low,8
+DIS03147,Supplier Failure,Medium,78
+DIS03148,Supplier Failure,Medium,21
+DIS03149,Port Closure,Low,66
+DIS03150,Earthquake,High,38
+DIS03151,Supplier Failure,Low,7
+DIS03152,Port Closure,Medium,17
+DIS03153,Flood,Low,4
+DIS03154,Port Closure,High,56
+DIS03155,Supplier Failure,Medium,22
+DIS03156,Port Closure,Medium,33
+DIS03157,Earthquake,Medium,30
+DIS03158,Port Closure,Medium,86
+DIS03159,Cyber Attack,Medium,2
+DIS03160,Port Closure,Low,82
+DIS03161,Flood,Medium,87
+DIS03162,Flood,Medium,74
+DIS03163,Earthquake,High,49
+DIS03164,Port Closure,High,63
+DIS03165,Flood,Medium,40
+DIS03166,Earthquake,Medium,28
+DIS03167,Earthquake,Medium,16
+DIS03168,Supplier Failure,High,56
+DIS03169,Cyber Attack,High,1
+DIS03170,Earthquake,Medium,27
+DIS03171,Supplier Failure,High,23
+DIS03172,Port Closure,High,78
+DIS03173,Earthquake,Medium,20
+DIS03174,Cyber Attack,High,23
+DIS03175,Earthquake,Medium,17
+DIS03176,Cyber Attack,High,25
+DIS03177,Flood,Medium,31
+DIS03178,Supplier Failure,Low,47
+DIS03179,Flood,High,75
+DIS03180,Flood,Medium,31
+DIS03181,Flood,Medium,4
+DIS03182,Flood,High,25
+DIS03183,Port Closure,Low,96
+DIS03184,Flood,Medium,37
+DIS03185,Port Closure,Medium,66
+DIS03186,Supplier Failure,High,100
+DIS03187,Earthquake,High,90
+DIS03188,Cyber Attack,High,10
+DIS03189,Cyber Attack,Medium,8
+DIS03190,Port Closure,Medium,80
+DIS03191,Port Closure,High,95
+DIS03192,Flood,Low,13
+DIS03193,Earthquake,High,9
+DIS03194,Earthquake,Medium,35
+DIS03195,Supplier Failure,Low,19
+DIS03196,Earthquake,High,3
+DIS03197,Cyber Attack,High,59
+DIS03198,Supplier Failure,High,71
+DIS03199,Flood,Medium,83
+DIS03200,Supplier Failure,High,90
+DIS03201,Flood,High,64
+DIS03202,Flood,High,52
+DIS03203,Earthquake,Medium,60
+DIS03204,Flood,High,17
+DIS03205,Flood,Low,67
+DIS03206,Cyber Attack,High,95
+DIS03207,Supplier Failure,Low,49
+DIS03208,Port Closure,High,100
+DIS03209,Flood,Low,92
+DIS03210,Supplier Failure,Medium,41
+DIS03211,Supplier Failure,Low,19
+DIS03212,Earthquake,Low,36
+DIS03213,Cyber Attack,Medium,38
+DIS03214,Earthquake,Medium,42
+DIS03215,Port Closure,Medium,81
+DIS03216,Earthquake,Low,32
+DIS03217,Supplier Failure,High,60
+DIS03218,Cyber Attack,Low,70
+DIS03219,Supplier Failure,Medium,38
+DIS03220,Supplier Failure,High,80
+DIS03221,Cyber Attack,Low,29
+DIS03222,Flood,High,83
+DIS03223,Port Closure,High,29
+DIS03224,Cyber Attack,Low,42
+DIS03225,Flood,Low,90
+DIS03226,Flood,High,84
+DIS03227,Port Closure,Low,80
+DIS03228,Flood,Medium,10
+DIS03229,Supplier Failure,Low,43
+DIS03230,Cyber Attack,Medium,90
+DIS03231,Earthquake,Low,9
+DIS03232,Flood,High,4
+DIS03233,Earthquake,High,68
+DIS03234,Flood,Medium,26
+DIS03235,Port Closure,Medium,88
+DIS03236,Cyber Attack,Low,34
+DIS03237,Cyber Attack,High,57
+DIS03238,Supplier Failure,Medium,15
+DIS03239,Port Closure,Low,62
+DIS03240,Port Closure,Low,98
+DIS03241,Flood,High,73
+DIS03242,Port Closure,High,43
+DIS03243,Port Closure,Low,29
+DIS03244,Earthquake,High,92
+DIS03245,Cyber Attack,Medium,49
+DIS03246,Flood,Medium,60
+DIS03247,Port Closure,Medium,33
+DIS03248,Earthquake,High,19
+DIS03249,Port Closure,Low,9
+DIS03250,Cyber Attack,High,23
+DIS03251,Flood,Low,95
+DIS03252,Earthquake,High,34
+DIS03253,Port Closure,Low,42
+DIS03254,Port Closure,Medium,74
+DIS03255,Flood,Low,5
+DIS03256,Port Closure,High,6
+DIS03257,Flood,Low,79
+DIS03258,Earthquake,Low,86
+DIS03259,Port Closure,Medium,74
+DIS03260,Supplier Failure,Low,46
+DIS03261,Earthquake,Medium,57
+DIS03262,Earthquake,Low,27
+DIS03263,Port Closure,Low,30
+DIS03264,Earthquake,Low,33
+DIS03265,Earthquake,Medium,97
+DIS03266,Supplier Failure,High,100
+DIS03267,Port Closure,High,67
+DIS03268,Earthquake,Medium,25
+DIS03269,Cyber Attack,Medium,48
+DIS03270,Supplier Failure,Low,36
+DIS03271,Earthquake,Medium,7
+DIS03272,Earthquake,Low,77
+DIS03273,Flood,Medium,1
+DIS03274,Supplier Failure,Low,13
+DIS03275,Cyber Attack,Low,29
+DIS03276,Supplier Failure,Medium,47
+DIS03277,Supplier Failure,Medium,89
+DIS03278,Supplier Failure,Low,36
+DIS03279,Flood,Low,78
+DIS03280,Port Closure,Low,89
+DIS03281,Port Closure,Medium,13
+DIS03282,Supplier Failure,High,39
+DIS03283,Port Closure,Medium,50
+DIS03284,Port Closure,Low,18
+DIS03285,Cyber Attack,Low,23
+DIS03286,Port Closure,Medium,17
+DIS03287,Cyber Attack,Medium,59
+DIS03288,Earthquake,Low,54
+DIS03289,Earthquake,Medium,65
+DIS03290,Flood,Low,3
+DIS03291,Cyber Attack,Low,76
+DIS03292,Port Closure,Medium,2
+DIS03293,Cyber Attack,Low,29
+DIS03294,Supplier Failure,Low,46
+DIS03295,Flood,Low,83
+DIS03296,Supplier Failure,Low,11
+DIS03297,Port Closure,High,5
+DIS03298,Port Closure,Low,27
+DIS03299,Earthquake,Low,12
+DIS03300,Cyber Attack,High,50
+DIS03301,Port Closure,Medium,12
+DIS03302,Cyber Attack,Medium,71
+DIS03303,Supplier Failure,High,98
+DIS03304,Port Closure,High,10
+DIS03305,Earthquake,Medium,24
+DIS03306,Supplier Failure,Low,52
+DIS03307,Flood,High,37
+DIS03308,Cyber Attack,Low,23
+DIS03309,Port Closure,Medium,92
+DIS03310,Flood,Medium,54
+DIS03311,Earthquake,Medium,46
+DIS03312,Flood,High,8
+DIS03313,Flood,Low,7
+DIS03314,Supplier Failure,Low,19
+DIS03315,Earthquake,Medium,16
+DIS03316,Supplier Failure,Medium,67
+DIS03317,Port Closure,Medium,28
+DIS03318,Supplier Failure,Medium,43
+DIS03319,Flood,Low,38
+DIS03320,Cyber Attack,Low,40
+DIS03321,Supplier Failure,Low,27
+DIS03322,Flood,Low,23
+DIS03323,Port Closure,Low,29
+DIS03324,Earthquake,Medium,23
+DIS03325,Supplier Failure,Low,86
+DIS03326,Cyber Attack,Low,97
+DIS03327,Supplier Failure,Medium,76
+DIS03328,Earthquake,Low,37
+DIS03329,Cyber Attack,High,4
+DIS03330,Port Closure,Medium,51
+DIS03331,Earthquake,High,4
+DIS03332,Cyber Attack,High,26
+DIS03333,Flood,High,48
+DIS03334,Earthquake,High,62
+DIS03335,Flood,Medium,33
+DIS03336,Earthquake,Low,20
+DIS03337,Cyber Attack,Medium,65
+DIS03338,Cyber Attack,Medium,3
+DIS03339,Earthquake,High,52
+DIS03340,Cyber Attack,Low,38
+DIS03341,Supplier Failure,High,2
+DIS03342,Port Closure,Low,8
+DIS03343,Supplier Failure,Medium,71
+DIS03344,Cyber Attack,High,86
+DIS03345,Flood,Medium,34
+DIS03346,Flood,Medium,57
+DIS03347,Supplier Failure,High,86
+DIS03348,Cyber Attack,High,63
+DIS03349,Flood,High,28
+DIS03350,Supplier Failure,Medium,87
+DIS03351,Port Closure,Low,66
+DIS03352,Flood,Low,65
+DIS03353,Cyber Attack,High,4
+DIS03354,Cyber Attack,High,89
+DIS03355,Flood,High,64
+DIS03356,Flood,High,96
+DIS03357,Port Closure,High,50
+DIS03358,Cyber Attack,Medium,5
+DIS03359,Supplier Failure,Low,25
+DIS03360,Supplier Failure,Low,76
+DIS03361,Cyber Attack,Low,19
+DIS03362,Port Closure,High,55
+DIS03363,Cyber Attack,Medium,79
+DIS03364,Supplier Failure,Low,87
+DIS03365,Port Closure,High,96
+DIS03366,Flood,Medium,64
+DIS03367,Flood,Low,31
+DIS03368,Port Closure,High,76
+DIS03369,Supplier Failure,Medium,88
+DIS03370,Supplier Failure,Medium,77
+DIS03371,Flood,Low,72
+DIS03372,Earthquake,Low,48
+DIS03373,Earthquake,Medium,90
+DIS03374,Earthquake,Medium,92
+DIS03375,Cyber Attack,Low,30
+DIS03376,Supplier Failure,High,32
+DIS03377,Earthquake,Low,41
+DIS03378,Cyber Attack,High,3
+DIS03379,Earthquake,Low,92
+DIS03380,Cyber Attack,High,60
+DIS03381,Flood,Low,46
+DIS03382,Earthquake,High,99
+DIS03383,Earthquake,Low,86
+DIS03384,Cyber Attack,High,87
+DIS03385,Supplier Failure,Medium,91
+DIS03386,Flood,High,7
+DIS03387,Port Closure,High,79
+DIS03388,Earthquake,Medium,66
+DIS03389,Supplier Failure,Medium,97
+DIS03390,Supplier Failure,Medium,97
+DIS03391,Supplier Failure,Medium,2
+DIS03392,Port Closure,Low,98
+DIS03393,Earthquake,Medium,6
+DIS03394,Cyber Attack,High,75
+DIS03395,Flood,Medium,29
+DIS03396,Port Closure,High,23
+DIS03397,Cyber Attack,Medium,15
+DIS03398,Flood,Low,89
+DIS03399,Cyber Attack,Medium,74
+DIS03400,Supplier Failure,Medium,70
+DIS03401,Cyber Attack,Medium,89
+DIS03402,Supplier Failure,Medium,36
+DIS03403,Port Closure,Low,67
+DIS03404,Earthquake,Low,73
+DIS03405,Port Closure,Medium,69
+DIS03406,Flood,High,28
+DIS03407,Flood,Medium,41
+DIS03408,Flood,Low,39
+DIS03409,Cyber Attack,Low,31
+DIS03410,Cyber Attack,High,66
+DIS03411,Earthquake,High,2
+DIS03412,Earthquake,Low,69
+DIS03413,Supplier Failure,Low,47
+DIS03414,Cyber Attack,Low,4
+DIS03415,Supplier Failure,Medium,91
+DIS03416,Supplier Failure,Low,75
+DIS03417,Earthquake,Low,50
+DIS03418,Supplier Failure,Low,84
+DIS03419,Cyber Attack,Low,10
+DIS03420,Port Closure,Medium,98
+DIS03421,Port Closure,High,80
+DIS03422,Supplier Failure,Medium,60
+DIS03423,Earthquake,Medium,57
+DIS03424,Cyber Attack,Medium,50
+DIS03425,Earthquake,Low,100
+DIS03426,Flood,High,5
+DIS03427,Supplier Failure,Low,66
+DIS03428,Port Closure,High,8
+DIS03429,Port Closure,Medium,66
+DIS03430,Port Closure,Medium,31
+DIS03431,Supplier Failure,High,86
+DIS03432,Port Closure,High,28
+DIS03433,Cyber Attack,Medium,17
+DIS03434,Port Closure,High,25
+DIS03435,Flood,High,87
+DIS03436,Earthquake,Medium,21
+DIS03437,Cyber Attack,Low,40
+DIS03438,Earthquake,Medium,47
+DIS03439,Flood,Low,57
+DIS03440,Port Closure,Low,35
+DIS03441,Flood,Medium,97
+DIS03442,Port Closure,Medium,46
+DIS03443,Cyber Attack,Low,66
+DIS03444,Flood,High,12
+DIS03445,Port Closure,High,79
+DIS03446,Port Closure,Medium,63
+DIS03447,Earthquake,Medium,54
+DIS03448,Supplier Failure,High,15
+DIS03449,Earthquake,Low,78
+DIS03450,Earthquake,Medium,53
+DIS03451,Flood,High,71
+DIS03452,Cyber Attack,High,53
+DIS03453,Earthquake,Medium,96
+DIS03454,Flood,High,96
+DIS03455,Flood,High,35
+DIS03456,Cyber Attack,Low,62
+DIS03457,Cyber Attack,Low,86
+DIS03458,Cyber Attack,Low,96
+DIS03459,Cyber Attack,High,98
+DIS03460,Port Closure,Low,73
+DIS03461,Port Closure,High,99
+DIS03462,Earthquake,Medium,85
+DIS03463,Cyber Attack,Medium,60
+DIS03464,Supplier Failure,High,24
+DIS03465,Earthquake,High,77
+DIS03466,Cyber Attack,High,12
+DIS03467,Flood,Low,32
+DIS03468,Cyber Attack,Low,19
+DIS03469,Flood,Low,20
+DIS03470,Earthquake,High,99
+DIS03471,Flood,High,6
+DIS03472,Cyber Attack,High,32
+DIS03473,Port Closure,Medium,3
+DIS03474,Flood,Medium,64
+DIS03475,Flood,Low,31
+DIS03476,Cyber Attack,Low,28
+DIS03477,Earthquake,High,1
+DIS03478,Port Closure,Medium,99
+DIS03479,Earthquake,High,18
+DIS03480,Flood,High,18
+DIS03481,Supplier Failure,High,10
+DIS03482,Flood,High,58
+DIS03483,Port Closure,High,52
+DIS03484,Flood,High,83
+DIS03485,Earthquake,Low,25
+DIS03486,Supplier Failure,Low,98
+DIS03487,Supplier Failure,Low,73
+DIS03488,Earthquake,Low,12
+DIS03489,Port Closure,Medium,54
+DIS03490,Cyber Attack,Medium,74
+DIS03491,Cyber Attack,Medium,46
+DIS03492,Supplier Failure,Low,37
+DIS03493,Cyber Attack,Low,80
+DIS03494,Flood,High,90
+DIS03495,Flood,High,98
+DIS03496,Supplier Failure,High,100
+DIS03497,Port Closure,Low,69
+DIS03498,Port Closure,Medium,69
+DIS03499,Port Closure,High,40
+DIS03500,Cyber Attack,Medium,61
+DIS03501,Flood,High,71
+DIS03502,Port Closure,Low,5
+DIS03503,Flood,Low,4
+DIS03504,Port Closure,Low,90
+DIS03505,Cyber Attack,Medium,90
+DIS03506,Earthquake,Low,93
+DIS03507,Port Closure,Medium,42
+DIS03508,Flood,Medium,73
+DIS03509,Cyber Attack,High,69
+DIS03510,Flood,High,59
+DIS03511,Supplier Failure,Low,28
+DIS03512,Flood,Low,71
+DIS03513,Flood,High,99
+DIS03514,Cyber Attack,Low,45
+DIS03515,Flood,Medium,1
+DIS03516,Cyber Attack,High,40
+DIS03517,Supplier Failure,Low,13
+DIS03518,Earthquake,Medium,37
+DIS03519,Port Closure,Medium,3
+DIS03520,Flood,Medium,21
+DIS03521,Flood,Medium,51
+DIS03522,Earthquake,Low,55
+DIS03523,Earthquake,High,55
+DIS03524,Port Closure,High,8
+DIS03525,Supplier Failure,High,29
+DIS03526,Supplier Failure,High,74
+DIS03527,Flood,Medium,56
+DIS03528,Cyber Attack,High,75
+DIS03529,Supplier Failure,Low,54
+DIS03530,Port Closure,Low,13
+DIS03531,Port Closure,Low,10
+DIS03532,Supplier Failure,Low,71
+DIS03533,Supplier Failure,High,85
+DIS03534,Port Closure,Low,95
+DIS03535,Flood,Medium,42
+DIS03536,Earthquake,Low,77
+DIS03537,Supplier Failure,Low,4
+DIS03538,Cyber Attack,Low,43
+DIS03539,Port Closure,Medium,78
+DIS03540,Cyber Attack,High,27
+DIS03541,Earthquake,High,52
+DIS03542,Supplier Failure,Low,81
+DIS03543,Earthquake,Low,66
+DIS03544,Port Closure,High,8
+DIS03545,Port Closure,High,13
+DIS03546,Supplier Failure,High,36
+DIS03547,Port Closure,Medium,57
+DIS03548,Supplier Failure,High,98
+DIS03549,Cyber Attack,High,90
+DIS03550,Earthquake,Low,72
+DIS03551,Port Closure,Medium,21
+DIS03552,Earthquake,Low,23
+DIS03553,Cyber Attack,Medium,79
+DIS03554,Cyber Attack,High,63
+DIS03555,Cyber Attack,High,6
+DIS03556,Earthquake,Low,73
+DIS03557,Port Closure,Low,75
+DIS03558,Earthquake,Low,70
+DIS03559,Port Closure,Medium,71
+DIS03560,Flood,Low,59
+DIS03561,Flood,High,95
+DIS03562,Earthquake,High,93
+DIS03563,Cyber Attack,Low,35
+DIS03564,Flood,Low,7
+DIS03565,Flood,Low,56
+DIS03566,Port Closure,Medium,93
+DIS03567,Earthquake,Medium,13
+DIS03568,Earthquake,Low,34
+DIS03569,Flood,Medium,39
+DIS03570,Supplier Failure,Low,19
+DIS03571,Cyber Attack,Low,87
+DIS03572,Flood,Medium,29
+DIS03573,Port Closure,Medium,5
+DIS03574,Flood,Low,81
+DIS03575,Earthquake,High,52
+DIS03576,Flood,Low,35
+DIS03577,Cyber Attack,High,20
+DIS03578,Flood,Low,51
+DIS03579,Port Closure,Medium,40
+DIS03580,Cyber Attack,High,89
+DIS03581,Flood,Low,53
+DIS03582,Supplier Failure,Medium,42
+DIS03583,Cyber Attack,Medium,95
+DIS03584,Cyber Attack,Medium,20
+DIS03585,Cyber Attack,Low,1
+DIS03586,Flood,High,29
+DIS03587,Flood,High,53
+DIS03588,Cyber Attack,Low,70
+DIS03589,Flood,High,18
+DIS03590,Earthquake,High,92
+DIS03591,Cyber Attack,Medium,26
+DIS03592,Cyber Attack,High,5
+DIS03593,Cyber Attack,Medium,42
+DIS03594,Port Closure,High,46
+DIS03595,Port Closure,Low,71
+DIS03596,Earthquake,Low,49
+DIS03597,Earthquake,Medium,48
+DIS03598,Supplier Failure,High,41
+DIS03599,Port Closure,High,26
+DIS03600,Cyber Attack,Medium,36
+DIS03601,Flood,Medium,47
+DIS03602,Port Closure,High,41
+DIS03603,Earthquake,High,2
+DIS03604,Supplier Failure,High,11
+DIS03605,Cyber Attack,Low,80
+DIS03606,Earthquake,Low,91
+DIS03607,Port Closure,Low,49
+DIS03608,Flood,Low,18
+DIS03609,Supplier Failure,Medium,98
+DIS03610,Flood,High,13
+DIS03611,Earthquake,Medium,36
+DIS03612,Port Closure,Low,13
+DIS03613,Port Closure,Low,25
+DIS03614,Supplier Failure,Low,33
+DIS03615,Port Closure,Low,30
+DIS03616,Earthquake,High,53
+DIS03617,Supplier Failure,Medium,1
+DIS03618,Earthquake,Low,48
+DIS03619,Supplier Failure,Low,99
+DIS03620,Cyber Attack,Medium,27
+DIS03621,Cyber Attack,Low,46
+DIS03622,Flood,Medium,73
+DIS03623,Port Closure,High,38
+DIS03624,Earthquake,Medium,70
+DIS03625,Supplier Failure,Low,62
+DIS03626,Port Closure,High,61
+DIS03627,Supplier Failure,Medium,67
+DIS03628,Port Closure,High,96
+DIS03629,Port Closure,Medium,42
+DIS03630,Supplier Failure,Low,67
+DIS03631,Port Closure,Medium,37
+DIS03632,Earthquake,High,38
+DIS03633,Port Closure,Medium,52
+DIS03634,Port Closure,Low,27
+DIS03635,Supplier Failure,High,24
+DIS03636,Supplier Failure,Medium,7
+DIS03637,Supplier Failure,High,80
+DIS03638,Port Closure,Low,93
+DIS03639,Flood,Low,51
+DIS03640,Earthquake,Medium,49
+DIS03641,Cyber Attack,Medium,33
+DIS03642,Earthquake,Low,55
+DIS03643,Port Closure,Low,89
+DIS03644,Earthquake,Medium,41
+DIS03645,Supplier Failure,High,68
+DIS03646,Cyber Attack,High,97
+DIS03647,Flood,High,98
+DIS03648,Cyber Attack,Medium,90
+DIS03649,Supplier Failure,Low,86
+DIS03650,Flood,Medium,61
+DIS03651,Supplier Failure,High,81
+DIS03652,Earthquake,Low,49
+DIS03653,Supplier Failure,High,7
+DIS03654,Earthquake,Medium,95
+DIS03655,Cyber Attack,High,26
+DIS03656,Supplier Failure,Medium,89
+DIS03657,Port Closure,Low,8
+DIS03658,Port Closure,Low,2
+DIS03659,Flood,High,75
+DIS03660,Supplier Failure,Medium,67
+DIS03661,Port Closure,Low,63
+DIS03662,Supplier Failure,Medium,17
+DIS03663,Cyber Attack,High,94
+DIS03664,Supplier Failure,High,44
+DIS03665,Earthquake,High,15
+DIS03666,Cyber Attack,Medium,78
+DIS03667,Flood,Medium,29
+DIS03668,Flood,Medium,90
+DIS03669,Cyber Attack,High,77
+DIS03670,Earthquake,Low,35
+DIS03671,Flood,Low,95
+DIS03672,Port Closure,Medium,79
+DIS03673,Supplier Failure,Low,94
+DIS03674,Cyber Attack,Medium,56
+DIS03675,Supplier Failure,Medium,53
+DIS03676,Flood,Low,100
+DIS03677,Flood,Low,7
+DIS03678,Cyber Attack,High,30
+DIS03679,Supplier Failure,Medium,77
+DIS03680,Port Closure,Medium,13
+DIS03681,Port Closure,High,46
+DIS03682,Cyber Attack,High,69
+DIS03683,Supplier Failure,Low,38
+DIS03684,Cyber Attack,Medium,9
+DIS03685,Cyber Attack,Medium,99
+DIS03686,Earthquake,High,20
+DIS03687,Supplier Failure,Low,7
+DIS03688,Flood,Low,3
+DIS03689,Flood,Medium,29
+DIS03690,Earthquake,Low,8
+DIS03691,Earthquake,Low,51
+DIS03692,Flood,Medium,82
+DIS03693,Cyber Attack,High,55
+DIS03694,Earthquake,Low,7
+DIS03695,Supplier Failure,Low,88
+DIS03696,Cyber Attack,Low,11
+DIS03697,Cyber Attack,High,20
+DIS03698,Flood,High,59
+DIS03699,Port Closure,Medium,10
+DIS03700,Port Closure,Low,50
+DIS03701,Earthquake,Low,93
+DIS03702,Port Closure,High,79
+DIS03703,Port Closure,High,70
+DIS03704,Flood,Medium,99
+DIS03705,Earthquake,Medium,5
+DIS03706,Port Closure,High,59
+DIS03707,Flood,Medium,51
+DIS03708,Port Closure,High,25
+DIS03709,Flood,Medium,88
+DIS03710,Supplier Failure,High,92
+DIS03711,Supplier Failure,Low,40
+DIS03712,Earthquake,Medium,15
+DIS03713,Supplier Failure,Low,79
+DIS03714,Earthquake,Medium,73
+DIS03715,Supplier Failure,Low,65
+DIS03716,Earthquake,High,88
+DIS03717,Flood,High,66
+DIS03718,Flood,Medium,6
+DIS03719,Port Closure,Low,79
+DIS03720,Earthquake,High,37
+DIS03721,Cyber Attack,High,82
+DIS03722,Flood,High,55
+DIS03723,Cyber Attack,High,65
+DIS03724,Flood,Low,27
+DIS03725,Port Closure,Medium,99
+DIS03726,Cyber Attack,Medium,31
+DIS03727,Flood,Low,84
+DIS03728,Cyber Attack,Low,42
+DIS03729,Port Closure,Medium,62
+DIS03730,Cyber Attack,Medium,81
+DIS03731,Flood,Medium,31
+DIS03732,Cyber Attack,High,62
+DIS03733,Flood,Low,23
+DIS03734,Earthquake,High,60
+DIS03735,Flood,High,8
+DIS03736,Supplier Failure,Medium,26
+DIS03737,Earthquake,Medium,38
+DIS03738,Port Closure,High,53
+DIS03739,Supplier Failure,Medium,96
+DIS03740,Cyber Attack,Medium,77
+DIS03741,Flood,High,87
+DIS03742,Cyber Attack,Medium,100
+DIS03743,Earthquake,High,54
+DIS03744,Flood,High,61
+DIS03745,Port Closure,High,37
+DIS03746,Port Closure,Low,31
+DIS03747,Supplier Failure,Medium,94
+DIS03748,Earthquake,High,34
+DIS03749,Flood,Medium,97
+DIS03750,Supplier Failure,Medium,3
+DIS03751,Cyber Attack,High,6
+DIS03752,Cyber Attack,Low,72
+DIS03753,Earthquake,High,77
+DIS03754,Supplier Failure,Low,32
+DIS03755,Flood,High,72
+DIS03756,Flood,Low,11
+DIS03757,Port Closure,High,67
+DIS03758,Flood,Low,51
+DIS03759,Earthquake,Low,2
+DIS03760,Cyber Attack,Medium,89
+DIS03761,Supplier Failure,High,50
+DIS03762,Flood,Low,3
+DIS03763,Earthquake,Low,7
+DIS03764,Flood,Medium,44
+DIS03765,Flood,Low,38
+DIS03766,Flood,Medium,27
+DIS03767,Earthquake,High,91
+DIS03768,Flood,High,89
+DIS03769,Earthquake,Medium,90
+DIS03770,Earthquake,Low,59
+DIS03771,Port Closure,Medium,72
+DIS03772,Flood,Low,45
+DIS03773,Supplier Failure,Medium,70
+DIS03774,Flood,Low,81
+DIS03775,Flood,High,7
+DIS03776,Supplier Failure,High,66
+DIS03777,Port Closure,Low,5
+DIS03778,Flood,Medium,95
+DIS03779,Supplier Failure,Medium,44
+DIS03780,Earthquake,Low,41
+DIS03781,Flood,Low,4
+DIS03782,Flood,Low,32
+DIS03783,Earthquake,Low,5
+DIS03784,Cyber Attack,Medium,82
+DIS03785,Flood,Low,15
+DIS03786,Port Closure,Low,9
+DIS03787,Port Closure,Low,13
+DIS03788,Port Closure,Medium,9
+DIS03789,Flood,High,33
+DIS03790,Port Closure,Medium,83
+DIS03791,Cyber Attack,Medium,61
+DIS03792,Flood,High,63
+DIS03793,Flood,Medium,36
+DIS03794,Supplier Failure,Medium,59
+DIS03795,Earthquake,Medium,7
+DIS03796,Earthquake,High,51
+DIS03797,Port Closure,Medium,67
+DIS03798,Earthquake,High,47
+DIS03799,Port Closure,Medium,46
+DIS03800,Port Closure,Medium,38
+DIS03801,Earthquake,High,51
+DIS03802,Supplier Failure,Medium,31
+DIS03803,Earthquake,Medium,39
+DIS03804,Cyber Attack,Medium,25
+DIS03805,Earthquake,Medium,64
+DIS03806,Flood,Low,3
+DIS03807,Supplier Failure,Low,10
+DIS03808,Cyber Attack,High,53
+DIS03809,Cyber Attack,High,41
+DIS03810,Supplier Failure,Medium,11
+DIS03811,Cyber Attack,Low,61
+DIS03812,Cyber Attack,Medium,8
+DIS03813,Earthquake,Low,21
+DIS03814,Flood,Low,57
+DIS03815,Port Closure,Medium,100
+DIS03816,Cyber Attack,Low,24
+DIS03817,Flood,High,78
+DIS03818,Cyber Attack,Low,55
+DIS03819,Port Closure,Low,5
+DIS03820,Earthquake,High,73
+DIS03821,Earthquake,Medium,55
+DIS03822,Earthquake,High,30
+DIS03823,Earthquake,Low,9
+DIS03824,Supplier Failure,Medium,23
+DIS03825,Earthquake,Low,54
+DIS03826,Flood,Low,68
+DIS03827,Port Closure,High,58
+DIS03828,Cyber Attack,Low,39
+DIS03829,Earthquake,Low,81
+DIS03830,Supplier Failure,High,15
+DIS03831,Cyber Attack,Low,66
+DIS03832,Flood,Low,62
+DIS03833,Flood,Low,3
+DIS03834,Port Closure,Low,2
+DIS03835,Port Closure,Low,88
+DIS03836,Supplier Failure,Low,17
+DIS03837,Cyber Attack,High,69
+DIS03838,Supplier Failure,High,35
+DIS03839,Flood,Medium,44
+DIS03840,Supplier Failure,Medium,24
+DIS03841,Cyber Attack,Medium,49
+DIS03842,Flood,High,59
+DIS03843,Flood,High,34
+DIS03844,Port Closure,High,35
+DIS03845,Cyber Attack,Medium,46
+DIS03846,Port Closure,High,17
+DIS03847,Earthquake,Low,66
+DIS03848,Cyber Attack,High,68
+DIS03849,Flood,Medium,26
+DIS03850,Flood,Medium,71
+DIS03851,Cyber Attack,Medium,43
+DIS03852,Earthquake,Medium,82
+DIS03853,Port Closure,Medium,41
+DIS03854,Supplier Failure,High,3
+DIS03855,Cyber Attack,High,90
+DIS03856,Flood,High,73
+DIS03857,Earthquake,Medium,21
+DIS03858,Earthquake,High,99
+DIS03859,Port Closure,Low,42
+DIS03860,Earthquake,Medium,43
+DIS03861,Earthquake,Medium,10
+DIS03862,Supplier Failure,High,34
+DIS03863,Flood,Medium,26
+DIS03864,Port Closure,Medium,27
+DIS03865,Supplier Failure,High,64
+DIS03866,Cyber Attack,Medium,59
+DIS03867,Cyber Attack,Low,52
+DIS03868,Cyber Attack,Low,52
+DIS03869,Cyber Attack,High,43
+DIS03870,Cyber Attack,High,79
+DIS03871,Flood,High,92
+DIS03872,Earthquake,Low,49
+DIS03873,Supplier Failure,Low,71
+DIS03874,Port Closure,Medium,44
+DIS03875,Cyber Attack,Medium,31
+DIS03876,Earthquake,Medium,54
+DIS03877,Cyber Attack,Medium,46
+DIS03878,Port Closure,High,43
+DIS03879,Cyber Attack,High,81
+DIS03880,Cyber Attack,High,7
+DIS03881,Earthquake,High,81
+DIS03882,Cyber Attack,Medium,56
+DIS03883,Port Closure,Low,54
+DIS03884,Earthquake,Medium,56
+DIS03885,Cyber Attack,High,100
+DIS03886,Earthquake,High,46
+DIS03887,Port Closure,Low,80
+DIS03888,Cyber Attack,High,84
+DIS03889,Flood,High,86
+DIS03890,Port Closure,High,80
+DIS03891,Flood,Medium,34
+DIS03892,Port Closure,Low,81
+DIS03893,Port Closure,Medium,14
+DIS03894,Flood,High,8
+DIS03895,Cyber Attack,Low,67
+DIS03896,Flood,High,79
+DIS03897,Flood,High,93
+DIS03898,Supplier Failure,Low,11
+DIS03899,Earthquake,Low,45
+DIS03900,Earthquake,High,98
+DIS03901,Earthquake,High,50
+DIS03902,Cyber Attack,High,38
+DIS03903,Flood,Medium,29
+DIS03904,Cyber Attack,High,53
+DIS03905,Port Closure,High,52
+DIS03906,Cyber Attack,Medium,24
+DIS03907,Port Closure,High,34
+DIS03908,Supplier Failure,High,88
+DIS03909,Port Closure,High,48
+DIS03910,Port Closure,Medium,57
+DIS03911,Flood,Low,41
+DIS03912,Supplier Failure,Medium,5
+DIS03913,Earthquake,Low,40
+DIS03914,Cyber Attack,Low,72
+DIS03915,Flood,Medium,69
+DIS03916,Cyber Attack,Low,87
+DIS03917,Port Closure,High,28
+DIS03918,Port Closure,Low,75
+DIS03919,Cyber Attack,Low,52
+DIS03920,Port Closure,Low,63
+DIS03921,Port Closure,Low,85
+DIS03922,Supplier Failure,Low,10
+DIS03923,Supplier Failure,High,23
+DIS03924,Supplier Failure,Medium,30
+DIS03925,Cyber Attack,Medium,55
+DIS03926,Cyber Attack,Medium,97
+DIS03927,Earthquake,High,1
+DIS03928,Port Closure,High,92
+DIS03929,Earthquake,Low,61
+DIS03930,Cyber Attack,Medium,51
+DIS03931,Port Closure,High,3
+DIS03932,Flood,High,50
+DIS03933,Supplier Failure,Medium,97
+DIS03934,Port Closure,High,94
+DIS03935,Flood,Low,30
+DIS03936,Port Closure,Low,25
+DIS03937,Supplier Failure,High,34
+DIS03938,Port Closure,Medium,97
+DIS03939,Flood,High,49
+DIS03940,Flood,High,56
+DIS03941,Cyber Attack,Low,4
+DIS03942,Supplier Failure,Low,12
+DIS03943,Supplier Failure,Medium,96
+DIS03944,Cyber Attack,Low,6
+DIS03945,Earthquake,Medium,63
+DIS03946,Supplier Failure,Medium,86
+DIS03947,Cyber Attack,Medium,3
+DIS03948,Earthquake,High,53
+DIS03949,Earthquake,High,95
+DIS03950,Earthquake,Medium,27
+DIS03951,Port Closure,Medium,98
+DIS03952,Supplier Failure,High,12
+DIS03953,Supplier Failure,High,83
+DIS03954,Earthquake,Medium,77
+DIS03955,Port Closure,High,68
+DIS03956,Flood,Medium,42
+DIS03957,Supplier Failure,Low,83
+DIS03958,Earthquake,High,91
+DIS03959,Port Closure,High,13
+DIS03960,Supplier Failure,High,31
+DIS03961,Supplier Failure,High,23
+DIS03962,Flood,High,46
+DIS03963,Flood,Low,73
+DIS03964,Flood,Medium,8
+DIS03965,Flood,Low,1
+DIS03966,Port Closure,High,20
+DIS03967,Flood,Medium,30
+DIS03968,Cyber Attack,Medium,1
+DIS03969,Flood,Medium,31
+DIS03970,Supplier Failure,Low,96
+DIS03971,Port Closure,High,88
+DIS03972,Earthquake,High,65
+DIS03973,Cyber Attack,Medium,1
+DIS03974,Earthquake,Medium,50
+DIS03975,Earthquake,High,100
+DIS03976,Supplier Failure,Medium,68
+DIS03977,Earthquake,Medium,90
+DIS03978,Port Closure,High,3
+DIS03979,Supplier Failure,Medium,83
+DIS03980,Flood,Medium,92
+DIS03981,Flood,Low,70
+DIS03982,Earthquake,Low,24
+DIS03983,Earthquake,High,91
+DIS03984,Supplier Failure,High,31
+DIS03985,Flood,Low,94
+DIS03986,Earthquake,High,43
+DIS03987,Earthquake,High,14
+DIS03988,Port Closure,Low,76
+DIS03989,Port Closure,Medium,48
+DIS03990,Cyber Attack,Low,65
+DIS03991,Supplier Failure,Medium,25
+DIS03992,Supplier Failure,High,60
+DIS03993,Flood,Low,68
+DIS03994,Port Closure,Medium,44
+DIS03995,Supplier Failure,Medium,28
+DIS03996,Supplier Failure,High,71
+DIS03997,Supplier Failure,Medium,48
+DIS03998,Cyber Attack,High,54
+DIS03999,Port Closure,High,75
+DIS04000,Cyber Attack,Low,33
+DIS04001,Earthquake,Medium,16
+DIS04002,Flood,Medium,56
+DIS04003,Flood,High,91
+DIS04004,Supplier Failure,High,65
+DIS04005,Flood,High,22
+DIS04006,Cyber Attack,Low,3
+DIS04007,Supplier Failure,Low,62
+DIS04008,Supplier Failure,Low,80
+DIS04009,Supplier Failure,High,31
+DIS04010,Flood,Medium,12
+DIS04011,Earthquake,High,92
+DIS04012,Cyber Attack,Medium,17
+DIS04013,Cyber Attack,High,79
+DIS04014,Port Closure,High,16
+DIS04015,Supplier Failure,Medium,51
+DIS04016,Cyber Attack,Low,19
+DIS04017,Flood,Medium,15
+DIS04018,Cyber Attack,High,92
+DIS04019,Earthquake,Medium,87
+DIS04020,Flood,Low,57
+DIS04021,Port Closure,High,99
+DIS04022,Cyber Attack,Low,9
+DIS04023,Port Closure,Low,97
+DIS04024,Earthquake,Medium,54
+DIS04025,Earthquake,High,50
+DIS04026,Port Closure,Medium,35
+DIS04027,Flood,High,13
+DIS04028,Port Closure,Medium,52
+DIS04029,Earthquake,Low,84
+DIS04030,Flood,High,28
+DIS04031,Earthquake,Low,97
+DIS04032,Supplier Failure,Medium,96
+DIS04033,Supplier Failure,Medium,18
+DIS04034,Port Closure,High,5
+DIS04035,Earthquake,High,70
+DIS04036,Supplier Failure,Medium,11
+DIS04037,Cyber Attack,Low,54
+DIS04038,Cyber Attack,High,24
+DIS04039,Cyber Attack,Medium,12
+DIS04040,Cyber Attack,High,6
+DIS04041,Supplier Failure,Medium,51
+DIS04042,Port Closure,Low,14
+DIS04043,Earthquake,Medium,28
+DIS04044,Flood,Low,49
+DIS04045,Earthquake,High,5
+DIS04046,Cyber Attack,Medium,27
+DIS04047,Earthquake,High,99
+DIS04048,Port Closure,High,32
+DIS04049,Earthquake,Medium,59
+DIS04050,Cyber Attack,High,48
+DIS04051,Port Closure,Medium,45
+DIS04052,Flood,High,73
+DIS04053,Earthquake,Low,82
+DIS04054,Port Closure,Medium,63
+DIS04055,Supplier Failure,Low,38
+DIS04056,Supplier Failure,Low,4
+DIS04057,Supplier Failure,Low,65
+DIS04058,Supplier Failure,Medium,86
+DIS04059,Port Closure,Medium,6
+DIS04060,Flood,High,19
+DIS04061,Flood,Medium,46
+DIS04062,Flood,Medium,14
+DIS04063,Port Closure,Medium,75
+DIS04064,Flood,Low,91
+DIS04065,Supplier Failure,Low,27
+DIS04066,Supplier Failure,Medium,18
+DIS04067,Earthquake,High,72
+DIS04068,Supplier Failure,High,98
+DIS04069,Flood,Medium,82
+DIS04070,Earthquake,Low,38
+DIS04071,Supplier Failure,Low,20
+DIS04072,Flood,Low,47
+DIS04073,Cyber Attack,High,63
+DIS04074,Cyber Attack,Low,39
+DIS04075,Port Closure,Medium,29
+DIS04076,Cyber Attack,Low,44
+DIS04077,Cyber Attack,High,56
+DIS04078,Flood,Medium,83
+DIS04079,Flood,Medium,40
+DIS04080,Supplier Failure,High,63
+DIS04081,Cyber Attack,Low,1
+DIS04082,Flood,Medium,39
+DIS04083,Supplier Failure,High,24
+DIS04084,Flood,Medium,14
+DIS04085,Cyber Attack,Medium,100
+DIS04086,Cyber Attack,Low,80
+DIS04087,Earthquake,High,31
+DIS04088,Flood,Medium,51
+DIS04089,Port Closure,Low,71
+DIS04090,Flood,High,49
+DIS04091,Cyber Attack,Low,50
+DIS04092,Earthquake,Medium,67
+DIS04093,Port Closure,Low,79
+DIS04094,Port Closure,Low,4
+DIS04095,Supplier Failure,High,76
+DIS04096,Flood,Medium,28
+DIS04097,Cyber Attack,High,25
+DIS04098,Earthquake,Medium,70
+DIS04099,Cyber Attack,Low,84
+DIS04100,Earthquake,Medium,34
+DIS04101,Earthquake,High,86
+DIS04102,Supplier Failure,High,99
+DIS04103,Port Closure,High,16
+DIS04104,Cyber Attack,Medium,83
+DIS04105,Flood,High,17
+DIS04106,Earthquake,Medium,79
+DIS04107,Cyber Attack,High,50
+DIS04108,Cyber Attack,Low,74
+DIS04109,Port Closure,Medium,74
+DIS04110,Supplier Failure,Low,28
+DIS04111,Port Closure,Medium,17
+DIS04112,Supplier Failure,Medium,29
+DIS04113,Earthquake,Medium,1
+DIS04114,Port Closure,Low,39
+DIS04115,Supplier Failure,High,33
+DIS04116,Earthquake,High,89
+DIS04117,Supplier Failure,High,42
+DIS04118,Supplier Failure,High,33
+DIS04119,Flood,Medium,60
+DIS04120,Cyber Attack,Medium,64
+DIS04121,Supplier Failure,High,19
+DIS04122,Port Closure,Low,36
+DIS04123,Cyber Attack,Medium,34
+DIS04124,Flood,High,10
+DIS04125,Supplier Failure,Low,55
+DIS04126,Cyber Attack,Medium,17
+DIS04127,Earthquake,Medium,72
+DIS04128,Earthquake,Low,95
+DIS04129,Port Closure,Medium,90
+DIS04130,Earthquake,High,74
+DIS04131,Port Closure,Low,53
+DIS04132,Earthquake,High,54
+DIS04133,Cyber Attack,Low,57
+DIS04134,Earthquake,High,74
+DIS04135,Port Closure,Medium,67
+DIS04136,Supplier Failure,Medium,62
+DIS04137,Cyber Attack,High,37
+DIS04138,Port Closure,Low,23
+DIS04139,Flood,High,63
+DIS04140,Supplier Failure,High,46
+DIS04141,Port Closure,High,1
+DIS04142,Port Closure,Medium,41
+DIS04143,Supplier Failure,Medium,93
+DIS04144,Earthquake,High,84
+DIS04145,Port Closure,Low,99
+DIS04146,Cyber Attack,Low,89
+DIS04147,Cyber Attack,Low,52
+DIS04148,Port Closure,Low,76
+DIS04149,Supplier Failure,Low,5
+DIS04150,Supplier Failure,High,59
+DIS04151,Flood,High,86
+DIS04152,Cyber Attack,High,4
+DIS04153,Flood,Medium,86
+DIS04154,Flood,High,14
+DIS04155,Supplier Failure,Medium,18
+DIS04156,Flood,Medium,25
+DIS04157,Supplier Failure,Medium,99
+DIS04158,Port Closure,Medium,20
+DIS04159,Cyber Attack,Medium,20
+DIS04160,Port Closure,Medium,8
+DIS04161,Cyber Attack,High,88
+DIS04162,Supplier Failure,Medium,94
+DIS04163,Flood,Medium,35
+DIS04164,Cyber Attack,Low,12
+DIS04165,Earthquake,Medium,70
+DIS04166,Cyber Attack,Medium,2
+DIS04167,Earthquake,High,78
+DIS04168,Flood,High,52
+DIS04169,Flood,Medium,1
+DIS04170,Supplier Failure,Medium,63
+DIS04171,Flood,High,26
+DIS04172,Supplier Failure,Medium,68
+DIS04173,Cyber Attack,Medium,48
+DIS04174,Supplier Failure,High,92
+DIS04175,Port Closure,High,97
+DIS04176,Supplier Failure,High,10
+DIS04177,Port Closure,Medium,43
+DIS04178,Cyber Attack,Low,57
+DIS04179,Flood,Low,72
+DIS04180,Earthquake,Low,33
+DIS04181,Earthquake,Medium,42
+DIS04182,Cyber Attack,Low,86
+DIS04183,Earthquake,High,20
+DIS04184,Port Closure,Medium,16
+DIS04185,Cyber Attack,Low,97
+DIS04186,Flood,Low,52
+DIS04187,Earthquake,Low,18
+DIS04188,Port Closure,Low,35
+DIS04189,Flood,Medium,18
+DIS04190,Earthquake,High,97
+DIS04191,Flood,High,87
+DIS04192,Port Closure,Medium,38
+DIS04193,Flood,Medium,52
+DIS04194,Supplier Failure,Medium,34
+DIS04195,Cyber Attack,High,23
+DIS04196,Earthquake,High,46
+DIS04197,Port Closure,Medium,100
+DIS04198,Earthquake,Low,37
+DIS04199,Cyber Attack,Medium,56
+DIS04200,Supplier Failure,Medium,96
+DIS04201,Flood,Low,58
+DIS04202,Earthquake,High,41
+DIS04203,Earthquake,High,13
+DIS04204,Flood,High,4
+DIS04205,Earthquake,Medium,48
+DIS04206,Cyber Attack,Low,17
+DIS04207,Cyber Attack,Low,33
+DIS04208,Earthquake,Medium,35
+DIS04209,Supplier Failure,Medium,43
+DIS04210,Port Closure,Medium,25
+DIS04211,Port Closure,Low,2
+DIS04212,Flood,High,44
+DIS04213,Port Closure,High,28
+DIS04214,Cyber Attack,High,38
+DIS04215,Supplier Failure,Low,18
+DIS04216,Earthquake,Medium,13
+DIS04217,Cyber Attack,High,66
+DIS04218,Supplier Failure,Low,39
+DIS04219,Flood,Low,19
+DIS04220,Cyber Attack,High,20
+DIS04221,Flood,Medium,17
+DIS04222,Supplier Failure,Medium,45
+DIS04223,Earthquake,Medium,11
+DIS04224,Flood,Medium,20
+DIS04225,Supplier Failure,High,34
+DIS04226,Earthquake,Low,35
+DIS04227,Cyber Attack,Low,6
+DIS04228,Supplier Failure,Medium,75
+DIS04229,Supplier Failure,High,23
+DIS04230,Flood,Medium,35
+DIS04231,Port Closure,High,60
+DIS04232,Flood,Low,76
+DIS04233,Flood,Low,67
+DIS04234,Port Closure,High,89
+DIS04235,Earthquake,High,71
+DIS04236,Flood,Medium,88
+DIS04237,Cyber Attack,High,48
+DIS04238,Flood,Low,8
+DIS04239,Port Closure,Medium,77
+DIS04240,Earthquake,High,90
+DIS04241,Earthquake,Low,70
+DIS04242,Port Closure,Medium,9
+DIS04243,Supplier Failure,Medium,14
+DIS04244,Earthquake,Medium,33
+DIS04245,Cyber Attack,Medium,96
+DIS04246,Supplier Failure,Low,54
+DIS04247,Earthquake,High,95
+DIS04248,Supplier Failure,Medium,49
+DIS04249,Port Closure,Low,95
+DIS04250,Flood,Low,82
+DIS04251,Supplier Failure,Medium,24
+DIS04252,Port Closure,Medium,59
+DIS04253,Earthquake,Medium,81
+DIS04254,Port Closure,Medium,8
+DIS04255,Port Closure,Medium,86
+DIS04256,Cyber Attack,Medium,12
+DIS04257,Port Closure,High,32
+DIS04258,Supplier Failure,Medium,32
+DIS04259,Flood,Low,29
+DIS04260,Earthquake,Medium,24
+DIS04261,Supplier Failure,High,22
+DIS04262,Port Closure,Medium,57
+DIS04263,Port Closure,Low,43
+DIS04264,Flood,Low,92
+DIS04265,Supplier Failure,High,56
+DIS04266,Supplier Failure,Low,18
+DIS04267,Supplier Failure,Low,34
+DIS04268,Cyber Attack,Low,73
+DIS04269,Earthquake,Medium,66
+DIS04270,Cyber Attack,Medium,64
+DIS04271,Earthquake,Medium,62
+DIS04272,Cyber Attack,Low,40
+DIS04273,Flood,Low,67
+DIS04274,Port Closure,Low,7
+DIS04275,Port Closure,High,76
+DIS04276,Port Closure,High,34
+DIS04277,Supplier Failure,Medium,97
+DIS04278,Earthquake,Low,5
+DIS04279,Flood,Low,58
+DIS04280,Port Closure,Medium,70
+DIS04281,Earthquake,High,72
+DIS04282,Port Closure,Low,98
+DIS04283,Port Closure,Low,77
+DIS04284,Cyber Attack,High,47
+DIS04285,Cyber Attack,High,31
+DIS04286,Supplier Failure,High,16
+DIS04287,Port Closure,Low,62
+DIS04288,Earthquake,Medium,74
+DIS04289,Flood,High,33
+DIS04290,Port Closure,Low,73
+DIS04291,Earthquake,Medium,80
+DIS04292,Supplier Failure,Low,12
+DIS04293,Cyber Attack,Medium,18
+DIS04294,Cyber Attack,Medium,40
+DIS04295,Flood,Low,46
+DIS04296,Supplier Failure,Low,64
+DIS04297,Flood,Low,88
+DIS04298,Earthquake,High,69
+DIS04299,Cyber Attack,Medium,15
+DIS04300,Earthquake,Medium,96
+DIS04301,Flood,Medium,33
+DIS04302,Flood,High,63
+DIS04303,Supplier Failure,Medium,11
+DIS04304,Flood,Medium,84
+DIS04305,Cyber Attack,High,11
+DIS04306,Flood,High,25
+DIS04307,Earthquake,Medium,98
+DIS04308,Earthquake,High,63
+DIS04309,Cyber Attack,High,47
+DIS04310,Flood,High,91
+DIS04311,Supplier Failure,High,27
+DIS04312,Flood,High,37
+DIS04313,Supplier Failure,Low,70
+DIS04314,Flood,Low,92
+DIS04315,Supplier Failure,High,94
+DIS04316,Supplier Failure,Low,42
+DIS04317,Earthquake,Medium,74
+DIS04318,Port Closure,High,68
+DIS04319,Earthquake,Low,92
+DIS04320,Flood,Low,15
+DIS04321,Flood,Medium,25
+DIS04322,Supplier Failure,High,88
+DIS04323,Earthquake,Low,2
+DIS04324,Flood,Low,21
+DIS04325,Supplier Failure,Medium,30
+DIS04326,Flood,Medium,13
+DIS04327,Flood,Medium,77
+DIS04328,Port Closure,Medium,9
+DIS04329,Supplier Failure,Medium,23
+DIS04330,Cyber Attack,Medium,52
+DIS04331,Flood,Low,85
+DIS04332,Supplier Failure,Medium,76
+DIS04333,Supplier Failure,Medium,63
+DIS04334,Port Closure,Low,87
+DIS04335,Supplier Failure,High,55
+DIS04336,Supplier Failure,Low,83
+DIS04337,Port Closure,High,1
+DIS04338,Earthquake,Low,31
+DIS04339,Supplier Failure,Medium,35
+DIS04340,Flood,Medium,25
+DIS04341,Earthquake,Medium,99
+DIS04342,Cyber Attack,Medium,21
+DIS04343,Port Closure,Low,64
+DIS04344,Supplier Failure,Low,28
+DIS04345,Supplier Failure,Low,77
+DIS04346,Earthquake,High,20
+DIS04347,Supplier Failure,High,35
+DIS04348,Cyber Attack,High,17
+DIS04349,Port Closure,Low,52
+DIS04350,Port Closure,Medium,70
+DIS04351,Supplier Failure,Low,86
+DIS04352,Supplier Failure,Low,94
+DIS04353,Earthquake,Medium,2
+DIS04354,Flood,Medium,56
+DIS04355,Flood,Medium,88
+DIS04356,Port Closure,Low,75
+DIS04357,Supplier Failure,High,8
+DIS04358,Earthquake,High,82
+DIS04359,Flood,High,43
+DIS04360,Earthquake,High,66
+DIS04361,Supplier Failure,Low,35
+DIS04362,Port Closure,Medium,70
+DIS04363,Flood,Low,32
+DIS04364,Flood,High,28
+DIS04365,Supplier Failure,Medium,89
+DIS04366,Port Closure,Low,53
+DIS04367,Supplier Failure,Medium,29
+DIS04368,Port Closure,High,75
+DIS04369,Cyber Attack,Low,17
+DIS04370,Flood,High,8
+DIS04371,Flood,High,45
+DIS04372,Earthquake,Medium,40
+DIS04373,Flood,High,17
+DIS04374,Cyber Attack,Low,98
+DIS04375,Port Closure,High,21
+DIS04376,Cyber Attack,High,27
+DIS04377,Earthquake,Medium,68
+DIS04378,Port Closure,Low,76
+DIS04379,Cyber Attack,Low,72
+DIS04380,Flood,High,76
+DIS04381,Earthquake,Low,95
+DIS04382,Cyber Attack,Medium,90
+DIS04383,Cyber Attack,Low,70
+DIS04384,Port Closure,Medium,49
+DIS04385,Earthquake,High,26
+DIS04386,Supplier Failure,Medium,40
+DIS04387,Flood,Low,79
+DIS04388,Cyber Attack,Low,74
+DIS04389,Supplier Failure,Medium,1
+DIS04390,Cyber Attack,High,47
+DIS04391,Supplier Failure,Medium,26
+DIS04392,Supplier Failure,Low,84
+DIS04393,Cyber Attack,Low,45
+DIS04394,Flood,High,35
+DIS04395,Supplier Failure,Low,38
+DIS04396,Earthquake,High,1
+DIS04397,Flood,High,94
+DIS04398,Flood,High,69
+DIS04399,Port Closure,Low,57
+DIS04400,Supplier Failure,Low,67
+DIS04401,Port Closure,Low,51
+DIS04402,Port Closure,High,56
+DIS04403,Earthquake,Low,8
+DIS04404,Cyber Attack,Low,21
+DIS04405,Cyber Attack,High,82
+DIS04406,Supplier Failure,Low,52
+DIS04407,Supplier Failure,High,81
+DIS04408,Flood,Medium,84
+DIS04409,Cyber Attack,High,66
+DIS04410,Cyber Attack,High,14
+DIS04411,Port Closure,High,61
+DIS04412,Cyber Attack,Low,49
+DIS04413,Supplier Failure,Medium,27
+DIS04414,Flood,High,61
+DIS04415,Port Closure,High,2
+DIS04416,Port Closure,Medium,83
+DIS04417,Port Closure,Medium,3
+DIS04418,Flood,Low,93
+DIS04419,Earthquake,Low,4
+DIS04420,Flood,High,19
+DIS04421,Flood,High,75
+DIS04422,Earthquake,High,87
+DIS04423,Supplier Failure,High,64
+DIS04424,Flood,Medium,66
+DIS04425,Supplier Failure,High,10
+DIS04426,Cyber Attack,Medium,84
+DIS04427,Flood,High,1
+DIS04428,Earthquake,Low,21
+DIS04429,Flood,Low,78
+DIS04430,Flood,Low,29
+DIS04431,Flood,High,77
+DIS04432,Flood,High,8
+DIS04433,Supplier Failure,High,54
+DIS04434,Supplier Failure,Medium,56
+DIS04435,Earthquake,Low,67
+DIS04436,Earthquake,High,89
+DIS04437,Cyber Attack,Low,87
+DIS04438,Supplier Failure,Medium,21
+DIS04439,Cyber Attack,Medium,3
+DIS04440,Supplier Failure,High,37
+DIS04441,Cyber Attack,High,6
+DIS04442,Port Closure,High,40
+DIS04443,Port Closure,Medium,100
+DIS04444,Port Closure,Low,3
+DIS04445,Cyber Attack,Low,100
+DIS04446,Port Closure,High,22
+DIS04447,Port Closure,Low,48
+DIS04448,Supplier Failure,Low,63
+DIS04449,Earthquake,Low,12
+DIS04450,Earthquake,Low,70
+DIS04451,Cyber Attack,Medium,52
+DIS04452,Flood,Low,62
+DIS04453,Cyber Attack,Low,93
+DIS04454,Cyber Attack,Medium,49
+DIS04455,Port Closure,High,81
+DIS04456,Flood,Medium,74
+DIS04457,Supplier Failure,Medium,83
+DIS04458,Flood,High,18
+DIS04459,Supplier Failure,Low,77
+DIS04460,Port Closure,Low,50
+DIS04461,Port Closure,Medium,33
+DIS04462,Port Closure,High,9
+DIS04463,Earthquake,Medium,32
+DIS04464,Flood,Medium,57
+DIS04465,Supplier Failure,Low,95
+DIS04466,Cyber Attack,Low,97
+DIS04467,Supplier Failure,High,6
+DIS04468,Cyber Attack,Medium,54
+DIS04469,Cyber Attack,Low,53
+DIS04470,Flood,Medium,71
+DIS04471,Port Closure,Low,49
+DIS04472,Cyber Attack,Low,65
+DIS04473,Flood,High,94
+DIS04474,Supplier Failure,Medium,28
+DIS04475,Supplier Failure,Low,84
+DIS04476,Port Closure,Medium,38
+DIS04477,Cyber Attack,Low,56
+DIS04478,Cyber Attack,Medium,20
+DIS04479,Supplier Failure,Low,10
+DIS04480,Port Closure,Low,83
+DIS04481,Port Closure,Low,79
+DIS04482,Earthquake,High,27
+DIS04483,Supplier Failure,High,78
+DIS04484,Port Closure,Low,98
+DIS04485,Cyber Attack,Low,20
+DIS04486,Earthquake,High,47
+DIS04487,Flood,Medium,58
+DIS04488,Earthquake,High,37
+DIS04489,Supplier Failure,Medium,35
+DIS04490,Earthquake,Medium,59
+DIS04491,Port Closure,High,40
+DIS04492,Earthquake,Low,85
+DIS04493,Earthquake,High,87
+DIS04494,Earthquake,Medium,98
+DIS04495,Earthquake,Low,34
+DIS04496,Supplier Failure,High,85
+DIS04497,Cyber Attack,Low,58
+DIS04498,Earthquake,High,34
+DIS04499,Earthquake,Low,44
+DIS04500,Port Closure,Medium,36
+DIS04501,Port Closure,Medium,47
+DIS04502,Earthquake,Medium,25
+DIS04503,Supplier Failure,Low,46
+DIS04504,Earthquake,Medium,33
+DIS04505,Earthquake,Medium,65
+DIS04506,Flood,Low,30
+DIS04507,Cyber Attack,Medium,66
+DIS04508,Cyber Attack,Medium,11
+DIS04509,Supplier Failure,Medium,74
+DIS04510,Supplier Failure,Medium,10
+DIS04511,Flood,Low,61
+DIS04512,Port Closure,Low,54
+DIS04513,Flood,Medium,69
+DIS04514,Cyber Attack,Low,84
+DIS04515,Port Closure,Low,30
+DIS04516,Port Closure,High,19
+DIS04517,Cyber Attack,Low,77
+DIS04518,Supplier Failure,High,20
+DIS04519,Earthquake,Medium,45
+DIS04520,Cyber Attack,High,69
+DIS04521,Flood,Low,72
+DIS04522,Flood,Medium,51
+DIS04523,Supplier Failure,High,94
+DIS04524,Port Closure,High,78
+DIS04525,Supplier Failure,Low,71
+DIS04526,Cyber Attack,Medium,43
+DIS04527,Flood,Low,38
+DIS04528,Supplier Failure,Low,46
+DIS04529,Flood,Medium,9
+DIS04530,Earthquake,High,97
+DIS04531,Earthquake,Low,7
+DIS04532,Flood,Low,4
+DIS04533,Port Closure,High,5
+DIS04534,Earthquake,Low,1
+DIS04535,Port Closure,Low,91
+DIS04536,Port Closure,Low,68
+DIS04537,Supplier Failure,High,28
+DIS04538,Cyber Attack,Medium,60
+DIS04539,Flood,Medium,15
+DIS04540,Cyber Attack,Medium,45
+DIS04541,Port Closure,Low,40
+DIS04542,Cyber Attack,Low,30
+DIS04543,Supplier Failure,Medium,81
+DIS04544,Port Closure,Medium,8
+DIS04545,Port Closure,Medium,14
+DIS04546,Port Closure,Low,61
+DIS04547,Earthquake,Medium,92
+DIS04548,Port Closure,Medium,43
+DIS04549,Cyber Attack,Low,52
+DIS04550,Flood,Medium,67
+DIS04551,Port Closure,High,51
+DIS04552,Supplier Failure,Medium,71
+DIS04553,Flood,High,38
+DIS04554,Flood,Low,17
+DIS04555,Cyber Attack,Low,73
+DIS04556,Supplier Failure,Medium,90
+DIS04557,Port Closure,Medium,16
+DIS04558,Supplier Failure,High,10
+DIS04559,Supplier Failure,Medium,39
+DIS04560,Earthquake,Medium,88
+DIS04561,Earthquake,Low,89
+DIS04562,Earthquake,Low,77
+DIS04563,Cyber Attack,Low,48
+DIS04564,Supplier Failure,High,89
+DIS04565,Cyber Attack,Low,44
+DIS04566,Earthquake,Low,59
+DIS04567,Flood,High,99
+DIS04568,Cyber Attack,Medium,76
+DIS04569,Supplier Failure,Medium,14
+DIS04570,Supplier Failure,Medium,44
+DIS04571,Flood,Medium,54
+DIS04572,Earthquake,Medium,80
+DIS04573,Earthquake,Medium,93
+DIS04574,Earthquake,Low,77
+DIS04575,Supplier Failure,Low,10
+DIS04576,Port Closure,Medium,17
+DIS04577,Flood,High,21
+DIS04578,Cyber Attack,Low,26
+DIS04579,Flood,High,97
+DIS04580,Flood,Medium,17
+DIS04581,Port Closure,Medium,24
+DIS04582,Cyber Attack,Low,71
+DIS04583,Flood,High,91
+DIS04584,Flood,Low,84
+DIS04585,Earthquake,Medium,86
+DIS04586,Cyber Attack,Medium,83
+DIS04587,Supplier Failure,Low,36
+DIS04588,Port Closure,Medium,28
+DIS04589,Port Closure,Low,39
+DIS04590,Port Closure,Medium,68
+DIS04591,Supplier Failure,High,5
+DIS04592,Earthquake,Low,54
+DIS04593,Supplier Failure,Low,51
+DIS04594,Port Closure,Medium,81
+DIS04595,Flood,High,8
+DIS04596,Supplier Failure,High,4
+DIS04597,Flood,Low,76
+DIS04598,Supplier Failure,Medium,60
+DIS04599,Supplier Failure,Medium,55
+DIS04600,Flood,Low,93
+DIS04601,Port Closure,High,31
+DIS04602,Cyber Attack,High,25
+DIS04603,Port Closure,Medium,46
+DIS04604,Cyber Attack,Medium,26
+DIS04605,Supplier Failure,Low,77
+DIS04606,Earthquake,Medium,71
+DIS04607,Port Closure,High,59
+DIS04608,Supplier Failure,Medium,40
+DIS04609,Earthquake,High,63
+DIS04610,Supplier Failure,High,58
+DIS04611,Cyber Attack,Low,48
+DIS04612,Port Closure,High,34
+DIS04613,Port Closure,High,95
+DIS04614,Supplier Failure,Low,35
+DIS04615,Earthquake,Low,50
+DIS04616,Flood,Low,1
+DIS04617,Flood,Low,22
+DIS04618,Flood,Medium,62
+DIS04619,Cyber Attack,Medium,84
+DIS04620,Port Closure,Medium,22
+DIS04621,Cyber Attack,High,67
+DIS04622,Cyber Attack,High,20
+DIS04623,Port Closure,Low,100
+DIS04624,Earthquake,Low,100
+DIS04625,Port Closure,Medium,58
+DIS04626,Cyber Attack,High,43
+DIS04627,Port Closure,Low,32
+DIS04628,Port Closure,Low,22
+DIS04629,Cyber Attack,High,43
+DIS04630,Flood,Medium,74
+DIS04631,Earthquake,Medium,64
+DIS04632,Cyber Attack,Low,54
+DIS04633,Earthquake,High,15
+DIS04634,Earthquake,Medium,83
+DIS04635,Port Closure,Medium,28
+DIS04636,Flood,Medium,49
+DIS04637,Supplier Failure,Medium,46
+DIS04638,Flood,High,57
+DIS04639,Port Closure,Medium,4
+DIS04640,Flood,High,94
+DIS04641,Earthquake,High,71
+DIS04642,Port Closure,Medium,51
+DIS04643,Earthquake,High,7
+DIS04644,Cyber Attack,Medium,53
+DIS04645,Flood,Medium,29
+DIS04646,Supplier Failure,Low,36
+DIS04647,Cyber Attack,High,49
+DIS04648,Earthquake,Low,49
+DIS04649,Earthquake,Medium,68
+DIS04650,Supplier Failure,Low,32
+DIS04651,Cyber Attack,Low,15
+DIS04652,Cyber Attack,Low,20
+DIS04653,Port Closure,Medium,35
+DIS04654,Earthquake,Medium,86
+DIS04655,Earthquake,Medium,89
+DIS04656,Supplier Failure,High,78
+DIS04657,Cyber Attack,High,35
+DIS04658,Cyber Attack,Low,32
+DIS04659,Port Closure,High,63
+DIS04660,Flood,Medium,32
+DIS04661,Port Closure,Medium,43
+DIS04662,Flood,Low,47
+DIS04663,Earthquake,High,88
+DIS04664,Supplier Failure,High,29
+DIS04665,Port Closure,High,37
+DIS04666,Supplier Failure,Low,95
+DIS04667,Flood,Medium,52
+DIS04668,Earthquake,Medium,93
+DIS04669,Earthquake,High,78
+DIS04670,Cyber Attack,High,46
+DIS04671,Supplier Failure,Low,29
+DIS04672,Supplier Failure,Low,98
+DIS04673,Earthquake,Medium,2
+DIS04674,Supplier Failure,Low,77
+DIS04675,Supplier Failure,Medium,84
+DIS04676,Supplier Failure,High,4
+DIS04677,Flood,High,87
+DIS04678,Flood,Low,81
+DIS04679,Flood,Low,43
+DIS04680,Flood,Low,73
+DIS04681,Cyber Attack,Medium,25
+DIS04682,Port Closure,High,60
+DIS04683,Port Closure,Low,89
+DIS04684,Flood,High,45
+DIS04685,Port Closure,High,52
+DIS04686,Port Closure,Low,92
+DIS04687,Cyber Attack,Medium,50
+DIS04688,Earthquake,High,13
+DIS04689,Supplier Failure,Medium,57
+DIS04690,Cyber Attack,Medium,58
+DIS04691,Port Closure,Medium,32
+DIS04692,Port Closure,Low,28
+DIS04693,Port Closure,High,6
+DIS04694,Supplier Failure,Low,79
+DIS04695,Earthquake,Medium,15
+DIS04696,Port Closure,Medium,68
+DIS04697,Port Closure,Medium,31
+DIS04698,Supplier Failure,High,27
+DIS04699,Supplier Failure,High,95
+DIS04700,Cyber Attack,Low,69
+DIS04701,Flood,Low,66
+DIS04702,Cyber Attack,Low,100
+DIS04703,Port Closure,High,64
+DIS04704,Port Closure,Low,93
+DIS04705,Supplier Failure,High,43
+DIS04706,Port Closure,Low,11
+DIS04707,Cyber Attack,Low,41
+DIS04708,Earthquake,High,60
+DIS04709,Cyber Attack,Low,78
+DIS04710,Supplier Failure,Low,27
+DIS04711,Earthquake,High,44
+DIS04712,Cyber Attack,High,50
+DIS04713,Flood,High,51
+DIS04714,Supplier Failure,High,8
+DIS04715,Flood,Medium,32
+DIS04716,Flood,High,93
+DIS04717,Port Closure,Medium,81
+DIS04718,Cyber Attack,High,71
+DIS04719,Cyber Attack,Low,10
+DIS04720,Flood,High,62
+DIS04721,Supplier Failure,High,96
+DIS04722,Earthquake,High,58
+DIS04723,Earthquake,Low,50
+DIS04724,Cyber Attack,Low,79
+DIS04725,Flood,Medium,89
+DIS04726,Supplier Failure,Medium,89
+DIS04727,Supplier Failure,Low,98
+DIS04728,Cyber Attack,Low,38
+DIS04729,Earthquake,Medium,81
+DIS04730,Flood,Low,82
+DIS04731,Supplier Failure,High,57
+DIS04732,Earthquake,High,94
+DIS04733,Earthquake,Medium,9
+DIS04734,Flood,Low,74
+DIS04735,Flood,Low,50
+DIS04736,Supplier Failure,Low,81
+DIS04737,Earthquake,Low,1
+DIS04738,Supplier Failure,Low,80
+DIS04739,Port Closure,Medium,2
+DIS04740,Cyber Attack,High,67
+DIS04741,Supplier Failure,Low,32
+DIS04742,Flood,Medium,48
+DIS04743,Supplier Failure,Medium,62
+DIS04744,Earthquake,Low,22
+DIS04745,Cyber Attack,Medium,27
+DIS04746,Earthquake,Medium,19
+DIS04747,Supplier Failure,Low,99
+DIS04748,Earthquake,Medium,74
+DIS04749,Supplier Failure,High,53
+DIS04750,Cyber Attack,Low,80
+DIS04751,Port Closure,Medium,91
+DIS04752,Supplier Failure,Low,5
+DIS04753,Flood,Low,14
+DIS04754,Earthquake,Medium,72
+DIS04755,Earthquake,High,44
+DIS04756,Port Closure,Low,45
+DIS04757,Cyber Attack,Low,83
+DIS04758,Earthquake,High,43
+DIS04759,Cyber Attack,Low,90
+DIS04760,Supplier Failure,High,95
+DIS04761,Earthquake,High,55
+DIS04762,Cyber Attack,Low,14
+DIS04763,Flood,Medium,84
+DIS04764,Port Closure,High,66
+DIS04765,Cyber Attack,Medium,43
+DIS04766,Port Closure,Low,34
+DIS04767,Supplier Failure,High,8
+DIS04768,Earthquake,Low,60
+DIS04769,Cyber Attack,High,59
+DIS04770,Flood,High,42
+DIS04771,Flood,Low,43
+DIS04772,Port Closure,High,11
+DIS04773,Flood,Medium,12
+DIS04774,Supplier Failure,Medium,40
+DIS04775,Supplier Failure,High,18
+DIS04776,Supplier Failure,Medium,26
+DIS04777,Earthquake,Low,48
+DIS04778,Earthquake,High,79
+DIS04779,Cyber Attack,Low,23
+DIS04780,Port Closure,High,72
+DIS04781,Port Closure,Medium,67
+DIS04782,Supplier Failure,High,51
+DIS04783,Flood,Medium,81
+DIS04784,Supplier Failure,Medium,12
+DIS04785,Cyber Attack,Low,45
+DIS04786,Supplier Failure,Low,33
+DIS04787,Flood,Low,41
+DIS04788,Port Closure,Medium,61
+DIS04789,Port Closure,Low,31
+DIS04790,Flood,High,6
+DIS04791,Cyber Attack,Low,53
+DIS04792,Port Closure,Low,26
+DIS04793,Cyber Attack,Medium,57
+DIS04794,Port Closure,Low,73
+DIS04795,Earthquake,High,85
+DIS04796,Port Closure,High,91
+DIS04797,Flood,Medium,73
+DIS04798,Cyber Attack,Medium,35
+DIS04799,Flood,Low,100
+DIS04800,Flood,Low,51
+DIS04801,Supplier Failure,Low,74
+DIS04802,Supplier Failure,Low,88
+DIS04803,Cyber Attack,High,58
+DIS04804,Flood,Low,2
+DIS04805,Earthquake,High,70
+DIS04806,Flood,High,30
+DIS04807,Port Closure,High,38
+DIS04808,Cyber Attack,Medium,62
+DIS04809,Port Closure,High,81
+DIS04810,Port Closure,Medium,36
+DIS04811,Cyber Attack,Medium,28
+DIS04812,Port Closure,High,58
+DIS04813,Supplier Failure,High,72
+DIS04814,Flood,Low,67
+DIS04815,Port Closure,High,18
+DIS04816,Flood,Medium,33
+DIS04817,Cyber Attack,High,84
+DIS04818,Earthquake,Low,8
+DIS04819,Flood,Medium,27
+DIS04820,Flood,Medium,44
+DIS04821,Supplier Failure,Low,62
+DIS04822,Flood,High,65
+DIS04823,Supplier Failure,Low,8
+DIS04824,Earthquake,Medium,17
+DIS04825,Earthquake,Low,79
+DIS04826,Earthquake,High,31
+DIS04827,Flood,High,55
+DIS04828,Flood,Medium,51
+DIS04829,Earthquake,Low,86
+DIS04830,Flood,High,67
+DIS04831,Port Closure,High,99
+DIS04832,Port Closure,Medium,75
+DIS04833,Supplier Failure,Medium,75
+DIS04834,Earthquake,Medium,32
+DIS04835,Cyber Attack,Medium,22
+DIS04836,Port Closure,Low,7
+DIS04837,Flood,Medium,6
+DIS04838,Flood,Medium,53
+DIS04839,Earthquake,Medium,12
+DIS04840,Cyber Attack,Medium,54
+DIS04841,Flood,Low,10
+DIS04842,Cyber Attack,Medium,70
+DIS04843,Flood,Medium,52
+DIS04844,Earthquake,High,90
+DIS04845,Flood,Medium,67
+DIS04846,Port Closure,Low,5
+DIS04847,Earthquake,Medium,88
+DIS04848,Flood,Low,6
+DIS04849,Supplier Failure,High,33
+DIS04850,Port Closure,Low,25
+DIS04851,Cyber Attack,Medium,8
+DIS04852,Port Closure,High,47
+DIS04853,Flood,Low,11
+DIS04854,Port Closure,Medium,84
+DIS04855,Port Closure,High,53
+DIS04856,Port Closure,Medium,11
+DIS04857,Cyber Attack,High,57
+DIS04858,Cyber Attack,Medium,91
+DIS04859,Earthquake,Low,6
+DIS04860,Earthquake,Low,83
+DIS04861,Earthquake,High,23
+DIS04862,Port Closure,High,78
+DIS04863,Earthquake,Low,84
+DIS04864,Cyber Attack,High,79
+DIS04865,Port Closure,High,64
+DIS04866,Earthquake,Low,7
+DIS04867,Earthquake,High,45
+DIS04868,Port Closure,High,90
+DIS04869,Earthquake,Low,99
+DIS04870,Cyber Attack,Medium,41
+DIS04871,Supplier Failure,High,76
+DIS04872,Earthquake,High,15
+DIS04873,Port Closure,High,77
+DIS04874,Earthquake,High,63
+DIS04875,Earthquake,Low,46
+DIS04876,Cyber Attack,Low,25
+DIS04877,Port Closure,Medium,46
+DIS04878,Earthquake,Low,41
+DIS04879,Port Closure,High,49
+DIS04880,Supplier Failure,High,11
+DIS04881,Port Closure,Medium,80
+DIS04882,Port Closure,Low,9
+DIS04883,Earthquake,High,100
+DIS04884,Cyber Attack,Medium,17
+DIS04885,Earthquake,Low,77
+DIS04886,Earthquake,Medium,61
+DIS04887,Port Closure,High,10
+DIS04888,Flood,High,73
+DIS04889,Supplier Failure,Low,100
+DIS04890,Earthquake,Medium,79
+DIS04891,Flood,Medium,99
+DIS04892,Port Closure,High,60
+DIS04893,Flood,Low,60
+DIS04894,Flood,High,3
+DIS04895,Port Closure,Medium,51
+DIS04896,Port Closure,Medium,65
+DIS04897,Flood,High,10
+DIS04898,Supplier Failure,Low,4
+DIS04899,Supplier Failure,Medium,86
+DIS04900,Port Closure,Medium,26
+DIS04901,Earthquake,Low,84
+DIS04902,Supplier Failure,Low,67
+DIS04903,Earthquake,High,16
+DIS04904,Cyber Attack,High,1
+DIS04905,Earthquake,Low,36
+DIS04906,Port Closure,Low,29
+DIS04907,Supplier Failure,High,94
+DIS04908,Earthquake,High,96
+DIS04909,Earthquake,Medium,90
+DIS04910,Cyber Attack,High,83
+DIS04911,Port Closure,High,65
+DIS04912,Earthquake,High,63
+DIS04913,Earthquake,High,78
+DIS04914,Earthquake,High,4
+DIS04915,Earthquake,High,82
+DIS04916,Supplier Failure,Medium,75
+DIS04917,Port Closure,High,65
+DIS04918,Cyber Attack,High,64
+DIS04919,Supplier Failure,Medium,41
+DIS04920,Port Closure,Medium,14
+DIS04921,Port Closure,Medium,29
+DIS04922,Cyber Attack,High,33
+DIS04923,Flood,Medium,67
+DIS04924,Earthquake,High,68
+DIS04925,Supplier Failure,Low,12
+DIS04926,Earthquake,Medium,55
+DIS04927,Supplier Failure,Medium,62
+DIS04928,Cyber Attack,High,90
+DIS04929,Port Closure,Low,18
+DIS04930,Cyber Attack,Medium,27
+DIS04931,Cyber Attack,Low,14
+DIS04932,Port Closure,Low,37
+DIS04933,Port Closure,Medium,11
+DIS04934,Flood,High,49
+DIS04935,Flood,Low,35
+DIS04936,Earthquake,Medium,82
+DIS04937,Port Closure,Medium,20
+DIS04938,Earthquake,Medium,36
+DIS04939,Supplier Failure,Medium,72
+DIS04940,Cyber Attack,High,48
+DIS04941,Supplier Failure,Medium,12
+DIS04942,Supplier Failure,High,51
+DIS04943,Cyber Attack,Low,31
+DIS04944,Earthquake,Low,65
+DIS04945,Earthquake,Medium,89
+DIS04946,Cyber Attack,Low,99
+DIS04947,Cyber Attack,Medium,53
+DIS04948,Cyber Attack,High,37
+DIS04949,Supplier Failure,High,89
+DIS04950,Port Closure,High,47
+DIS04951,Earthquake,Medium,8
+DIS04952,Flood,Medium,33
+DIS04953,Cyber Attack,Low,7
+DIS04954,Cyber Attack,Low,3
+DIS04955,Supplier Failure,Medium,17
+DIS04956,Cyber Attack,High,13
+DIS04957,Port Closure,High,90
+DIS04958,Flood,High,66
+DIS04959,Flood,Medium,73
+DIS04960,Flood,Low,23
+DIS04961,Supplier Failure,Low,89
+DIS04962,Earthquake,Low,58
+DIS04963,Flood,High,2
+DIS04964,Supplier Failure,Medium,92
+DIS04965,Supplier Failure,Medium,100
+DIS04966,Earthquake,Medium,64
+DIS04967,Cyber Attack,High,47
+DIS04968,Flood,Medium,22
+DIS04969,Port Closure,Low,13
+DIS04970,Supplier Failure,Low,93
+DIS04971,Cyber Attack,High,37
+DIS04972,Cyber Attack,High,72
+DIS04973,Supplier Failure,Medium,87
+DIS04974,Port Closure,Low,77
+DIS04975,Flood,Low,40
+DIS04976,Earthquake,High,10
+DIS04977,Flood,High,57
+DIS04978,Earthquake,High,86
+DIS04979,Cyber Attack,High,11
+DIS04980,Supplier Failure,Low,65
+DIS04981,Cyber Attack,Low,7
+DIS04982,Earthquake,High,5
+DIS04983,Port Closure,High,46
+DIS04984,Cyber Attack,Low,25
+DIS04985,Supplier Failure,Medium,8
+DIS04986,Cyber Attack,Medium,100
+DIS04987,Earthquake,High,13
+DIS04988,Flood,High,49
+DIS04989,Cyber Attack,High,44
+DIS04990,Port Closure,Low,59
+DIS04991,Supplier Failure,Medium,87
+DIS04992,Port Closure,Low,37
+DIS04993,Supplier Failure,Medium,19
+DIS04994,Port Closure,Medium,40
+DIS04995,Earthquake,Medium,93
+DIS04996,Supplier Failure,High,92
+DIS04997,Flood,Medium,97
+DIS04998,Supplier Failure,Low,24
+DIS04999,Earthquake,Medium,36
+DIS05000,Port Closure,Medium,52

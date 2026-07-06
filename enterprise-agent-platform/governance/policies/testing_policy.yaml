@@ -1,0 +1,11 @@
+validation:
+  required: true
+
+compliance:
+  required: true
+
+execution:
+  allowed: true
+
+risk:
+  max_severity: High

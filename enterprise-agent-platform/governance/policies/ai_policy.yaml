@@ -1,0 +1,12 @@
+llm:
+  allow_web_search: false
+  allow_tool_calling: false
+  allow_hallucination: false
+
+output:
+  require_structured_output: true
+  max_report_length: 10000
+
+guardrails:
+  validate_input: true
+  validate_output: true
