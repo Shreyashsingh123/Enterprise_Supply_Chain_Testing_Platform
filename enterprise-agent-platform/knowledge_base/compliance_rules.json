@@ -1,0 +1,17 @@
+{
+  "ISO9001": [
+    "Supplier audit required",
+    "Quality monitoring required"
+  ],
+  "ISO28000": [
+    "Supply chain risk assessment required",
+    "Business continuity plan required"
+  ],
+  "SOX": [
+    "Audit trail required"
+  ],
+  "InternalPolicies": [
+    "Backup supplier required",
+    "Safety stock required"
+  ]
+}
