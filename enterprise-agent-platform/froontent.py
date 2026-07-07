@@ -1,3 +1,4 @@
+import os
 import streamlit as st
 import requests
 
@@ -10,7 +11,7 @@ from reportlab.platypus import (
 from reportlab.lib.styles import getSampleStyleSheet
 from reportlab.lib.enums import TA_CENTER
 
-API_URL = "http://127.0.0.1:8000"
+API_URL = os.getenv("API_URL", "http://127.0.0.1:8000")
 
 st.set_page_config(
     page_title="Supply Chain Multi-Agent Platform",
