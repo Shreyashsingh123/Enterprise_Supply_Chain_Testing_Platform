@@ -27,4 +27,5 @@ pytest
 jinja2
 dotenv
 streamlit
+reportlab
 python-jose[cryptography]
