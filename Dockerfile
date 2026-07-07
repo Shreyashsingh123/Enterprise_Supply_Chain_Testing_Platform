@@ -21,4 +21,6 @@ COPY enterprise-agent-platform ./
 
 EXPOSE 8000 8501
 
-CMD ["sh", "-c", "if [ \"$APP_TYPE\" = \"streamlit\" ]; then streamlit run froontent.py --server.address 0.0.0.0 --server.port ${PORT:-8501}; else uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}; fi"]
+COPY start.sh ./
+RUN chmod +x ./start.sh
+CMD ["./start.sh"]
