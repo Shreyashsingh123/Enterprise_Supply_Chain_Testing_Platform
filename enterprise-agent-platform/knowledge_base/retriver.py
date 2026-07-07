@@ -1,13 +1,14 @@
 # knowledge_base/retriever.py
 
 import chromadb
+import os
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
+PERSIST_DIR = os.getenv("CHROMA_PERSIST_DIR", str(BASE_DIR / "vector_store"))
+Path(PERSIST_DIR).mkdir(parents=True, exist_ok=True)
 
-client = chromadb.PersistentClient(
-    path=str(BASE_DIR / "vector_store")
-)
+client = chromadb.PersistentClient(path=PERSIST_DIR)
 
 
 def retrieve(

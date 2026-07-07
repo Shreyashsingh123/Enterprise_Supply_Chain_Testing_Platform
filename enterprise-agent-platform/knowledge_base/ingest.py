@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import chromadb
 from sentence_transformers import SentenceTransformer
@@ -6,14 +7,14 @@ from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR / "synthetic_data"
+PERSIST_DIR = os.getenv("CHROMA_PERSIST_DIR", str(BASE_DIR / "vector_store"))
+Path(PERSIST_DIR).mkdir(parents=True, exist_ok=True)
 
 model = SentenceTransformer(
     "all-MiniLM-L6-v2"
 )
 
-client = chromadb.PersistentClient(
-    path="vector_store"
-)
+client = chromadb.PersistentClient(path=PERSIST_DIR)
 
 def ingest_csv(
     csv_path: str,

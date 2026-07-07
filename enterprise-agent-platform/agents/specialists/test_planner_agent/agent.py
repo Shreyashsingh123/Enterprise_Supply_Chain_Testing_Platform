@@ -3,11 +3,17 @@ from .model import TestPlan
 from .prompt import PLANNER_PROMPT
 import os
 from dotenv import load_dotenv
+
 load_dotenv()
-MODEL_NAME=os.getenv("MODEL_NAME")
-planner_agent=Agent(
-    model=f"groq:{MODEL_NAME}",
-    output_type=TestPlan,
-    system_prompt=PLANNER_PROMPT,
-    retries=3
-)
+MODEL_NAME = os.getenv("MODEL_NAME", "llama-3.3-70b-versatile")
+
+planner_agent = None
+try:
+    planner_agent = Agent(
+        model=f"groq:{MODEL_NAME}",
+        output_type=TestPlan,
+        system_prompt=PLANNER_PROMPT,
+        retries=3,
+    )
+except Exception:
+    planner_agent = None

@@ -1,0 +1,9 @@
+[build]
+builder = "dockerfile"
+
+dockerfilePath = "Dockerfile"
+
+[deploy]
+startCommand = "sh -c 'if [ \"$APP_TYPE\" = \"streamlit\" ]; then streamlit run froontent.py --server.address 0.0.0.0 --server.port ${PORT:-8501}; else uvicorn api.main:app --host 0.0.0.0 --port ${PORT:-8000}; fi'"
+healthcheckPath = "/"
+healthcheckTimeout = 100
